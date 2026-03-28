@@ -1,0 +1,3012 @@
+16/04/2025, 16:26 - Messages and calls are end-to-end encrypted. Only people in this chat can read, listen to, or share them. *Learn more*.
+16/04/2025, 16:26 - Brown Jesus created group "Mini Abrar Project"
+16/04/2025, 16:26 - Brown Jesus added you
+16/04/2025, 16:26 - Brown Jesus updated the message timer. New messages will disappear from this chat 90 days after they're sent, except when kept. Tap to learn more.
+16/04/2025, 16:27 - Brown Jesus turned off disappearing messages. Tap to learn more.
+16/04/2025, 16:27 - Brown Jesus: https://github.com/masamasa59/ai-agent-papers?tab=readme-ov-file
+16/04/2025, 16:28 - Brown Jesus: GitHub repo containing research papers on AI
+16/04/2025, 16:28 - Brown Jesus: and all other academic papers related to AI <This message was edited>
+16/04/2025, 16:29 - Brown Jesus: https://www.linkedin.com/pulse/must-read-alert-top-10-ai-agent-research-papers-first-anshuman-jha-vd8zc/
+16/04/2025, 16:31 - Brown Jesus: https://www.analyticsvidhya.com/blog/2024/12/ai-agents-research-papers/#h-paper-8-large-language-model-based-multi-agents-a-survey-of-progress-and-challenges
+16/04/2025, 16:31 - Brown Jesus: https://www.analyticsvidhya.com/blog/2024/07/build-ai-agents-from-scratch/
+21/04/2025, 17:26 - Brown Jesus: This message was deleted
+21/04/2025, 17:28 - Brown Jesus: <Media omitted>
+27/04/2025, 16:33 - Brown Jesus: Who is our mini project guide?
+27/04/2025, 16:33 - Brown Jesus: Or faculty?
+27/04/2025, 16:59 - Abrar...: Salem sir
+27/04/2025, 17:00 - Brown Jesus: oh... jo thode mote hai?
+27/04/2025, 17:00 - Brown Jesus: ~thode~ mote
+27/04/2025, 17:00 - Abrar...: Hmm
+27/04/2025, 17:01 - Brown Jesus: you haven't seen him either?
+27/04/2025, 17:01 - Abrar...: Nope
+27/04/2025, 17:02 - Brown Jesus: damn, btw kon kon submit kare abhi abstract ya project idea?
+27/04/2025, 17:07 - Abrar...: I have no idea
+27/04/2025, 17:08 - Abrar...: For me to know
+What's happening in college I must attend classes
+27/04/2025, 17:08 - Abrar...: Which I have not been doing
+27/04/2025, 17:08 - Abrar...: Monday sei jaana hai classes ky
+27/04/2025, 17:11 - Brown Jesus: i was going through the ideas and there are three technologies or concepts i found interesting to work with
+
+agentic ai (with or without RAG)
+Model Context Protocol (basically lets ai do actual work)
+Large Context Model (basically more human than LLMs) <This message was edited>
+27/04/2025, 17:12 - Brown Jesus: sirf teen din hai college😭
+27/04/2025, 17:14 - Brown Jesus: just confirming, for the idea, we have to give a solution which solves a real world problem?
+27/04/2025, 17:14 - Abrar...: Kinda
+27/04/2025, 17:15 - Brown Jesus: okay
+27/04/2025, 17:15 - Brown Jesus: wyd right now?
+27/04/2025, 17:16 - Brown Jesus: tum bhi thode ideas suggest karo, based on these technologies
+27/04/2025, 17:28 - Abrar...: Namaz padhke aaya
+27/04/2025, 17:28 - Abrar...: Yes
+Will gpt
+27/04/2025, 17:29 - Brown Jesus: Crazy, how is summer going?
+27/04/2025, 17:29 - Brown Jesus: Is watermelon treating you good?
+27/04/2025, 17:30 - Abrar...: Sardi hogayi
+27/04/2025, 17:30 - Brown Jesus: Mai garam kardu?👉👈
+27/04/2025, 17:30 - Brown Jesus: 😞🔥
+27/04/2025, 17:30 - Abrar...: Hao
+27/04/2025, 17:30 - Abrar...: Pls
+27/04/2025, 17:30 - Brown Jesus: 😂😂😂😭😭
+27/04/2025, 17:30 - Abrar...: Send me those forehead pics😘
+27/04/2025, 17:31 - Brown Jesus: I was gonna tell you that you can visit my cats if you want
+27/04/2025, 17:31 - Brown Jesus: They at my home all alone
+27/04/2025, 17:31 - Brown Jesus: Ayyoo
+27/04/2025, 17:31 - Brown Jesus: 🗿😭
+27/04/2025, 17:31 - Abrar...: Wait
+Fr?
+27/04/2025, 17:32 - Brown Jesus: Yes, azeem ke cousin ke paas tha but now his parents are not allowing and also the heat wave and he doesn't have ac in that room in which he was keeping the cats
+27/04/2025, 17:32 - Abrar...: Damn
+27/04/2025, 17:32 - Brown Jesus: So we got them at my home, I told him that he can also visit, but he is going old city
+27/04/2025, 17:32 - Brown Jesus: And my kittens are full of energy and they need a human to play with
+27/04/2025, 17:33 - Abrar...: Dem
+27/04/2025, 17:33 - Abrar...: But who's feeding them?
+27/04/2025, 17:34 - Brown Jesus: My neighbours
+27/04/2025, 17:34 - Brown Jesus: And also cleaning the litter
+27/04/2025, 17:34 - Brown Jesus: But they are so bad at cleaning the litter they finished like 10 kgs of sand in like a week
+27/04/2025, 17:34 - Brown Jesus: 💀💀
+28/04/2025, 01:46 - Brown Jesus: Yo
+28/04/2025, 01:46 - Brown Jesus: Brainstorming ideas rn
+28/04/2025, 01:46 - Brown Jesus: Will send by morning
+28/04/2025, 05:33 - Brown Jesus: https://chatgpt.com/share/680ec5a8-fcc4-8001-96b5-16d5d7e95a72
+28/04/2025, 06:01 - Brown Jesus: the good ideas found :
+
+using MCP:
+1. gamified personal growth platform _(yes from me)_
+2. team project story mode _(yes from me)_
+
+using LCM:
+1. company knowledge base 
+2. ultimate world building game assistant
+3. debate master simulator/ dynamic debate engine on classic problems _(yes from me)_
+4. ethical decision maker _(yes from me)_
+5. LCM-powered Quranic Contextual Understanding Assistant _(yes from me)_
+28/04/2025, 06:02 - Brown Jesus: medical ke bhi ache the but I wanna avoid that cos Abdullah wo log bhi woi karre
+28/04/2025, 13:56 - Abrar...: Here are multiple AI mini project ideas, very concise and ready for your selection:
+
+
+---
+
+1. Fake News Detection
+
+> Classify news as real or fake using NLP.
+
+
+
+2. Movie Recommendation System
+
+> Suggest movies based on user ratings using Collaborative Filtering.
+
+
+
+3. Handwritten Digit Recognition
+
+> Use MNIST dataset + CNN to classify digits 0–9.
+
+
+
+4. Chatbot for College Queries
+
+> A rule-based or ML-based chatbot answering common college FAQs.
+
+
+
+5. Plant Disease Detection
+
+> Identify plant diseases from leaf images using CNN.
+
+
+
+6. Personalized Study Plan Generator
+
+> Suggest daily study schedules using a simple Reinforcement Learning model.
+
+
+
+7. Spam Mail Detection
+
+> Classify emails as spam or not using Naive Bayes or SVM.
+
+
+
+8. Emotion Detection from Text
+
+> Predict user emotion (happy, sad, angry) from short texts using LSTM.
+
+
+
+9. AI-Based Resume Shortlisting
+
+> Input resumes → rank best matches for a job description.
+
+
+
+10. Music Genre Classification
+
+> Classify audio files into genres like rock, jazz, etc., using deep learning.
+
+
+
+
+---
+
+Would you like me to also suggest which are easiest/fastest to complete based on your timeline?
+(For a mini-project, 3–4 days work ideally.)
+28/04/2025, 13:56 - Abrar...: I like fake news detection and 
+Personalized study plan generator
+28/04/2025, 14:24 - Brown Jesus: We can keep it that simple?
+28/04/2025, 14:26 - Brown Jesus: Gamified pers- first wala acha dikha meku and prolly simple hai
+28/04/2025, 14:50 - Brown Jesus: I was thinking mini project like thoda sa, thooddaaa saaaa🤏 acha karinge, cos innovatia panoply me woi present karna rehta
+28/04/2025, 15:13 - Brown Jesus: The sooner you respond the sooner I can get started on the abstract
+28/04/2025, 15:14 - Abrar...: Sir kal aao bole mereku
+28/04/2025, 15:15 - Brown Jesus: Ideas bolne?
+28/04/2025, 15:20 - Abrar...: Hao
+28/04/2025, 15:29 - Brown Jesus: Okay
+28/04/2025, 15:30 - Brown Jesus: Konse ideas bolne wale hai?
+28/04/2025, 15:35 - Abrar...: Let's have a discord call aaj
+28/04/2025, 15:37 - Brown Jesus: Okay
+28/04/2025, 20:24 - Abrar...: @⁨Brown Jesus⁩
+28/04/2025, 20:24 - Abrar...: meet at 10 pm ist
+28/04/2025, 20:24 - Abrar...: or after your isha prayer
+28/04/2025, 20:29 - Brown Jesus: Sure
+28/04/2025, 20:30 - Brown Jesus: I am free rn too
+28/04/2025, 20:31 - Abrar...: Wish I was tooo
+28/04/2025, 20:31 - Brown Jesus: Wait I am not free
+28/04/2025, 20:31 - Brown Jesus: I am joining that sponsorship meeting
+28/04/2025, 20:31 - Brown Jesus: 🦁
+28/04/2025, 20:31 - Abrar...: yea pls do
+28/04/2025, 20:31 - Brown Jesus: I is lion
+28/04/2025, 21:26 - Brown Jesus: Let me know whenever you free
+28/04/2025, 21:27 - Abrar...: I got a lotta work 
+with this collab now
+
+Give me like an hou
+28/04/2025, 21:47 - Brown Jesus: Sure sure
+28/04/2025, 21:47 - Brown Jesus: Tell me when you can breather
+28/04/2025, 21:47 - Brown Jesus: Breathe
+29/04/2025, 01:28 - Brown Jesus: levelling up using agents - gamified
+company database ai
+fake new detection
+Automated Customer Journey Designer for Startups
+debate master simulator
+
+
+lcm with qur'an <This message was edited>
+29/04/2025, 01:44 - Brown Jesus: https://docs.google.com/document/d/1WXZdLvVYSRbaB6ZzjNDQQhfd4lN-zLdFq7B9DGDhMes/edit?usp=sharing
+29/04/2025, 10:21 - Abrar...: Send access
+Nigha
+29/04/2025, 10:21 - Brown Jesus: Done
+29/04/2025, 10:29 - Abrar...: Imma go with
+1. Company wide memory AI
+2. Customer design helping startups know their customers 
+3. Fake news detection 
+4. Gamified personal growth platform
+29/04/2025, 10:29 - Abrar...: In this ordee
+29/04/2025, 10:29 - Abrar...: I'll let u know
+What he says
+29/04/2025, 10:45 - Brown Jesus: Okay
+29/04/2025, 22:46 - Abrar...: ek kaam karo naa
+pls
+in charo ke simple abstracts banake bhejdo
+29/04/2025, 22:46 - Abrar...: pls
+29/04/2025, 22:46 - Abrar...: pls
+29/04/2025, 22:46 - Abrar...: Imma submit 1 kal
+30/04/2025, 01:05 - Brown Jesus: Okay
+30/04/2025, 01:05 - Abrar...: 1
+3
+4
+30/04/2025, 01:05 - Brown Jesus: Will send by morning
+30/04/2025, 11:06 - Abrar...: Bhejdo bruv
+30/04/2025, 12:13 - Abrar...: @⁨Brown Jesus⁩
+30/04/2025, 12:13 - Abrar...: @⁨Brown Jesus⁩
+30/04/2025, 12:13 - Abrar...: @⁨Brown Jesus⁩
+30/04/2025, 12:21 - Abrar...: 423695
+30/04/2025, 12:26 - Abrar...: https://docs.google.com/document/d/1WXZdLvVYSRbaB6ZzjNDQQhfd4lN-zLdFq7B9DGDhMes/edit?usp=sharing
+30/04/2025, 13:14 - Abrar...: https://chatgpt.com/share/6811d4e4-8ebc-8002-8876-9f8ac3108fa2
+30/04/2025, 13:33 - Brown Jesus: access
+30/04/2025, 13:36 - Abrar...: Tumhara ich ha
+30/04/2025, 13:36 - Brown Jesus: 😭
+30/04/2025, 13:36 - Brown Jesus: btw tum ich mera karde sakte
+30/04/2025, 13:37 - Brown Jesus: cos this gpt is not giving it to me in this same format
+30/04/2025, 13:37 - Brown Jesus: jo tum bheje priv pe
+30/04/2025, 13:37 - Brown Jesus: yes or should I struggle?😞
+30/04/2025, 13:38 - Abrar...: Koi nahi
+30/04/2025, 13:38 - Abrar...: I'll do it
+30/04/2025, 13:39 - Brown Jesus: i love you
+30/04/2025, 13:39 - Brown Jesus: thank you
+30/04/2025, 20:07 - Brown Jesus: I am free
+30/04/2025, 20:07 - Brown Jesus: For gpting the mini project plan
+30/04/2025, 21:51 - Abrar...: I am traveling abhi
+30/04/2025, 21:51 - Brown Jesus: Send foto🥺
+01/05/2025, 00:40 - Brown Jesus changed this group's icon
+20/06/2025, 11:08 - Abrar...: Google fact checker
+20/06/2025, 11:13 - Abrar...: https://docs.google.com/document/d/1XCrzuQfsIpWBsfJlt50VvpkDiNI0twGcHkuGm3c72ug/edit?usp=drivesdk
+20/06/2025, 11:28 - Brown Jesus: Yo
+20/06/2025, 11:28 - Brown Jesus: Me came to class
+20/06/2025, 11:28 - Brown Jesus: Class boring
+20/06/2025, 11:28 - Brown Jesus: Me request access
+20/06/2025, 11:28 - Brown Jesus: You approve access
+21/06/2025, 11:23 - Abrar...: yo
+21/06/2025, 11:23 - Abrar...: we have an option of using either
+1. LLM llama which we are already using
+or
+2. Use specific pretrained ML models from huggingface
+21/06/2025, 11:24 - Abrar...: I have added a comparison in the docs
+21/06/2025, 11:24 - Abrar...: we are already using method 1
+so I was just researching aur behtar kya karsakte bolke
+21/06/2025, 11:28 - Abrar...: Also
+I want you to look into how we can :
+1. Get the post and caption from insta and twitter
+look for ALL tareeke 
+Youtube , gpt, web har jagah research karo
+Ask affan asif how he did his deepfake recognition ka 
+
+2. Once you find a way,
+- Test whether you can extract post and caption and save it in your backend.
+and also
+- can you send message under the tagged comment
+- Test the edge cases ki kitne messages karsakte, message size limitations
+- what if someone DMs me a post uska kya karsakte
+- what if comments are off
+etc etc
+21/06/2025, 12:04 - Abrar...: apparently ollama has support for video and images as well
+21/06/2025, 12:10 - Abrar...: https://youtu.be/UtSSMs6ObqY?si=5KGUjHnL2Ilsm55D
+
+A really simple tutorial on llama
+26/06/2025, 19:01 - Brown Jesus: <Media omitted>
+26/06/2025, 19:01 - Brown Jesus: <Media omitted>
+07/07/2025, 21:11 - Abrar...: <Media omitted>
+07/07/2025, 21:12 - Abrar...: baakhi sab can be done 
+in 3-4 hours
+easy shit
+07/07/2025, 21:14 - Abrar...: You deleted this message
+07/07/2025, 21:23 - Abrar...: - What challenges have you observed in the current GDG on Campus community at your college?
+- How do you plan to address these challenges if shortlisted as an GDG on Campus Organizer?
+- Please highlight any previous accomplishments or contributions you've made in the developer ecosystem (if any). <This message was edited>
+07/07/2025, 21:26 - Abrar...: *VIDEO SUBMISSIONS*
+
+Q1 : Please introduce yourself in 30 seconds (Name, course/department, one interesting fact about you)
+
+Q2 : Are you currently part of any technical community or club? If yes, how have you contributed? (e.g., organizing sessions, mentoring, conducting workshops, etc.) If not, Have you ever led or co-led any technical event or campaign before? What was your role and what was the outcome? (Answer in under 60 seconds)
+
+Q3 : You have an exciting campaign for your community members.  However, it is exam season, and most students are unavailable. How do you ensure balancing academics and community engagement during this time? (Answer in under 60 seconds)
+
+Q4 : If you plan to host an event on Generative AI and its real-world applications, how would you go about organizing it? Walk us through the key steps from planning to execution. Try to cover every aspect you can think of. (Answer in under 90 seconds)
+
+Q5 : If you're organizing an event and there is no sponsorship or financial support from the college, what would be your plan of action for managing the event and logistics? (Answer in under 60 seconds)
+07/07/2025, 21:27 - Abrar...: This section evaluates your ability to think critically, identify local problems, and apply technology to create meaningful solutions. We’re not looking for perfection—just your initiative, creativity, and understanding of Google technologies.
+
+You are required to identify a specific, real-world problem within your college, community, or region and develop a prototype solution that demonstrates how technology can address it effectively.
+
+Requirements:
+Your solution must be built using Google technologies, specifically : IDX, Firebase Studio
+Google AI integrations such as Gemini API or Vertex AI
+The solution can be a website or an application
+A fully developed website/app is not required - a working prototype with 2-3 functional features is sufficient
+
+
+1. Brief description of the local problem you're solving
+2. An overview of your solution approach and key features
+3.Link to your Prototype
+4.Mention of the Google technologies used in the solution
+07/07/2025, 21:28 - Abrar...: To support your application, you are required to submit a recommendation from a faculty member at your college. This helps us verify your credibility, leadership qualities, and involvement in the campus ecosystem.
+Faculty Name
+*
+Faculty Email Address
+*
+Faculty Designation
+*
+ 
+This is a required question
+Attach the  signed letter on official letterhead or an official email screenshot with headers visible
+*
+Convert the letter/email to a PDF.
+Upload the file 
+Upload 1 supported file: PDF. Max 10 MB.
+07/07/2025, 21:29 - Abrar...: then the nomination code
+07/07/2025, 21:30 - Abrar...: OKAY
+SO THE only things we need to do is.
+
+1. project 
+will take 2-3 days
+
+2. Video
+will take max 1 day
+07/07/2025, 22:42 - Brown Jesus: Project will probably take more than 2-3 days
+08/07/2025, 21:29 - Brown Jesus: Yo I registered us for the innovatia
+08/07/2025, 21:29 - Brown Jesus: Project title: veritas.ai
+08/07/2025, 21:30 - Brown Jesus: Cool?
+08/07/2025, 21:30 - Brown Jesus: Btw when do we complete it?
+08/07/2025, 21:30 - Brown Jesus: What is my part for the project? And when should we finish it?
+08/07/2025, 21:32 - Abrar...: cool
+08/07/2025, 21:33 - Abrar...: can we change it to TruthScope
+08/07/2025, 21:43 - Brown Jesus: Yes
+08/07/2025, 21:44 - Brown Jesus: All the Mini project batches of CSE C sec are hereby informed to fill up the sheet in the following link and submit the details *today without fail* .
+The given details are needed its *MOST URGENT* 
+https://docs.google.com/spreadsheets/d/1P0T9RXUvpLARllPasyxOAV40GH7DcqYJ/edit?usp=sharing&ouid=111768816260839276849&rtpof=true&sd=true
+09/07/2025, 10:07 - Abrar...: <Media omitted>
+09/07/2025, 10:07 - Abrar...: Assalamualaikum guysss
+We will be starting soon
+
+It's a free event for all GDG members.
+
+Venue: CICI lab (MSS lab)
+Block 2
+09/07/2025, 10:08 - Brown Jesus: Send in gdg community
+09/07/2025, 10:09 - Brown Jesus: How many people are there?
+09/07/2025, 10:10 - Abrar...: nigha
+09/07/2025, 10:10 - Abrar...: jaldi aao
+09/07/2025, 10:10 - Abrar...: where you
+09/07/2025, 10:10 - Abrar...: send karo
+09/07/2025, 10:11 - Brown Jesus: Breakfast
+09/07/2025, 10:11 - Abrar...: abey
+09/07/2025, 10:11 - Brown Jesus: Rayyan ku bolo he is admin
+09/07/2025, 16:45 - Brown Jesus: Dear students,
+Please submit your lab observation books and Records, completed from start to end, next week ie 14/7/25(C2),15/7/25 (C3),16/7/25(C1).
+
+No records or observation will be accepted on or after Lab internal examination .
+
+ *Note: If you expect full marks for observation and Lab records, please follow the instructions stated above.*
+09/07/2025, 16:45 - Brown Jesus: Lab internal examination examination are scheduled tentatively from 22/7.
+11/07/2025, 01:31 - Abrar...: nigha
+11/07/2025, 01:31 - Abrar...: wake me up at 8
+11/07/2025, 01:55 - Abrar...: nigha
+I am using a free google API 
+but its on trial 
+its like 15k ka
+
+JUST REMIND ME TO NOT HAVE 15k on my account
+Coz its on autopay
+11/07/2025, 01:55 - Abrar...: during GDG ka team lunches and shit
+11/07/2025, 10:04 - Brown Jesus: WAKE UP
+11/07/2025, 10:06 - Abrar...: Nigha
+11/07/2025, 10:06 - Abrar...: <Media omitted>
+11/07/2025, 10:10 - Abrar...: But keep it to yourself and amaan only
+11/07/2025, 10:10 - Abrar...: Sure
+11/07/2025, 10:10 - Abrar...: or anybody whos gotten the mail
+11/07/2025, 10:10 - Abrar...: gdg lead ka hai?
+11/07/2025, 10:10 - Abrar...: no like content should be changed
+11/07/2025, 10:10 - Abrar...: ok
+11/07/2025, 10:10 - Abrar...: this was for my applications
+11/07/2025, 10:10 - Abrar...: format and all aisa kuch rehta
+11/07/2025, 10:10 - Abrar...: aight
+11/07/2025, 10:10 - Abrar...: <Media omitted>
+11/07/2025, 10:10 - Abrar...: <Media omitted>
+11/07/2025, 10:10 - Abrar...: <Media omitted>
+16/07/2025, 10:40 - Abrar...: https://chatgpt.com/share/6877342b-117c-8007-9bc5-80f9f7113c19
+16/07/2025, 10:40 - Abrar...: apparently MLH doesn't sponsor hackathon
+but their brand is big enough for us to attract sponsorers
+16/07/2025, 22:53 - Abrar...: any updates @⁨Brown Jesus⁩
+16/07/2025, 22:54 - Abrar...: <Media omitted>
+16/07/2025, 23:59 - Brown Jesus: Will update you in morning
+17/07/2025, 00:00 - Brown Jesus: I haven't yet started anything
+17/07/2025, 00:00 - Brown Jesus: Mini Project:
+1. Instagram ka karna hai
+2. Report
+3. Presentation
+17/07/2025, 00:00 - Brown Jesus: Instagram ka:
+when I tag you in comment post
+that post and its metadata should be sent to me
+(if not a link of the post)
+then that post and its metadata is checked for its correctness
+17/07/2025, 00:00 - Brown Jesus: this is must
+if u r doing the link waala thing
+
+Also look for how you can extract post and metadata from that link using a third party service
+17/07/2025, 00:01 - Brown Jesus: Can you do the presentation?
+17/07/2025, 00:09 - Abrar...: sure
+17/07/2025, 17:49 - Brown Jesus: <Media omitted>
+17/07/2025, 17:51 - Brown Jesus: I think the report is going to take quite long
+
+because it requires references from research papers
+system design and architecture
+flow charts of each of the use cases
+snapshots of the MVP
+Confusion matrix
+17/07/2025, 17:52 - Brown Jesus: also my brother took my activa for some work and hasn't gotten back yet
+17/07/2025, 17:54 - Abrar...: We don't need report kal
+17/07/2025, 18:11 - Brown Jesus: Suit up for tomorrow
+17/07/2025, 18:11 - Brown Jesus: Report not important it seems
+17/07/2025, 18:34 - Brown Jesus: Do you think we could improvise and use the previous ppt we made in hackprix
+
+
+https://www.canva.com/design/DAGqUSb6DqU/e2h41JtICdc0QwTnSWqO8Q/edit?utm_content=DAGqUSb6DqU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+17/07/2025, 18:35 - Brown Jesus: Also... can I come over after you are done eating and napping
+17/07/2025, 18:35 - Brown Jesus: To your place
+17/07/2025, 18:35 - Brown Jesus: For mini project work
+17/07/2025, 18:44 - Abrar...: No
+17/07/2025, 18:44 - Abrar...: Male friends not allowed ghar pei
+17/07/2025, 18:44 - Abrar...: Well
+Female friends bhi nahi
+17/07/2025, 18:53 - Brown Jesus: 😃
+17/07/2025, 18:53 - Brown Jesus: Then?
+17/07/2025, 18:53 - Brown Jesus: Where we meet?
+17/07/2025, 18:59 - Abrar...: Why meet?
+17/07/2025, 20:57 - Brown Jesus: Cos I have some doubts about the ppt
+17/07/2025, 20:57 - Brown Jesus: What should I add? What should I not add?
+17/07/2025, 20:57 - Brown Jesus: Sorry for not being there until now
+17/07/2025, 20:58 - Brown Jesus: But due to my continuous absence I have no idea about the project😞
+17/07/2025, 20:58 - Abrar...: nigha
+17/07/2025, 20:58 - Abrar...: discord aao
+17/07/2025, 20:58 - Brown Jesus: Cominggg
+17/07/2025, 21:01 - Brown Jesus: In 20 mins
+17/07/2025, 21:36 - Abrar...: YO NIGHA
+WE HAVE COMPETITION
+17/07/2025, 21:36 - Abrar...: DO U KNOW 
+SANA FROM CSE A
+17/07/2025, 21:36 - Abrar...: SHE MADE THE SAME PROJECT as us
+17/07/2025, 21:50 - Abrar...: @⁨Brown Jesus⁩
+17/07/2025, 21:50 - Abrar...: update on PPT and Instagram thingy?
+17/07/2025, 21:51 - Brown Jesus: Yes
+17/07/2025, 21:51 - Brown Jesus: Damn
+17/07/2025, 21:52 - Brown Jesus: Getting started
+17/07/2025, 21:52 - Abrar...: nigha
+17/07/2025, 21:52 - Abrar...: JALDI
+JALDI
+17/07/2025, 21:52 - Abrar...: PPT last mei banao
+17/07/2025, 21:52 - Brown Jesus: Yes yes doing
+17/07/2025, 21:52 - Brown Jesus: Okay
+17/07/2025, 21:52 - Abrar...: 12 baje tak 
+work on insta thing
+17/07/2025, 21:52 - Abrar...: uske baad make PPT
+17/07/2025, 21:52 - Brown Jesus: Okay
+17/07/2025, 21:52 - Brown Jesus: First we will do a disc call
+17/07/2025, 21:52 - Abrar...: aight aajao
+17/07/2025, 21:52 - Brown Jesus: I just got to my friends house
+17/07/2025, 21:52 - Brown Jesus: I will ring you soon
+17/07/2025, 22:14 - Abrar...: https://www.canva.com/design/DAGtcPoFBpI/UlgTa2kvGow5IPYZNODiRg/edit?utm_content=DAGtcPoFBpI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+17/07/2025, 22:21 - Brown Jesus: .
+17/07/2025, 22:48 - Abrar...: @⁨Brown Jesus⁩
+17/07/2025, 22:48 - Abrar...: Pehle poster banao bro
+17/07/2025, 22:48 - Abrar...: gotta get it printed
+17/07/2025, 22:51 - Brown Jesus: is it really that important?
+17/07/2025, 22:51 - Abrar...: apparently it is
+17/07/2025, 22:51 - Abrar...: print karana hai kate
+17/07/2025, 22:51 - Abrar...: ukw
+kal karalinge
+17/07/2025, 22:52 - Abrar...: abhi do insta ka ich
+till 12
+17/07/2025, 22:54 - Brown Jesus: okay doing
+17/07/2025, 23:01 - Brown Jesus: <Media omitted>
+17/07/2025, 23:01 - Abrar...: nigha?
+17/07/2025, 23:02 - Abrar...: i just need data
+17/07/2025, 23:02 - Abrar...: bhai
+17/07/2025, 23:02 - Abrar...: ukw
+at this point
+If insta is problematic
+
+Just switch to twitter
+17/07/2025, 23:28 - Brown Jesus: is there a url of our website?
+17/07/2025, 23:30 - Brown Jesus: also whats your full name?
+17/07/2025, 23:30 - Brown Jesus: Mohammed Abrar Akram Faroque
+17/07/2025, 23:30 - Brown Jesus: ??
+17/07/2025, 23:43 - Brown Jesus: <Media omitted>
+17/07/2025, 23:43 - Brown Jesus: Ai generated
+17/07/2025, 23:49 - Brown Jesus: <Media omitted>
+18/07/2025, 05:03 - Abrar...: Aight
+18/07/2025, 05:03 - Abrar...: F
+I slept
+18/07/2025, 06:38 - Abrar...: yo can you get the poster?
+18/07/2025, 06:55 - Abrar...: Chrome Extension done
+18/07/2025, 06:56 - Abrar...: Now all
+I have to do , is look for :
+1. Twitter thingy
+2. Change frontend
+3. Make LLM better
+18/07/2025, 06:56 - Abrar...: 1 & 3 can be done in college
+18/07/2025, 08:41 - Abrar...: 2 done
+18/07/2025, 08:41 - Abrar...: 3 needs to be done
+college mei karleto woh
+18/07/2025, 09:20 - Brown Jesus: I am coming with rapido
+18/07/2025, 09:20 - Abrar...: Nigha
+18/07/2025, 10:25 - Abrar...: https://chatgpt.com/share/6879d3c4-dcb4-8012-a037-eab8cd9b4976
+22/07/2025, 23:13 - Abrar...: AMAAAAAAAAAAAN
+22/07/2025, 23:13 - Abrar...: REPORT BANANA HIA
+23/07/2025, 17:09 - Brown Jesus: Yaass
+24/07/2025, 13:35 - Brown Jesus: Yo
+24/07/2025, 13:35 - Brown Jesus: Abrar
+24/07/2025, 13:35 - Brown Jesus: Wya?
+24/07/2025, 13:35 - Abrar...: Ghar
+24/07/2025, 21:33 - Brown Jesus: abrar how do you spell the faroque in your name?
+24/07/2025, 21:34 - Abrar...: Farooque
+24/07/2025, 21:34 - Abrar...: Nigha
+What u upto?
+24/07/2025, 21:34 - Brown Jesus: Mohammed Abrar Akram Farooque is this correct?
+24/07/2025, 21:34 - Brown Jesus: LOAs😭
+24/07/2025, 21:35 - Abrar...: Yup
+25/07/2025, 08:13 - Brown Jesus: Yoooo
+25/07/2025, 08:13 - Brown Jesus: Abrarrr
+25/07/2025, 10:03 - Abrar...: Yo
+25/07/2025, 11:32 - Brown Jesus: Abrar also get water
+07/08/2025, 04:59 - Brown Jesus: https://gemini.google/students/
+10/08/2025, 15:24 - Abrar...: 13th DAA lab : 1-4
+14th Mini Project lab : 1-4
+18th ML lab : 1-4
+10/08/2025, 16:05 - Brown Jesus: <Media omitted>
+10/08/2025, 16:05 - Brown Jesus: Sample report
+10/08/2025, 16:06 - Abrar...: bgn na
+10/08/2025, 16:06 - Abrar...: karo mei 80 pages
+10/08/2025, 16:06 - Abrar...: 25 pages max
+10/08/2025, 16:08 - Abrar...: <Media omitted>
+10/08/2025, 16:08 - Abrar...: <Media omitted>
+10/08/2025, 16:08 - Abrar...: <Media omitted>
+10/08/2025, 16:12 - Brown Jesus: Didn't need these pdfs😭
+10/08/2025, 16:12 - Brown Jesus: Yeah
+10/08/2025, 16:13 - Abrar...: tumhara padhlo labs ka poora 
+complete assigments and records
+10/08/2025, 16:13 - Abrar...: isha ke baad
+We will sit 
+Raat bhar
+10/08/2025, 16:16 - Abrar...: <Media omitted>
+10/08/2025, 16:17 - Brown Jesus: Done
+10/08/2025, 16:17 - Brown Jesus: Mlh registration ka bhi dekh linge
+10/08/2025, 16:17 - Brown Jesus: 9 ku AR ka interview le linge? <This message was edited>
+10/08/2025, 16:18 - Abrar...: hao
+10/08/2025, 16:18 - Abrar...: message him and aimen
+10/08/2025, 16:20 - Brown Jesus: Okay
+10/08/2025, 16:21 - Abrar...: What is accountability to you?
+How do you deal with criticism?
+If you got to know, one of the operations team member is scamming us and stealing money from the club what would you do?
+How good are you in maintaining sheets?
+What's a failure to you?
+Tell me about a time you felt like a failure
+What's your biggest achievement in Engineering?
+What do you expect from GDGC?
+What is your tech stack?
+If you were to lead a technical event of your choice, what would it be and how would you lead it?
+10/08/2025, 16:24 - Brown Jesus: Done
+10/08/2025, 17:00 - Brown Jesus: Yo, do you have ml cie1 paper
+10/08/2025, 17:02 - Abrar...: nope
+10/08/2025, 21:59 - Abrar...: https://docs.google.com/document/d/166d-3Wcd5Cl7S4Nc5kLeb88gzM8nqgk6TfTkGUiQmAY/edit?usp=drivesdk
+10/08/2025, 22:18 - Brown Jesus: .
+10/08/2025, 22:40 - Abrar...: <Media omitted>
+10/08/2025, 22:41 - Abrar...: <Media omitted>
+10/08/2025, 22:42 - Abrar...: <Media omitted>
+10/08/2025, 22:42 - Abrar...: <Media omitted>
+10/08/2025, 22:43 - Abrar...: <Media omitted>
+10/08/2025, 22:44 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:45 - Abrar...: <Media omitted>
+10/08/2025, 22:53 - Brown Jesus: This message was deleted
+10/08/2025, 22:54 - Brown Jesus: https://docs.google.com/document/d/1D7bVd9Rge0zzmvHW8QovNOQ2CZv9oXKzy1ZIdVsKIxU/edit?usp=sharing
+10/08/2025, 23:00 - Brown Jesus: process flow diagram
+and system architecture
+10/08/2025, 23:35 - Abrar...: <Media omitted>
+10/08/2025, 23:54 - Abrar...: <Media omitted>
+11/08/2025, 00:12 - Abrar...: <Media omitted>
+11/08/2025, 00:15 - Brown Jesus: <Media omitted>
+11/08/2025, 00:16 - Brown Jesus: <Media omitted>
+11/08/2025, 00:28 - Abrar...: <Media omitted>
+11/08/2025, 00:50 - Abrar...: <Media omitted>
+11/08/2025, 01:35 - Brown Jesus: This message was deleted
+11/08/2025, 23:40 - Brown Jesus: use case diagram
+11/08/2025, 23:40 - Brown Jesus: and system architecture expanded
+11/08/2025, 23:40 - Brown Jesus: class diagram (optional)
+11/08/2025, 23:41 - Brown Jesus: snippets of code
+11/08/2025, 23:41 - Brown Jesus: functions and all important ones will do
+11/08/2025, 23:42 - Abrar...: ..
+11/08/2025, 23:45 - Brown Jesus: need diagrams for
+
+Performance Metrics Chart
+Accuracy vs Confidence Score Graph
+use case diagram
+and system architecture expanded
+class diagram (optional)
+snippets of code functions and all important ones will do
+11/08/2025, 23:49 - Abrar...: <Media omitted>
+12/08/2025, 00:06 - Abrar...: <Media omitted>
+12/08/2025, 00:18 - Brown Jesus: yo
+12/08/2025, 00:18 - Brown Jesus: send the snippets of code
+12/08/2025, 00:19 - Abrar...: 5 mins
+12/08/2025, 00:19 - Abrar...: Current gone
+12/08/2025, 00:20 - Brown Jesus: ohh
+12/08/2025, 00:20 - Brown Jesus: okay
+12/08/2025, 00:23 - Abrar...: <Media omitted>
+12/08/2025, 00:25 - Abrar...: <Media omitted>
+12/08/2025, 00:26 - Abrar...: <Media omitted>
+12/08/2025, 00:26 - Abrar...: <Media omitted>
+12/08/2025, 00:27 - Abrar...: <Media omitted>
+12/08/2025, 00:27 - Abrar...: <Media omitted>
+12/08/2025, 00:32 - Abrar...: <Media omitted>
+12/08/2025, 00:32 - Abrar...: class diagram
+12/08/2025, 00:32 - Abrar...: U slept?
+12/08/2025, 00:33 - Brown Jesus: nope
+12/08/2025, 00:33 - Brown Jesus: still on disc
+12/08/2025, 00:33 - Abrar...: I am on disc too nigha
+12/08/2025, 00:33 - Abrar...: u ain't talking
+12/08/2025, 00:33 - Abrar...: Sab done hai naa?
+12/08/2025, 00:39 - Abrar...: 4.x USE CASE DIAGRAM
+The Use Case Diagram of TruthScope represents the interaction between the system and its external actors, describing the core functionalities offered to users and the flow of data through the system. It provides a high-level overview of what the system does, without going into internal implementation details.
+
+Actors
+User (Primary Actor) – The individual who enters a claim for verification, browses news updates, and views fact-checking results.
+
+Chrome Extension – Acts as an alternative client for users to fact-check directly within their web browser.
+
+External APIs – Supporting systems such as Google Custom Search API and NewsAPI that supply evidence for claim verification.
+
+System Scheduler – An implicit actor that triggers cache refreshes and scheduled news updates.
+
+Use Cases
+Submit Claim for Verification
+The user enters a claim via the web interface or Chrome Extension. The system preprocesses the text (cleaning, NER, keyword extraction, intent and region identification), checks the cache for prior results, and if not found, retrieves relevant evidence from external APIs. This evidence is analyzed semantically, scored, and a verdict is generated.
+
+View Verification Results
+The system presents truth and confidence scores, a color-coded verdict, and a breakdown of supporting and contradicting sources with direct links.
+
+Browse News Dashboard
+The user accesses categorized, up-to-date news with AI-generated summaries and relevant images.
+
+Verify Text via Chrome Extension
+The extension sends selected webpage text to the backend for fact-checking, returning inline verdicts without leaving the current page.
+
+Inspect Source Breakdown
+The user can view details of each source’s credibility, stance, and publication time, ensuring transparency.
+
+Refresh News Feed
+Triggered either manually or automatically by the scheduler to ensure the news content is current.
+
+Importance in the Project
+The Use Case Diagram ensures that all functional requirements are clearly defined and that every actor-system interaction is mapped. This allows developers to verify completeness of the system’s capabilities before moving into implementation. For TruthScope, this diagram also highlights the integration points with external services, the Chrome Extension, and the user-facing components.
+
+4.x CLASS DIAGRAM
+The Class Diagram of TruthScope depicts the structural design of the system, detailing its classes, attributes, methods, and relationships. It represents the static architecture, ensuring that every component in the system has a defined role and communicates with the correct modules.
+
+Core Classes
+Claim – Represents a user’s submitted statement. Attributes include rawText, cleanText, language, intent, and region. Methods perform preprocessing tasks such as entity extraction and keyword generation.
+
+Evidence – Stores retrieved articles or content used to verify claims, including url, title, sourceName, and content.
+
+SourceMeta – Maintains metadata for each source, including credibility, expertise, region relevance, and reach.
+
+AnalysisResult – Encapsulates the computed truth score, confidence score, verdict, and summary for display to the user.
+
+SourceAssessment – Represents the stance (support, contradict, neutral) of each piece of evidence towards the claim.
+
+Service Classes
+Preprocessor – Handles claim text cleaning, language detection, NER, and intent identification.
+
+EvidenceRetriever – Interfaces with Google CSE, NewsAPI, and the Scraper to gather relevant evidence.
+
+SemanticAnalyzer – Uses transformer models to assess semantic similarity and determine stance.
+
+ScoringEngine – Computes truth and confidence scores using weighted source metadata.
+
+CacheStore – Stores results temporarily to reduce redundant API calls.
+
+VerifierFacade – The orchestrator class that connects preprocessing, retrieval, semantic analysis, and scoring to produce the final result.
+
+Integration Clients
+GoogleCSEClient and NewsAPIClient – Specialized connectors for external APIs.
+
+Scraper – Extracts clean text from web pages.
+
+Presentation Layer
+ResultsFormatter – Formats analysis results for frontend consumption.
+
+FrontendAdapter – Prepares UI components for the React web app.
+
+ChromeExtensionAdapter – Sends formatted fact-checking results back to the Chrome Extension interface.
+
+Key Relationships
+VerifierFacade uses Preprocessor, EvidenceRetriever, SemanticAnalyzer, ScoringEngine, and CacheStore.
+
+EvidenceRetriever depends on GoogleCSEClient, NewsAPIClient, and Scraper.
+
+SemanticAnalyzer uses EmbeddingModel and LLMReasoner for NLP tasks.
+
+AnalysisResult is formatted by the presentation layer before being shown to the user.
+
+Importance in the Project
+The Class Diagram ensures a modular, maintainable system design. By defining clear responsibilities for each class, it supports scalability, simplifies debugging, and enables future enhancements such as adding multi-language support or integrating image/video fact-checking. For TruthScope, the diagram also reinforces the separation between backend processing, data retrieval, and frontend presentation, ensuring a clean architecture.
+12/08/2025, 00:54 - Abrar...: <Media omitted>
+12/08/2025, 00:58 - Abrar...: current gone phirse
+12/08/2025, 01:00 - Brown Jesus: ok
+12/08/2025, 01:08 - Brown Jesus: need a few points about chrome extension in the implementation part
+12/08/2025, 01:08 - Brown Jesus: .
+12/08/2025, 01:08 - Abrar...: Gpt karlo bruv
+12/08/2025, 01:09 - Abrar...: No laptop 
+For me
+12/08/2025, 01:10 - Brown Jesus: current gone?
+12/08/2025, 01:11 - Abrar...: Yes
+12/08/2025, 01:11 - Abrar...: Phase nahi hai
+Wifi ka
+12/08/2025, 01:11 - Brown Jesus: okay
+12/08/2025, 01:39 - Brown Jesus: <Media omitted>
+12/08/2025, 03:31 - Brown Jesus: get the prints on one side and spiral bind it, keep two blank pages at the front and two at the back
+12/08/2025, 03:31 - Brown Jesus: come to clg by 11 - 11:30 am tomorrow
+12/08/2025, 05:21 - Abrar...: Can't we give it on Wednesday after DAA lab?
+12/08/2025, 08:04 - Brown Jesus: We can ig
+12/08/2025, 08:04 - Brown Jesus: Print karake rakhlo
+12/08/2025, 08:14 - Abrar...: Aight
+12/08/2025, 08:15 - Abrar...: Tum sir ku dikhaado final doc
+
+Kal print dedete bolo
+12/08/2025, 08:15 - Abrar...: Good luck for ML laab
+Gn
+12/08/2025, 09:42 - Brown Jesus: I dont believe in luck
+12/08/2025, 09:42 - Brown Jesus: Okay
+12/08/2025, 14:11 - Abrar...: <Media omitted>
+12/08/2025, 14:11 - Brown Jesus: ??
+12/08/2025, 14:12 - Abrar...: If we take the entire pdf for color print he will charge 48 * 10
+12/08/2025, 14:12 - Brown Jesus: 🙏
+12/08/2025, 14:13 - Abrar...: @⁨Brown Jesus⁩
+12/08/2025, 14:13 - Abrar...: sirf ek copy hona hai na?
+12/08/2025, 18:36 - Brown Jesus: Yes
+12/08/2025, 18:36 - Abrar...: Done
+12/08/2025, 18:36 - Abrar...: Hogayi binding and print
+12/08/2025, 18:36 - Abrar...: Brown cover for brown jesus
+12/08/2025, 18:36 - Abrar...: <Media omitted>
+12/08/2025, 18:38 - Brown Jesus: Nice alhamdulillah
+12/08/2025, 18:38 - Brown Jesus: Kitne me hui?
+12/08/2025, 18:38 - Abrar...: 218
+12/08/2025, 18:42 - Brown Jesus: Damn
+12/08/2025, 18:42 - Brown Jesus: Daa kitna padhre?
+12/08/2025, 18:46 - Abrar...: 1 program
+12/08/2025, 18:58 - Brown Jesus: Crazy
+12/08/2025, 19:35 - Abrar...: 
+12/08/2025, 19:41 - Brown Jesus: Crazy
+13/08/2025, 07:55 - Brown Jesus: yo when are you coming to clg?
+13/08/2025, 07:55 - Brown Jesus: yaad sae bring the report
+13/08/2025, 07:56 - Abrar...: 12 baje tak
+13/08/2025, 07:56 - Abrar...: Aight
+13/08/2025, 07:56 - Brown Jesus: 11:15 ku ao bole na ma'am?
+13/08/2025, 07:56 - Abrar...: did she?
+13/08/2025, 07:57 - Abrar...: oh damn
+13/08/2025, 07:57 - Abrar...: 10 baje nikalto phir
+13/08/2025, 07:57 - Brown Jesus: nah wait
+13/08/2025, 07:57 - Brown Jesus: I cant find the msg
+13/08/2025, 07:57 - Abrar...: passout
+13/08/2025, 07:57 - Brown Jesus: but I thought I read it somewhere
+13/08/2025, 07:58 - Brown Jesus: right
+13/08/2025, 20:16 - Abrar...: Nigha
+13/08/2025, 20:16 - Abrar...: 9 pm aajao discord
+13/08/2025, 20:18 - Brown Jesus: Timing 4/10
+Dedication 7/10
+13/08/2025, 20:18 - Brown Jesus: I will be there
+13/08/2025, 20:52 - Abrar...: <Media omitted>
+13/08/2025, 20:54 - Abrar...: They will ask:
+ChatGPT hai?
+13/08/2025, 21:06 - Brown Jesus: Why you opening on chrome?
+13/08/2025, 21:06 - Brown Jesus: Ot any browser at all
+13/08/2025, 21:06 - Brown Jesus: No, no?
+13/08/2025, 21:08 - Brown Jesus: 9:30 or 40
+13/08/2025, 21:08 - Brown Jesus: Me doing dinner
+13/08/2025, 21:09 - Abrar...: default browser hai
+For this user
+13/08/2025, 21:15 - Abrar...: page number 2 
+Saleem sir's part is not centered
+13/08/2025, 21:23 - Abrar...: You deleted this message
+13/08/2025, 21:23 - Abrar...: You deleted this message
+13/08/2025, 21:24 - Brown Jesus: 9-20 hi hai
+13/08/2025, 21:24 - Brown Jesus: Snapshots of mbp
+13/08/2025, 21:24 - Brown Jesus: Mvp
+13/08/2025, 21:24 - Abrar...: yeaa
+13/08/2025, 21:28 - Abrar...: use case diagram page 13 is cropped
+13/08/2025, 21:28 - Abrar...: same page 15 class diagram
+13/08/2025, 21:28 - Brown Jesus: Diagrams not in my domain
+13/08/2025, 21:31 - Abrar...: 🫠🫠
+13/08/2025, 21:42 - Brown Jesus: Khudse banate lete the uml diagrams😭😭😂😂
+13/08/2025, 21:42 - Brown Jesus: Lyt yaro
+13/08/2025, 21:42 - Brown Jesus: Mai kya sonchru
+13/08/2025, 21:42 - Brown Jesus: Mini project is marked majorly interbally
+13/08/2025, 21:42 - Brown Jesus: And thoda external ke haat me rehta
+13/08/2025, 21:42 - Brown Jesus: And apart form that its only 1 credit
+13/08/2025, 21:42 - Brown Jesus: We just need to be good at nodding
+13/08/2025, 21:42 - Abrar...: true
+13/08/2025, 21:42 - Brown Jesus: And saying yes sir aap ich hai jo bhi hai
+13/08/2025, 21:42 - Brown Jesus: Hum tier 3 college ke bache
+13/08/2025, 21:43 - Brown Jesus: We can't compare
+13/08/2025, 21:43 - Brown Jesus: Please have mercy
+13/08/2025, 21:43 - Brown Jesus: <Media omitted>
+13/08/2025, 21:43 - Brown Jesus: Phir ye emote kar dena
+13/08/2025, 21:43 - Abrar...: sure
+13/08/2025, 21:44 - Brown Jesus: Aight me doing dinner rn, I will join at 10 and then we will discuss the work distribution and working of the project
+13/08/2025, 21:44 - Brown Jesus: And then sleep peacefully
+13/08/2025, 21:44 - Brown Jesus: Together
+13/08/2025, 21:44 - Abrar...: aight
+13/08/2025, 21:44 - Abrar...: I wish
+13/08/2025, 21:44 - Brown Jesus: <Media omitted>
+13/08/2025, 21:44 - Abrar...: but I already slept
+13/08/2025, 21:44 - Brown Jesus: Nooooo🥲
+13/08/2025, 21:44 - Abrar...: with someone else 😭
+13/08/2025, 21:44 - Brown Jesus: Ohhh
+13/08/2025, 21:44 - Brown Jesus: Lemme guess
+13/08/2025, 21:44 - Brown Jesus: Is it
+13/08/2025, 21:44 - Brown Jesus: <Media omitted>
+13/08/2025, 21:44 - Brown Jesus: Her?
+13/08/2025, 21:45 - Abrar...: yea
+13/08/2025, 21:45 - Brown Jesus: 😭😭😭😂😂😂😂
+13/08/2025, 21:45 - Abrar...: her name is Lulu
+13/08/2025, 22:00 - Abrar...: Viva questions:
+
+1. What's the mechanism?
+2. how is semantic similarity analysis done?
+3. what is transformer?
+4. What is T5 model?
+13/08/2025, 22:00 - Abrar...: how is the score calculated and why is the formula designed so?
+13/08/2025, 22:01 - Abrar...: How did you create the frontend?
+Did you use ChatGPT to make your report
+13/08/2025, 22:01 - Abrar...: What is FastAPI?
+What is uvicorn?
+13/08/2025, 22:03 - Abrar...: what's the logic of you confirming whether a news is true or not?
+13/08/2025, 22:03 - Abrar...: Are you using Naive Bayes Algorithm?
+What is Naive Bayes?
+13/08/2025, 22:05 - Abrar...: What is google CSE?
+What all APIs did u use?
+13/08/2025, 22:07 - Abrar...: what does various values of truth score and confidence score mean
+13/08/2025, 22:08 - Abrar...: How are you ensuring reliability , regional and relevance temporal while evaluating claims
+13/08/2025, 22:12 - Abrar...: how are you getting the links for supporting and contradicting articles
+13/08/2025, 22:19 - Abrar...: How is your solution tackling the existing solutions ke limitations
+13/08/2025, 23:45 - Abrar...: aajo
+14/08/2025, 00:02 - Brown Jesus: Okay
+14/08/2025, 00:06 - Brown Jesus: Wya?
+14/08/2025, 00:06 - Brown Jesus: Imma sleep
+14/08/2025, 00:06 - Brown Jesus: Wake up early tomorrow and explain it the project to me? Or just send me the github link
+14/08/2025, 00:07 - Brown Jesus: I will ask gpt or copilot and understand it all
+14/08/2025, 00:09 - Abrar...: Sure
+14/08/2025, 00:09 - Abrar...: Fajr ke baad
+14/08/2025, 00:09 - Brown Jesus: Done
+14/08/2025, 00:54 - Abrar...: do one thing
+14/08/2025, 00:54 - Abrar...: read the report
+14/08/2025, 00:54 - Abrar...: also
+tumhara laptop lao kal
+14/08/2025, 00:54 - Abrar...: I guess usme PPT hai naa
+14/08/2025, 00:54 - Abrar...: we will show that only
+14/08/2025, 08:13 - Brown Jesus: Okay done
+14/08/2025, 08:21 - Abrar...: .
+14/08/2025, 08:59 - Abrar...: Imma be there by 10
+14/08/2025, 09:02 - Brown Jesus: We are C13
+14/08/2025, 09:02 - Brown Jesus: Okay
+14/08/2025, 09:08 - Brown Jesus: do you have a gpt link with answers for all this?
+14/08/2025, 09:09 - Brown Jesus: GitHub link where?
+14/08/2025, 09:17 - Abrar...: Wear formald
+14/08/2025, 09:17 - Brown Jesus: done
+14/08/2025, 09:17 - Brown Jesus: but torn jeans
+14/08/2025, 09:18 - Abrar...: No
+14/08/2025, 09:18 - Abrar...: Nigha
+14/08/2025, 09:18 - Abrar...: No gareebi
+14/08/2025, 09:18 - Abrar...: No torn jeans
+14/08/2025, 09:18 - Brown Jesus: pehen ke nikal gaya mai
+14/08/2025, 09:18 - Brown Jesus: its too late late now
+14/08/2025, 09:18 - Brown Jesus: hopefully he wont notice
+14/08/2025, 09:19 - Brown Jesus: design ich waisa hai
+14/08/2025, 09:19 - Brown Jesus: https://www.canva.com/design/DAGqUSb6DqU/e2h41JtICdc0QwTnSWqO8Q/edit?utm_content=DAGqUSb6DqU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+14/08/2025, 09:20 - Brown Jesus: zara hadi ku bolke iska pdf bhejo bolo na?
+14/08/2025, 09:20 - Abrar...: https://github.com/MohammedAbrar2004/Mini-Project
+14/08/2025, 09:23 - Abrar...: https://chatgpt.com/share/689d5d95-ddbc-8012-9717-de6ceafd3c53
+14/08/2025, 09:23 - Abrar...: <Media omitted>
+14/08/2025, 09:33 - Brown Jesus: mohammed-amaan04
+14/08/2025, 09:34 - Brown Jesus: this is my GitHub id
+add me as collaborator
+14/08/2025, 11:14 - Brown Jesus: Test cases
+Uml diagrams
+Kind of project wrt to technicality
+14/08/2025, 11:14 - Brown Jesus: Practical aspect importance
+14/08/2025, 11:32 - Abrar...: <Media omitted>
+14/08/2025, 13:25 - Abrar...: ## PROJECT CONTEXT:
+I'm working on a project called **Veritas** – a fact-checking system that uses web scraping, semantic similarity, and source-based scoring to assess whether a claim is true, false, or misleading. The backend is Python-based with FastAPI, and the code is modular with folders:
+- `app/services/`: contains `scrapper.py`, `preprocessor.py`, `matcher.py`, `verifier.py`
+- `LLM/`: contains advanced LLM-based analysis, scoring logic, enhanced scraping, and semantic processing
+
+## MAJOR PROBLEMS TO FIX
+
+---
+
+### ⚠️ 1. ACCURACY ISSUES
+- The system **sometimes considers irrelevant or misleading articles as supporting**.
+- It **doesn’t correctly weigh source credibility** in the confidence/truth score.
+- It **fails to detect clear contradictions** or **overcounts near-duplicates**.
+
+👉 **Goal**: 
+- Fix article labeling.
+- Improve semantic contradiction detection.
+- Make sure source reliability affects the score more than article count.
+
+🛠️ Hint:
+- Revisit `matcher.py` and `advanced_llm_processor.py` to improve article-level semantic evaluation.
+- Use sentence-level contradiction detection.
+- In `confidence_scorer.py`, normalize and boost high-quality sources using a weight table.
+
+---
+
+### 🐌 2. EFFICIENCY & PERFORMANCE
+- The system takes **too long to complete**.
+- Chrome extension is fast, but the web version loads forever.
+- Backend logs show up to 50 articles being processed, many of which are duplicates or irrelevant.
+
+👉 **Goal**: 
+- Reduce redundant processing.
+- Skip low-content URLs earlier.
+- Improve `enhanced_web_scraper.py` performance.
+
+🛠️ Hint:
+- Use async scraping or thread pools.
+- Stop scoring and LLM calls for low-relevance or non-credible sources.
+- Remove `nltk.download()` calls from runtime; pre-download resources like `punkt`.
+
+---
+
+### ❌ 3. SEMANTIC ANALYSIS PROBLEMS
+- Semantic similarity fails for nuanced or negated claims (e.g., "dogs are dangerous" vs "dogs are not dangerous").
+- Sentence embeddings (MiniLM) sometimes give high similarity for *opposite meanings*.
+
+👉 **Goal**:
+- More accurate semantic matching.
+- Detect negation, stance, and entity mismatches.
+
+🛠️ Hint:
+- Consider using CrossEncoders or contradiction classifiers alongside MiniLM.
+- Introduce a scoring penalty for sentiment/stance mismatches in `content_analyzer.py`.
+
+---
+
+### 📉 4. TRUTH SCORE + CONFIDENCE SCORE INCONSISTENCIES
+- Some irrelevant or duplicate articles cause inflated confidence.
+- Credible sources (e.g., Reuters) are underweighted if they appear fewer times.
+- System gives high confidence for misleading claims if several low-quality articles support it.
+
+👉 **Goal**:
+- Truth score: derived from support vs contradiction articles.
+- Confidence score: weighted heavily by source credibility, not count.
+
+🛠️ Hint:
+- Redesign `confidence_scorer.py` to:
+  - Assign weights based on a source tier list (e.g., Reuters = 0.9, Yahoo = 0.4).
+  - Apply penalties for known clickbait sites.
+  - Normalize score based on total number of articles and diversity.
+
+---
+
+### 🔁 5. CHROME EXTENSION VS WEBSITE OUTPUT MISMATCH
+- Chrome Extension shows correct result.
+- Website version gives outdated or incorrect results.
+
+👉 **Goal**:
+- Ensure both use the **same endpoint**, **same backend**, and **same claim text**.
+
+🛠️ Hint:
+- Check if frontend sends claim exactly as expected (no extra spaces).
+- Log request body on both platforms to compare.
+- Make sure both hit `/api/fact-check` with `POST`.
+
+---
+
+### 🚫 6. OTHER ERRORS / BLOCKERS
+- `nltk` errors like `punkt_tab not found`.
+- Model loading fallback (LLaMA access denied → T5 fallback).
+- You’re seeing `attempted relative import with no known parent package` in LLM folder.
+- Some article content is completely empty even after scraping.
+
+👉 **Goal**:
+- Ensure stable NLP pipeline.
+- Avoid fallback to lower-quality models.
+- Extract better article content.
+
+🛠️ Hint:
+- Pre-download `nltk` resources (`punkt`) in setup.
+- Either use absolute imports or convert `LLM` to a proper package (`__init__.py`).
+- Log which scraper/parser (e.g., `readability`, `trafilatura`) failed.
+
+---
+
+### ✅ SUMMARY OF GOALS
+- [ ] Boost semantic accuracy and contradiction detection
+- [ ] Optimize processing time and remove duplicates
+- [ ] Fix confidence score weighting by source reputation
+- [ ] Match Chrome extension and frontend behavior
+- [ ] Fix loading issues and eliminate unnecessary runtime downloads
+- [ ] Improve fallback behavior (T5 vs LLaMA) if Hugging Face fails
+
+Also for the truth score and confidence score consider parameters such as relevance, expertise(for sports news consider sports channels, etc), region , recency. Adjust high weights for more expertise and credible sources
+14/08/2025, 13:33 - Brown Jesus: Lab ku ajao
+14/08/2025, 13:42 - Brown Jesus: <script async src="https://cse.google.com/cse.js?cx=505b825e145a04fbf">
+</script>
+<div class="gcse-search"></div>
+14/08/2025, 13:42 - Brown Jesus: 505b825e145a04fbf
+14/08/2025, 13:43 - Abrar...: <Media omitted>
+14/08/2025, 13:46 - Abrar...: <script async src="https://cse.google.com/cse.js?cx=e016465d162974c10">
+</script>
+<div class="gcse-search"></div>
+14/08/2025, 13:46 - Abrar...: e016465d162974c10
+14/08/2025, 14:03 - Abrar...: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+14/08/2025, 14:04 - Abrar...: AIzaSyAmNulMCDsTURu8d2ATYSeYoqnHWtGyFGk
+
+google api key
+14/08/2025, 14:06 - Abrar...: You deleted this message
+14/08/2025, 14:16 - Abrar...: Google_API_key_1 = AIzaSyAmNulMCDsTURu8d2ATYSeYoqnHWtGyFGk
+CSE_ID_1 = e016465d162974c10
+
+Google_API_key_2 = AIzaSyDm0yP_ACaIrI6_WuQBqWRW4QI9kNArfXE
+CSE_ID_2 = 87a513050ae524e45
+15/08/2025, 01:51 - Brown Jesus: <Media omitted>
+15/08/2025, 04:53 - Brown Jesus: *X API key:* MDGbY9jDOAOhRXvnff8SDF211
+*API key secret:* 4BxDpvH1v2MfyfJ4fSpmZbS2oO7LkCBxZp2q4mQmqQuJvm5YF9
+*Bearer token:* AAAAAAAAAAAAAAAAAAAAAPRS3gEAAAAAFO9p0mEufQAHn3ZJ1vW4w5NbNP8%3DiTIVoenpmF6tFQjQJ8PV3jz8CuedVh5jXSXiF94bE0lrUyD9DS
+*Access token:* 1342525811866288130-jqgtY5bzhzlPx62t5w27W6NUtFbJC3
+*Access token secret:* UBqhVRj1j1pWUtQ1635l6fMWYe4sYweNdasNc4Em6HCwH <This message was edited>
+15/08/2025, 05:05 - Brown Jesus: I am adding X bot
+18/09/2025, 20:58 - Brown Jesus changed the group name from "Mini Abrar Project" to "Major Abrar Project"
+18/09/2025, 20:58 - Brown Jesus: comeback
+18/09/2025, 20:59 - Abrar...: lessgo
+18/09/2025, 22:41 - Brown Jesus added Abdullah Class
+18/09/2025, 22:41 - Brown Jesus: Welcome to the team @⁨Abdullah Class⁩
+18/09/2025, 22:41 - Brown Jesus: This is abrar
+18/09/2025, 22:41 - Brown Jesus: @⁨Abrar...⁩ this is @⁨Abdullah Class⁩
+18/09/2025, 22:41 - Abrar...: Hello
+Abdullah
+18/09/2025, 22:44 - Abdullah Class: Hi abrar 🎀
+18/09/2025, 22:44 - Abdullah Class: Thankyou amaan🎀
+18/09/2025, 22:53 - Brown Jesus: <Media omitted>
+18/09/2025, 22:53 - Brown Jesus: <Media omitted>
+18/09/2025, 22:53 - Brown Jesus: <Media omitted>
+18/09/2025, 23:14 - Brown Jesus: First we need to decide the domain
+18/09/2025, 23:14 - Brown Jesus: Second we need to decide the idea
+18/09/2025, 23:14 - Brown Jesus: Third we make the abstract
+18/09/2025, 23:14 - Brown Jesus: Fourth we get it approved by the faculty
+18/09/2025, 23:15 - Brown Jesus: I already told maniza ma'am that we are doing the major project with her as our guide, so we have our slot booked
+18/09/2025, 23:15 - Brown Jesus: But phir bhi thoda jaldi ich decide lar linge
+18/09/2025, 23:16 - Abdullah Class: Aadi you're soo smart🥹🥹
+18/09/2025, 23:16 - Brown Jesus: Aadi?😭
+18/09/2025, 23:20 - Abdullah Class: first," "beginning," "original," or "superior" in Sanskrit and Hindi
+18/09/2025, 23:21 - Brown Jesus: 😭🙏
+18/09/2025, 23:21 - Brown Jesus: Domains bolo kya kya karna hai?
+18/09/2025, 23:21 - Brown Jesus: And think carefully
+18/09/2025, 23:22 - Brown Jesus: Cos jo bhi domain select kare wo future me affect hota in your career
+18/09/2025, 23:22 - Abdullah Class: Ai ml cloud ds😭🙏
+18/09/2025, 23:22 - Brown Jesus: Web?
+18/09/2025, 23:23 - Abdullah Class: Web app anything
+18/09/2025, 23:23 - Brown Jesus: Okay
+18/09/2025, 23:23 - Brown Jesus: What about @⁨Abrar...⁩ ?
+18/09/2025, 23:24 - Brown Jesus: Mera cloud, ai, web or app
+18/09/2025, 23:25 - Abrar...: AI and Web
+18/09/2025, 23:25 - Abrar...: cloud
+React native
+18/09/2025, 23:25 - Brown Jesus: Okay
+18/09/2025, 23:26 - Brown Jesus: Common domains are:
+
+Web
+AI
+Cloud
+App (optional)
+18/09/2025, 23:26 - Abrar...: Cloud Kiska hai?
+18/09/2025, 23:26 - Brown Jesus: Mera
+18/09/2025, 23:26 - Brown Jesus: Abdullah
+18/09/2025, 23:26 - Brown Jesus: Abrar
+18/09/2025, 23:26 - Abrar...: Cloud kismet?
+18/09/2025, 23:26 - Abrar...: GCP ya AWS
+18/09/2025, 23:27 - Brown Jesus: GCP or aws
+18/09/2025, 23:27 - Brown Jesus: Not final, but I am fine with either
+18/09/2025, 23:27 - Brown Jesus: All 3 are pretty similar when it comes to deployment and scalability
+18/09/2025, 23:27 - Brown Jesus: Last me decide karinge ki exactly konsa use karna hai
+18/09/2025, 23:28 - Brown Jesus: For now these domains are final
+18/09/2025, 23:28 - Brown Jesus: Please decide on your ideas
+18/09/2025, 23:28 - Brown Jesus: Like 3 each
+18/09/2025, 23:28 - Brown Jesus: Kal meet karke final kar dinge konsa karna hai
+18/09/2025, 23:28 - Brown Jesus: Cool?
+18/09/2025, 23:28 - Brown Jesus: @⁨Abrar...⁩ @⁨Abdullah Class⁩
+18/09/2025, 23:28 - Abrar...: Aight
+BOSS
+18/09/2025, 23:28 - Abdullah Class: Aight
+BOSS
+18/09/2025, 23:29 - Brown Jesus: Chalo sahi hai😭
+18/09/2025, 23:29 - Abdullah Class: <Media omitted>
+18/09/2025, 23:29 - Abrar...: <Media omitted>
+18/09/2025, 23:29 - Abrar...: (HER POV)
+18/09/2025, 23:29 - Brown Jesus: 😂😂😂😂😂
+18/09/2025, 23:29 - Abrar...: What she sees
+18/09/2025, 23:29 - Abdullah Class: Ayyy yoooo
+18/09/2025, 23:29 - Abdullah Class: 😭😭😭😂😂😂
+18/09/2025, 23:29 - Brown Jesus: I got it when you said her pov😭
+18/09/2025, 23:30 - Abdullah Class: Abrar moving madd
+18/09/2025, 23:30 - Abdullah Class: <Media omitted>
+18/09/2025, 23:30 - Brown Jesus: <Media omitted>
+19/09/2025, 08:43 - Brown Jesus: POLL:
+meet when?
+OPTION: 9 (1 vote)
+OPTION: 10 (2 votes)
+OPTION: 11 (3 votes)
+OPTION: 12 (3 votes)
+
+19/09/2025, 10:12 - Abdullah Class: Pm?
+19/09/2025, 10:13 - Brown Jesus: Yess
+19/09/2025, 10:16 - Brown Jesus: 11 done
+19/09/2025, 10:18 - Brown Jesus: SIH ka bhi prepare karlo
+
+And major project ke liye 3 ideas bhi dhoondlo
+
+Domains ye hai
+
+Preferably go for something new, a technology that has been advancing, agentic ai or mcps,  or smthg like that
+19/09/2025, 16:41 - Abrar...: Can we push the meet to tomorrow 
+
+Aaj i have sih and gdg ki meet
+19/09/2025, 16:42 - Brown Jesus: we don't have gdg meet today
+19/09/2025, 16:42 - Abrar...: I have
+19/09/2025, 16:44 - Brown Jesus: you dont
+19/09/2025, 16:44 - Brown Jesus: but sih ke liye busy hai shyd sab
+19/09/2025, 19:30 - Abdullah Class: Yeah
+19/09/2025, 19:30 - Abdullah Class: So Tommorow?
+19/09/2025, 19:31 - Brown Jesus: Yeah tomorrow
+20/09/2025, 09:30 - Brown Jesus: assalamalaikum students, fill this google form and after dusshera vacation u can submit hard copy. https://forms.gle/9HwYgaEYiSZyaBtx7
+20/09/2025, 09:30 - Brown Jesus: so max size is 3 and each faculty can guide 2 projects other than professors who can guide 3 projects. Meet your guide and take his/her approval before submitting the form.
+20/09/2025, 09:32 - Brown Jesus: Guys, try looking for problem statements:
+Sih
+GSoC
+Solutions challenge
+Dusre koi hackathons (if they give)
+
+Research papers from:
+MIT
+Harvard
+Stanford
+
+Or problems/research papers given by Tech giants:
+Meta
+IBM
+Apple (optional)
+OpenAI
+Anthro
+Etc..
+20/09/2025, 09:32 - Brown Jesus: Like dont try to directly find an idea or solution
+20/09/2025, 09:33 - Brown Jesus: Try searching for problems
+20/09/2025, 09:33 - Brown Jesus: Then we can come up with a solution for it
+20/09/2025, 10:05 - Abdullah Class: Inshallah
+20/09/2025, 10:31 - Brown Jesus: Inshallah
+20/09/2025, 22:00 - Brown Jesus: maniza ma'am reserved
+20/09/2025, 22:00 - Brown Jesus: since the beginning
+20/09/2025, 22:00 - Brown Jesus: aaj confirm bhi kar diya mai
+21/09/2025, 00:38 - Abdullah Class: Pakkaa promise?
+21/09/2025, 00:40 - Brown Jesus: Pakka
+21/09/2025, 00:41 - Abdullah Class: Lessggoooo
+21/09/2025, 00:41 - Abrar...: promise nahi kare amaan
+21/09/2025, 00:41 - Abrar...: pinky promise karo aap
+21/09/2025, 00:41 - Abrar...: pinky finger sei
+21/09/2025, 00:41 - Brown Jesus: Bgn
+21/09/2025, 00:41 - Abrar...: jhut bolra inne
+21/09/2025, 00:41 - Abdullah Class: Woi
+Khali dusro ku karte shyd😞💔
+21/09/2025, 00:41 - Abrar...: pakka
+21/09/2025, 00:42 - Brown Jesus: 🗿
+21/09/2025, 00:42 - Abdullah Class: Gdg walo ku?
+21/09/2025, 00:42 - Abdullah Class: Promise?
+21/09/2025, 00:42 - Abdullah Class: 😭😭
+21/09/2025, 09:59 - Brown Jesus: Kisi ku nai😭
+24/09/2025, 20:24 - Abrar...: nighus
+24/09/2025, 20:24 - Abrar...: add me in the group
+24/09/2025, 20:25 - Brown Jesus: <Media omitted>
+24/09/2025, 20:31 - Abdullah Class: <Media omitted>
+24/09/2025, 20:31 - Abdullah Class: Which group?😭
+24/09/2025, 20:31 - Abrar...: A vs C
+24/09/2025, 20:31 - Abdullah Class: <Media omitted>
+24/09/2025, 20:37 - Abrar...: Maniza ma'am ka major project ka
+25/09/2025, 11:26 - Brown Jesus: add kar diya mai tumaku
+25/09/2025, 11:27 - Brown Jesus: ma'am bolre ki she needs the title and domain of the project
+25/09/2025, 11:27 - Brown Jesus: nai tou nikal dete unu🗿
+25/09/2025, 12:40 - Abdullah Class: 😭😭😭
+25/09/2025, 23:24 - Abrar...: 25164
+25/09/2025, 23:36 - Abrar...: 25170
+25/09/2025, 23:43 - Abrar...: 25174
+25/09/2025, 23:45 - Abrar...: 25175
+25/09/2025, 23:53 - Abrar...: 25177
+26/09/2025, 20:24 - Abrar...: nigha
+26/09/2025, 20:24 - Abrar...: s
+26/09/2025, 20:24 - Abrar...: discord aajao
+26/09/2025, 20:24 - Abrar...: we do some work abhi
+26/09/2025, 20:25 - Abrar...: https://discord.gg/VzSjbuJs
+26/09/2025, 20:25 - Abrar...: @⁨Abdullah Class⁩
+26/09/2025, 20:25 - Abrar...: @⁨Brown Jesus⁩
+26/09/2025, 20:33 - Abdullah Class: Boys old city mei tha mai aj mushkil hai
+26/09/2025, 20:33 - Abdullah Class: Inshallah kal free hu
+26/09/2025, 20:33 - Abdullah Class: Kal meeting?
+26/09/2025, 20:34 - Brown Jesus: Cant show up on such short notice <This message was edited>
+26/09/2025, 20:34 - Abdullah Class: Yes😞💔
+26/09/2025, 20:37 - Abrar...: Nigha
+HAI TUM
+26/09/2025, 20:37 - Abrar...: SHORT NOTICE KYA REHTA
+26/09/2025, 20:37 - Abrar...: APAN SAB SHORT HAI
+26/09/2025, 20:37 - Abrar...: toh bgn ka short notice
+26/09/2025, 20:42 - Abdullah Class: Apan?
+26/09/2025, 20:42 - Abdullah Class: There no we
+26/09/2025, 20:42 - Abdullah Class: Ok
+26/09/2025, 20:42 - Abdullah Class: 😭🙏
+26/09/2025, 20:48 - Abrar...: 5'9 ke niche short hai nighas
+26/09/2025, 20:54 - Abdullah Class: Haan mai 5'10 hu
+26/09/2025, 20:54 - Abdullah Class: So sybau
+26/09/2025, 20:54 - Abdullah Class: 😭😭😭😭🙏🙏🙏🙏
+26/09/2025, 20:58 - Abrar...: Baigan
+26/09/2025, 20:59 - Abdullah Class: <Media omitted>
+26/09/2025, 21:50 - Brown Jesus: no relation😭🙏
+26/09/2025, 21:50 - Brown Jesus: kya time se?
+28/09/2025, 18:57 - Brown Jesus: 25163
+30/09/2025, 11:27 - Brown Jesus: https://chatgpt.com/share/68db7144-a2e8-800b-ab37-49b42a48c917
+03/10/2025, 14:16 - Abrar...: Guys aaj raat 10-11 baje meet
+03/10/2025, 14:18 - Abdullah Class: Okay Inshallah
+03/10/2025, 14:20 - Brown Jesus: Inshallah
+03/10/2025, 23:33 - Abrar...: nigha
+03/10/2025, 23:33 - Abrar...: nighas
+03/10/2025, 23:33 - Abrar...: HOW TF WE FORGET
+03/10/2025, 23:33 - Abrar...: KIDHER HAI SAN
+03/10/2025, 23:34 - Brown Jesus: crazy
+03/10/2025, 23:34 - Brown Jesus: I am here
+03/10/2025, 23:34 - Brown Jesus: @⁨Abdullah Class⁩ ?
+03/10/2025, 23:34 - Brown Jesus: fr😭
+03/10/2025, 23:35 - Abrar...: free hai abhi?
+03/10/2025, 23:35 - Brown Jesus: yes
+03/10/2025, 23:35 - Abrar...: @⁨Abdullah Class⁩
+03/10/2025, 23:35 - Brown Jesus: I don't know
+03/10/2025, 23:35 - Brown Jesus: @⁨Abdullah Class⁩ wya?
+03/10/2025, 23:36 - Abdullah Class: Yoo
+03/10/2025, 23:36 - Abdullah Class: Jaldieee send
+03/10/2025, 23:36 - Brown Jesus: discy
+03/10/2025, 23:36 - Abdullah Class: Bhar jaana hai meku😭😭
+03/10/2025, 23:36 - Brown Jesus: whaa??
+03/10/2025, 23:36 - Brown Jesus: major project kab akrte phirrr???
+03/10/2025, 23:36 - Brown Jesus: 😞😭
+03/10/2025, 23:36 - Abdullah Class: Time hai na?
+03/10/2025, 23:36 - Abdullah Class: <Media omitted>
+03/10/2025, 23:36 - Brown Jesus: reeeyy
+03/10/2025, 23:36 - Brown Jesus: nai hai😭
+03/10/2025, 23:36 - Abdullah Class: <Media omitted>
+03/10/2025, 23:36 - Brown Jesus: jaldi khatam karna hai
+03/10/2025, 23:36 - Brown Jesus: saaleee
+03/10/2025, 23:36 - Abrar...: https://discord.gg/zCH49pdu
+03/10/2025, 23:36 - Abdullah Class: Just give me one more day
+03/10/2025, 23:37 - Brown Jesus: abhi 5 min ajao
+03/10/2025, 23:37 - Abrar...: ok
+03/10/2025, 23:37 - Abdullah Class: Okay
+03/10/2025, 23:37 - Abdullah Class: Join
+04/10/2025, 00:00 - Abrar...: <Media omitted>
+04/10/2025, 00:16 - Brown Jesus: Digital Flood/Disaster Insurance Claim Assistant
+
+Inspired by: Disaster Management problem statements
+
+Solution: Agent-based system that helps citizens quickly file insurance/relief claims after floods/cyclones by filling govt forms, verifying docs via RAG.
+
+Multi-Language Citizen Service AI Assistant
+
+Inspired by: GovTech simplification problems
+
+Solution: A voice + text RAG agent in regional languages that guides people step-by-step in applying for subsidies, certificates, and welfare schemes.
+04/10/2025, 00:17 - Brown Jesus: Ethical AI Guardian Agent
+
+As AI adoption grows, bias/misuse will explode. Build an agent watchdog that monitors AI outputs, flags bias/unfairness, and creates compliance workflows.
+07/10/2025, 10:19 - Brown Jesus: <Media omitted>
+07/10/2025, 10:19 - Brown Jesus: Homos aaj raat finalise karna hai
+07/10/2025, 12:25 - Brown Jesus: homies*
+07/10/2025, 14:03 - Abdullah Class: Done😭
+07/10/2025, 15:55 - Abdullah Class: 5 meeting?
+07/10/2025, 15:58 - Abrar...: busy hu
+raat mei karlinge
+07/10/2025, 15:58 - Abrar...: Everybody come up with 3 ideas
+pitch
+
+Joh acha dikha woh karlinge
+07/10/2025, 16:04 - Abdullah Class: How raat?
+07/10/2025, 16:04 - Abdullah Class: Mai raat mei busy rehtu😭
+07/10/2025, 16:04 - Abdullah Class: 1 ku karne ready hai?🙂
+07/10/2025, 16:05 - Brown Jesus: mai busy rehtu wo time😞
+07/10/2025, 16:05 - Brown Jesus: sone ka rehta
+07/10/2025, 16:05 - Abdullah Class: 😭😭😭😭😭
+07/10/2025, 16:09 - Abrar...: 10
+07/10/2025, 16:09 - Abrar...: Aight
+07/10/2025, 16:34 - Abdullah Class: Please amaan
+07/10/2025, 16:34 - Abdullah Class: ☺️
+07/10/2025, 16:37 - Brown Jesus: 😭 theek hai
+07/10/2025, 16:59 - Abdullah Class: 🫂
+07/10/2025, 23:29 - Abdullah Class: Guyss I'm free
+07/10/2025, 23:29 - Abdullah Class: Meeting jab bole jab
+07/10/2025, 23:29 - Brown Jesus: 11:45 tak lar linge?
+07/10/2025, 23:29 - Brown Jesus: Me also free
+07/10/2025, 23:30 - Abdullah Class: Done
+07/10/2025, 23:42 - Brown Jesus: AI Citizen Query Resolver for Government Portals
+
+Problem: People can’t navigate complex government portals for documents or applications.
+Solution: Build a multi-language AI assistant that uses RAG over government portals and FAQs to guide citizens step-by-step (auto-fill forms, check eligibility, track status).
+Tech fit: RAG + Agentic AI + GCP backend + Web frontend.
+07/10/2025, 23:43 - Abrar...: Chrome extension
+07/10/2025, 23:45 - Brown Jesus: Agent-Powered Research Companion
+
+Problem: Students and researchers drown in unstructured papers and notes.
+Idea: A RAG + GenAI agent system that continuously reads your research corpus → surfaces insights, connects related concepts, and builds evolving mind maps.
+Why niche: Like having a PhD co-pilot that learns your research direction.
+07/10/2025, 23:45 - Brown Jesus: AI Digital Memory Archivist
+
+Problem: Our data (photos, notes, docs) is fragmented across apps.
+Idea: An agent that indexes your digital life, builds memory timelines, and uses RAG to recall “What was I working on when I took this photo?”
+Why niche: Merges GenAI + memory graphs + personal search — a digital hippocampus.
+07/10/2025, 23:47 - Abrar...: Talib and Hadi's mini project
+07/10/2025, 23:47 - Abrar...: Nice idea
+07/10/2025, 23:47 - Brown Jesus: AI-Powered Cognitive Load Balancer for Teams
+
+Problem: Burnout and cognitive overload reduce team productivity.
+Idea: A multi-agent system that monitors workload, meeting intensity, focus hours → redistributes tasks intelligently.
+Why niche: Introduces “AI empathy” into work management — the next-gen HR tech.
+07/10/2025, 23:47 - Brown Jesus: Ek server banao koi
+07/10/2025, 23:47 - Abrar...: kyu?
+07/10/2025, 23:47 - Abrar...: 3 logo mei server nahi banta
+07/10/2025, 23:47 - Brown Jesus: For major project
+07/10/2025, 23:47 - Brown Jesus: Wha
+07/10/2025, 23:47 - Abrar...: I can make a channel for us 3
+07/10/2025, 23:48 - Brown Jesus: Works
+07/10/2025, 23:48 - Brown Jesus: We really need this
+07/10/2025, 23:48 - Brown Jesus: And I need this
+07/10/2025, 23:57 - Brown Jesus: Makee
+07/10/2025, 23:57 - Brown Jesus: Time horaaa
+07/10/2025, 23:58 - Abrar...: Abdullah ki ID kya hai?
+07/10/2025, 23:58 - Brown Jesus: Wolfenstein
+07/10/2025, 23:58 - Brown Jesus: @⁨Abdullah Class⁩ ye ich hai na?
+07/10/2025, 23:59 - Abdullah Class: Yss
+07/10/2025, 23:59 - Brown Jesus: Join
+08/10/2025, 00:00 - Brown Jesus: C nighas
+08/10/2025, 00:00 - Brown Jesus: @⁨Abdullah Class⁩
+08/10/2025, 00:00 - Brown Jesus: @⁨Abdullah Class⁩
+08/10/2025, 00:00 - Brown Jesus: @⁨Abdullah Class⁩
+08/10/2025, 00:00 - Brown Jesus: @⁨Abdullah Class⁩
+08/10/2025, 00:00 - Brown Jesus: @⁨Abdullah Class⁩
+08/10/2025, 00:00 - Brown Jesus: Kiiddhhhaarrr hhaaaaiii???
+08/10/2025, 00:00 - Abdullah Class: Wait
+08/10/2025, 00:00 - Abdullah Class: Kaha hai??
+08/10/2025, 00:00 - Abdullah Class: 😭😭
+08/10/2025, 00:00 - Brown Jesus: Okay
+08/10/2025, 00:01 - Abrar...: just join any channel
+08/10/2025, 00:01 - Brown Jesus: Gaymers me ich hai re bhai
+08/10/2025, 00:01 - Brown Jesus: 😭😭
+08/10/2025, 00:02 - Abdullah Class: https://chatgpt.com/share/68e55c8a-7244-8002-b078-801f7ab8b88a
+08/10/2025, 00:04 - Brown Jesus: .
+08/10/2025, 00:04 - Brown Jesus: Ye do
+08/10/2025, 00:05 - Brown Jesus: .
+08/10/2025, 00:12 - Brown Jesus: .yeee <This message was edited>
+08/10/2025, 00:19 - Brown Jesus: .
+08/10/2025, 00:22 - Abrar...: SIH25242
+08/10/2025, 00:22 - Brown Jesus: 25242
+08/10/2025, 00:36 - Brown Jesus: <Media omitted>
+08/10/2025, 00:36 - Abdullah Class: SIH25198
+08/10/2025, 00:43 - Brown Jesus: Ai calls
+08/10/2025, 00:43 - Brown Jesus: Ai talks with the other person in my voice, i can monitor or hear the call later
+08/10/2025, 00:43 - Brown Jesus: Can be extended for text
+08/10/2025, 00:44 - Abrar...: Deep learning based ALM (Audio Language Model), which Listen, Think, and Understand the speech and non-speech Together.
+08/10/2025, 00:47 - Abdullah Class: Problem Statement Title	
+AI-based UFDR (Universal Forensic Extraction Device Report) Analysis Tool
+Description
+The problem statement is to build an AI-based agent that can ingest UFDRs and allow CIOs to run natural language queries (e.g., “show me chat records containing crypto addresses” or “list all communications with foreign numbers”). The tool should intelligently retrieve relevant data, highlight key findings, and generate easy-to-understand outputs without requiring the officer to have deep technical expertise. The tool should also be able to provide interconnectivity and linkages across other forensics data.
+08/10/2025, 00:58 - Brown Jesus: Voice-Centric Knowledge Graph Builder
+
+Concept:
+AI listens to all your meetings, calls, and voice memos — auto-generates a knowledge graph connecting people, topics, decisions, and sentiments.
+
+Why powerful:
+Turns raw speech into searchable organizational intelligence.
+
+Voice-Centric Knowledge Graph Builder
+
+Concept:
+AI listens to all your meetings, calls, and voice memos — auto-generates a knowledge graph connecting people, topics, decisions, and sentiments.
+
+Why powerful:
+Turns raw speech into searchable organizational intelligence.
+08/10/2025, 00:59 - Brown Jesus: Ai talks with the other person in my voice, i can monitor or hear the call later
+Can be extended for text
+08/10/2025, 01:00 - Abdullah Class: AI Digital Memory Archivist
+
+Problem: Our data (photos, notes, docs) is fragmented across apps.
+Idea: An agent that indexes your digital life, builds memory timelines, and uses RAG to recall “What was I working on when I took this photo?”
+Why niche: Merges GenAI + memory graphs + personal search — a digital hippocampus. <This message was edited>
+08/10/2025, 01:01 - Brown Jesus: Basically a PA that remembers everything for you, your calls, your texts, your meetings and then goes on to make calls for you in your voice and send texts based on previous convo or your conversational patterns. It also remembers and connects everything for you, like a knowledge graph that connects people, places, images, topics, contexts, files etc..
+08/10/2025, 01:02 - Brown Jesus: https://forms.gle/9HwYgaEYiSZyaBtx7
+08/10/2025, 01:03 - Brown Jesus: <Media omitted>
+08/10/2025, 01:05 - Abdullah Class: <Media omitted>
+08/10/2025, 12:39 - Brown Jesus: Attention:
+003,008;
+165,179;
+
+Update on your project work.  Need to do project registration submission today.
+08/10/2025, 13:28 - Abdullah Class: 😭😭
+08/10/2025, 13:28 - Brown Jesus: arriyaan gave me an offer
+08/10/2025, 13:29 - Abdullah Class: ?
+08/10/2025, 13:30 - Brown Jesus: she is proposing that we work on the same project, she has an idea kate, so they will make the frontend and we make the backend, since it is different dept no one will know
+08/10/2025, 13:30 - Brown Jesus: but idea meku utna acha nai laga
+08/10/2025, 13:30 - Abdullah Class: Then no
+08/10/2025, 13:30 - Brown Jesus: https://docs.google.com/document/d/1Ibglv3_2UaJYWpayVRDBWRn627F2hMRHASbmAUqihko/edit?tab=t.0
+08/10/2025, 13:30 - Brown Jesus: ye hai
+08/10/2025, 13:31 - Abdullah Class: Bgn hota utha sab padhna 😭😭
+08/10/2025, 13:31 - Abdullah Class: Abhhhiii neeind mei se utha mai
+08/10/2025, 13:32 - Brown Jesus: 😭😭😭
+08/10/2025, 13:32 - Brown Jesus: 🎯 Overview
+
+SlayTalk is an intelligent system designed to assess and enhance public speaking skills by analyzing body language, voice modulation, speech clarity, and confidence using video/audio input and ML techniques.
+
+🔍 Core Objectives
+
+Evaluate public speaking traits using observable indicators.
+
+Provide constructive, data-driven feedback.
+
+Help users become more confident communicators. <This message was edited>
+08/10/2025, 13:58 - Abdullah Class: Better
+08/10/2025, 19:28 - Brown Jesus: https://chatgpt.com/share/68e66e08-6360-800b-86d5-915e7c025be4
+08/10/2025, 19:29 - Brown Jesus: I did the prompt engineering and combined the ideas
+08/10/2025, 19:31 - Abdullah Class: Thas fucking crazzzyyyy
+08/10/2025, 19:32 - Brown Jesus: form abhi submit kar deru mai
+08/10/2025, 19:32 - Brown Jesus: koi zara ye doc ke details fill kardo
+08/10/2025, 19:32 - Brown Jesus: abstract chordke
+08/10/2025, 20:24 - Brown Jesus: <Media omitted>
+08/10/2025, 20:24 - Brown Jesus: @⁨Abrar...⁩ @⁨Abdullah Class⁩
+08/10/2025, 20:24 - Brown Jesus: check fast
+08/10/2025, 20:25 - Brown Jesus: *🛠️ Tech Stack*
+*AI & Core Models*
+Speech Processing: Whisper / DeepSpeech / NVIDIA NeMo
+NLP + Context Understanding: OpenAI GPT-5 / Llama 3 / Claude
+Voice Synthesis: ElevenLabs / Microsoft SpeechTTS / Bark
+Speaker & Emotion Recognition: pyAudioAnalysis / OpenVoice / librosa
+Knowledge Graph: Neo4j / GraphDB / LangChain Graph Memory
+
+*Data & Storage*
+Vector DB: Pinecone / Weaviate / Chroma
+Metadata + Contextual Memory: MongoDB / PostgreSQL
+Cloud Storage: AWS S3 / GCP Storage
+
+*Backend*
+Python (FastAPI / Flask)
+LangChain or LlamaIndex for data orchestration
+GraphQL API for knowledge retrieval
+
+*Frontend*
+React (Next.js) with D3.js or Cytoscape for knowledge graph visualization
+WebRTC / Twilio for live voice interaction
+Tailwind / Shadcn for UI
+
+*Security & Ethics*
+AES encryption for stored audio & text
+Consent-based recording & speech cloning
+AI bias and privacy watchdog module
+08/10/2025, 20:26 - Abrar...: I am out
+Gimme 30 m
+08/10/2025, 20:27 - Brown Jesus: too much traffic, kahi ruk ke padhlo pehle yee
+08/10/2025, 20:27 - Brown Jesus: 😭😭🙏
+08/10/2025, 20:42 - Abdullah Class: Crazyyy
+08/10/2025, 21:00 - Abrar...: Aagaaya
+08/10/2025, 21:01 - Brown Jesus: okay check fas fas
+08/10/2025, 21:02 - Brown Jesus: @⁨Abdullah Class⁩ what you say?
+08/10/2025, 21:05 - Abrar...: HMMM
+08/10/2025, 21:05 - Abrar...: We are overpromising
+08/10/2025, 21:06 - Abrar...: Abstract mei 
+Features todhe kam kardo
+08/10/2025, 21:06 - Abrar...: We are gonna make it anyways
+08/10/2025, 21:07 - Brown Jesus: okay done
+08/10/2025, 21:10 - Brown Jesus: <Media omitted>
+08/10/2025, 21:22 - Abdullah Class: 👍👍
+08/10/2025, 23:34 - Brown Jesus: yo
+08/10/2025, 23:34 - Brown Jesus: do we need help with frontend for this project?
+08/10/2025, 23:34 - Abrar...: not really
+08/10/2025, 23:35 - Brown Jesus: cos we can give a counter offer to them
+08/10/2025, 23:35 - Brown Jesus: make them do our project ya lyt
+08/10/2025, 23:36 - Abrar...: u can ask ig
+08/10/2025, 23:38 - Abdullah Class: Nai yaro
+08/10/2025, 23:38 - Brown Jesus: mai bhi sonchru lyt
+09/10/2025, 01:03 - Abdullah Class: Woich lyt
+13/10/2025, 22:31 - Abdullah Class: https://www.instagram.com/reel/DO4HdblEf4m/?igsh=MnpqajdwcGs5MHg0
+13/10/2025, 22:31 - Abdullah Class: <Media omitted>
+15/10/2025, 21:12 - Abrar...: nighas
+15/10/2025, 21:12 - Abrar...: research bhi karna hai
+15/10/2025, 21:13 - Brown Jesus: Research se ich shuru karna hai
+15/10/2025, 21:13 - Brown Jesus: First seminar me woi poochre ig
+15/10/2025, 23:03 - Abdullah Class: <Media omitted>
+22/10/2025, 19:22 - Brown Jesus: Yo
+22/10/2025, 19:22 - Brown Jesus: Aaj raat meeting karinge
+22/10/2025, 19:22 - Brown Jesus: Literature survey start kar linge
+22/10/2025, 19:34 - Abrar...: Aught
+22/10/2025, 22:24 - Brown Jesus: Time?
+22/10/2025, 22:25 - Abrar...: 11:50
+22/10/2025, 22:25 - Abrar...: Abdullah nighesh nahi dekha abhi tak message
+22/10/2025, 22:26 - Brown Jesus: 😭
+22/10/2025, 22:26 - Brown Jesus: @⁨Abdullah Class⁩
+22/10/2025, 23:01 - Abdullah Class: Oi boiss
+22/10/2025, 23:02 - Abdullah Class: Cousins ke sath hu mai😭
+22/10/2025, 23:02 - Abdullah Class: Message kardoo meku kya karna hai
+22/10/2025, 23:02 - Abdullah Class: Inshallah mai karletu
+22/10/2025, 23:08 - Abrar...: bruh
+22/10/2025, 23:09 - Brown Jesus: 🙃
+23/10/2025, 19:47 - Brown Jesus: Here are some key research papers that align quite nicely with various facets of your project (voice interaction, knowledge graphs, digital twin / cognitive twin, conversational agents). I’ve split them into “base foundational papers” (important background) and “other relevant papers” (more specific to your core features) so you can pick & integrate into your literature survey.
+
+
+---
+
+🔍 Base Foundational Papers
+
+These give you the fundamentals on knowledge graphs + speech/dialogue + digital twin ideas.
+
+1. Knowledge Graph Inference for Spoken Dialog Systems (Yi Ma et al., ICASSP 2015) — merges large-scale semantic knowledge graphs with spoken dialog systems: tracking dialog state via Markov Random Fields over KG structures. 
+
+
+2. Towards Large‑Scale Interpretable Knowledge Graph Reasoning for Dialogue Systems (Yi-Lin Tuan et al., 2022) — introduces reasoning over KGs in dialogue agents using transformer models walking on KG paths. 
+
+
+3. Towards the “Digital Me”: A vision of authentic conversational agents powered by personal Human Digital Twins (Lluís C. Coll et al., 2025) — discusses the architecture of human digital twins that mirror conversational style, memories, behaviours. 
+
+
+4. A Speech‑to‑Knowledge‑Graph Construction System (Xiaoyi Fu et al., IJCAI 2020) — directly relevant: converting speech into a knowledge graph in (near) real-time. 
+
+
+
+
+---
+
+📚 Other Relevant Papers
+
+These delve into modalities or newer intersections which your project touches (voice → KG, digital twin + conversational AI, multi-modal speech systems).
+
+5. wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech (Khai Le-Duc et al., 2024) — very relevant: building a KG from speech data (not just text) using GNNs. 
+
+
+6. An Answer Verbalization Dataset for Conversational Question Answering over Knowledge Graphs (Endri Kacupaj et al., 2022) — a dataset and study of verbalised answers over KGs in conversational QA systems, relevant for voice output + KG interplay. 
+
+
+7. Application of Large Language Model Based on Knowledge Graph in Speech Dialogue System (Yihao Zhou, 2024) — discusses using LLMs + KGs in speech-dialogue systems. 
+
+
+8. Building a Human Digital Twin (HDTwin) Using Large Language Models for Cognitive Diagnosis: Algorithm Development and Validation (2024) — though in healthcare, it demonstrates building a “digital twin” using conversational/LLM approach that you may adapt conceptually. 
+
+
+9. Intelligent Digital Twin for Predicting Technology Discourse Patterns: Agent‑Based Modeling of User Interactions and Sentiment Dynamics (Kaihang Zhang et al., 2025) — shows digital twin applied to discourse modelling, sentiment, interactions. 
+
+
+
+
+---
+
+✅ How you might structure your literature survey
+
+Section 1: Background on Knowledge Graphs & Reasoning (papers 1, 2)
+
+Section 2: Speech / Voice → Knowledge Graph generation (papers 4, 5)
+
+Section 3: Conversational Agents + Voice + Knowledge Graph integration (papers 3, 6, 7)
+
+Section 4: Digital Twin / Cognitive Twin paradigms (papers 8, 9)
+
+Section 5: Gaps & how your project addresses them (link your idea: voice-centric KG builder + digital twin of user)
+
+
+
+---
+
+If you like, I can pull a fuller list (10-15) of papers (with full citations, links, short summaries) specifically curated for your project topic (voice knowledge graphs + digital avatar) to help your survey deeper. Would you like me to do that?
+23/10/2025, 19:47 - Abrar...: Guys mei aaj realize kara 
+Apna major project bohot zyada complicated hai
+23/10/2025, 19:48 - Abrar...: Bhetna padta seriously 
+Min 2 months
+23/10/2025, 19:49 - Abdullah Class: 
+23/10/2025, 19:49 - Abdullah Class: Private pe reply nai karta kya Abrar?😞😞
+23/10/2025, 19:51 - Brown Jesus: https://chatgpt.com/share/68e66e08-6360-800b-86d5-915e7c025be4
+23/10/2025, 19:51 - Abrar...: Bhoolgaya
+23/10/2025, 19:51 - Brown Jesus: Isme hai links
+23/10/2025, 19:52 - Brown Jesus: 4 base papers hai
+5 other relevant references
+23/10/2025, 19:52 - Brown Jesus: Sablog ek ek base paper kar linge and ek relevant reference paper
+23/10/2025, 19:53 - Abdullah Class: Crazy
+23/10/2025, 19:53 - Brown Jesus: Me- 1, 4, 7
+Abrar- 2, 5, 8
+Abdullah- 3, 6, 9
+24/10/2025, 19:47 - Abrar...: nighas
+24/10/2025, 19:47 - Abrar...: aaj
+24/10/2025, 19:47 - Abrar...: 12 baje
+24/10/2025, 19:50 - Brown Jesus: Done
+24/10/2025, 20:04 - Abdullah Class: Done
+24/10/2025, 22:11 - Brown Jesus: Abhi kar linge na meet
+24/10/2025, 22:11 - Brown Jesus: Meku neend aari
+25/10/2025, 00:09 - Abdullah Class: Broooo
+25/10/2025, 00:09 - Abdullah Class: Sogya?
+25/10/2025, 00:09 - Abrar...: Guys basically karna ye hai
+Ki
+25/10/2025, 00:10 - Abrar...: We need to have a brief meeting to discuss the scope and goal of our project 
+
+Use cases 
+Features
+Requirements
+25/10/2025, 00:11 - Abrar...: Once this is done
+We will design a rough system architecture and refine it for 3-4 iterations 
+With industry standards and most optimised practices.
+25/10/2025, 00:12 - Abrar...: Ye hone ke baad
+We will build our project modularly 
+
+Ui design karlinge
+Not code.
+
+Once ui is designed
+We will start working on backend and microservices.
+
+Then aakhir mei frontend.
+25/10/2025, 00:12 - Abrar...: 2-3 iterations karinge
+25/10/2025, 00:12 - Abrar...: This stage mei we will buy subscriptions for AI tools
+25/10/2025, 00:13 - Brown Jesus: Bed pe hu
+25/10/2025, 00:13 - Abdullah Class: Crazy Abrar
+25/10/2025, 00:14 - Brown Jesus: Abrar op
+25/10/2025, 00:14 - Abdullah Class: Abrar daddy
+25/10/2025, 00:14 - Abdullah Class: 😝😝
+25/10/2025, 00:14 - Brown Jesus: Abrar gran daddy
+25/10/2025, 00:14 - Brown Jesus: Sugar*
+25/10/2025, 00:16 - Abrar...: Spread em cheeks
+25/10/2025, 00:16 - Abdullah Class: <Media omitted>
+25/10/2025, 00:16 - Brown Jesus: I wasn't ready for wild abrar yet
+25/10/2025, 00:17 - Abdullah Class: Wild only for me
+25/10/2025, 00:17 - Abdullah Class: <Media omitted>
+25/10/2025, 00:17 - Brown Jesus: <Media omitted>
+25/10/2025, 00:18 - Brown Jesus: You cant two time abrar
+25/10/2025, 00:19 - Abrar...: 
+25/10/2025, 00:19 - Brown Jesus: Cute cat
+25/10/2025, 00:41 - Abdullah Class: 😭😭
+25/10/2025, 05:49 - Abrar...: 
+30/10/2025, 10:33 - Brown Jesus: Yo
+31/10/2025, 21:49 - Abrar...: Abdullah
+31/10/2025, 21:49 - Abrar...: kal exam ke baad
+31/10/2025, 21:49 - Abrar...: me 
+u 
+Amaan meet
+31/10/2025, 21:51 - Brown Jesus: Yes we meety
+31/10/2025, 21:52 - Abdullah Class: College mei hi?
+31/10/2025, 21:54 - Abrar...: yes
+31/10/2025, 22:03 - Abdullah Class: Insha'Allah done
+31/10/2025, 22:04 - Brown Jesus: Inshallah
+01/11/2025, 20:37 - Abrar...: 20 nov tak, literature survey,  problem statement, abstract, tools used...Data sets, package, API 
+And pura study kar k aao bole project k
+01/11/2025, 20:38 - Brown Jesus: Project bhi bana lena?
+01/11/2025, 20:39 - Abrar...: we can
+01/11/2025, 20:40 - Brown Jesus: <Media omitted>
+01/11/2025, 20:40 - Brown Jesus: <Media omitted>
+01/11/2025, 20:40 - Brown Jesus: <Media omitted>
+02/11/2025, 14:42 - Abrar...: @⁨Brown Jesus⁩
+02/11/2025, 14:42 - Abrar...: send me the pdf
+02/11/2025, 14:53 - Brown Jesus: <Media omitted>
+02/11/2025, 16:01 - Abrar...: AI guardian nahi hai isme
+07/11/2025, 10:49 - Abrar...: Dear Students,
+
+This is to inform you that the Project Work–I Seminar presentations will be conducted as per the following schedule:
+•	Seminar 1: November 21–22, 2025
+•	Seminar 2: December 12–13, 2025
+All students are required to prepare and present their seminar on the progress of their Project Work–I and Project Diary. The presentation should include:
+- [ ] Title and motivation, objective of the project
+- [ ] Literature survey and methodology
+- Proposed work
+
+- Analysis and comparisons (if any)
+- conclusion 
+Please ensure your presentation slides are ready and approved by your guide. 
+
+Regards,  
+Dr Shabber Ahmed
+Mrs Naimoonisa 
+Dr Tasneem Bano Rehman
+07/11/2025, 14:16 - Abdullah Class: <Media omitted>
+10/11/2025, 12:01 - Brown Jesus: <Media omitted>
+10/11/2025, 12:15 - Abrar...: Aaj bhetinge nighas
+10/11/2025, 13:03 - Brown Jesus: Okay
+10/11/2025, 21:51 - Abrar...: nighas
+10/11/2025, 21:51 - Abrar...: kya toh bhi hai
+10/11/2025, 22:44 - Brown Jesus: Ajao
+10/11/2025, 22:44 - Brown Jesus: I am here
+10/11/2025, 22:45 - Abrar...: kidher
+10/11/2025, 22:45 - Brown Jesus: 11:30 tak
+10/11/2025, 22:45 - Brown Jesus: Whatsapp
+10/11/2025, 22:45 - Brown Jesus: Meet when?
+10/11/2025, 22:45 - Abrar...: Abdullah where?
+10/11/2025, 22:48 - Abdullah Class: Yo
+10/11/2025, 22:48 - Abdullah Class: Boleye
+10/11/2025, 22:48 - Abdullah Class: Kya karna hai?
+10/11/2025, 22:49 - Abrar...: 11:30 aajao disc
+10/11/2025, 22:49 - Abdullah Class: Okay
+10/11/2025, 23:32 - Brown Jesus: 12 please
+10/11/2025, 23:43 - Abdullah Class: Kidar hai sab?
+10/11/2025, 23:43 - Abdullah Class: Neeind aari yaro😭
+10/11/2025, 23:44 - Abdullah Class: Kal asr ke baad serious bhait jainge na
+10/11/2025, 23:44 - Abdullah Class: @⁨Abrar...⁩ @⁨Brown Jesus⁩
+10/11/2025, 23:44 - Abdullah Class: Shama chahta hu
+10/11/2025, 23:47 - Abrar...: kitna sota re bhai
+10/11/2025, 23:47 - Abrar...: raat raat tak message karta bachiyo ku
+10/11/2025, 23:47 - Abrar...: hamare saath bheto bole toh nahi bhet ta
+10/11/2025, 23:47 - Abdullah Class: Sharamm aana re
+10/11/2025, 23:48 - Abdullah Class: Accha baccha hu mai
+10/11/2025, 23:48 - Abdullah Class: Bhtt accha baccha
+10/11/2025, 23:48 - Abdullah Class: I don't talk to girls
+10/11/2025, 23:48 - Brown Jesus: @⁨Abrar...⁩ pe hai
+10/11/2025, 23:48 - Brown Jesus: Lies
+10/11/2025, 23:48 - Abdullah Class: @⁨Abrar...⁩ please
+10/11/2025, 23:48 - Brown Jesus: 👀👀👀👀
+10/11/2025, 23:48 - Abdullah Class: PLEASE 🥺
+10/11/2025, 23:48 - Abrar...: ayo waht
+10/11/2025, 23:49 - Abdullah Class: <Media omitted>
+10/11/2025, 23:49 - Abdullah Class: 😭😭😭😭
+10/11/2025, 23:49 - Abdullah Class: <Media omitted>
+10/11/2025, 23:52 - Abrar...: kal tum interview ku aao
+uske baad 
+
+bhetinge apan
+10/11/2025, 23:52 - Abdullah Class: Mai interview ku kyu aauu??😂😭😭
+10/11/2025, 23:52 - Brown Jesus: @⁨Abdullah Class⁩ ajaaooo
+10/11/2025, 23:53 - Abdullah Class: Bruh nahh 😭😭😭😭
+10/11/2025, 23:53 - Abrar...: Football quota
+10/11/2025, 23:53 - Brown Jesus: https://discord.gg/K4s6gvJM
+10/11/2025, 23:53 - Abdullah Class: <Media omitted>
+10/11/2025, 23:53 - Brown Jesus: join
+10/11/2025, 23:53 - Abrar...: CSI waalo ki gaand maaringe football mei aaajao
+10/11/2025, 23:53 - Abdullah Class: Kisku kisku lere?
+10/11/2025, 23:53 - Brown Jesus: only football
+10/11/2025, 23:53 - Abdullah Class: <Media omitted>
+10/11/2025, 23:53 - Brown Jesus: omer tou apply kar diya
+10/11/2025, 23:53 - Abdullah Class: Ay yo wait what??
+10/11/2025, 23:54 - Brown Jesus: Join kar re bhai major project ka karinge
+10/11/2025, 23:54 - Abrar...: join karo server
+10/11/2025, 23:54 - Abrar...: we will discuss major project
+10/11/2025, 23:54 - Abrar...: U r our guest
+10/11/2025, 23:54 - Abdullah Class: 😭😭
+10/11/2025, 23:54 - Abdullah Class: Kara join
+10/11/2025, 23:55 - Brown Jesus: Join guest vc
+10/11/2025, 23:55 - Abrar...: join any channel
+10/11/2025, 23:57 - Brown Jesus: .
+10/11/2025, 23:59 - Abdullah Class: .
+10/11/2025, 23:59 - Brown Jesus: .
+11/11/2025, 00:01 - Abrar...: Perplexity
+Notebook LLM
+Google Scolars
+11/11/2025, 00:04 - Abdullah Class: .
+11/11/2025, 00:08 - Brown Jesus: <Media omitted>
+11/11/2025, 21:39 - Abdullah Class: https://www.instagram.com/reel/DQxHSiHEmMn/?igsh=MXNuZXJwM2xlenh3bg==
+12/11/2025, 18:11 - Abdullah Class: <Media omitted>
+12/11/2025, 18:11 - Abdullah Class: <Media omitted>
+12/11/2025, 18:13 - Abdullah Class: Yeh bhi karna hai kate naa😭😭😭
+12/11/2025, 18:21 - Abrar...: aaj raat mei
+I shall sit and do this
+12/11/2025, 18:22 - Abdullah Class: My daddy
+13/11/2025, 18:46 - Abdullah Class: Literature survey kisi ka bhi hua tou send
+13/11/2025, 19:21 - Abdullah Class: Kidar haii yeh gdg waale???
+13/11/2025, 20:40 - Abrar...: Sleeping
+13/11/2025, 22:04 - Abdullah Class: Tsk tsk
+13/11/2025, 22:05 - Abrar...: aaj Imma read a couple of research papers
+13/11/2025, 22:05 - Abrar...: https://chatgpt.com/g/g-p-690772f81378819195f1385a28c2db84-major-project/project
+
+
+create your own chats
+Don't fuck up the context
+13/11/2025, 22:17 - Abdullah Class: Give me access bozo
+13/11/2025, 22:24 - Abrar...: https://chatgpt.com/g/g-p-690772f81378819195f1385a28c2db84-major-project/project
+14/11/2025, 00:59 - Abrar...: <Media omitted>
+14/11/2025, 00:59 - Abrar...: guys
+APAN First review karaliye?
+14/11/2025, 00:59 - Abrar...: kal jaake maniza ma'am sei milna hai
+14/11/2025, 01:01 - Abdullah Class: Okay
+15/11/2025, 13:54 - Brown Jesus: <Media omitted>
+15/11/2025, 13:54 - Brown Jesus: Humlog ka ich hai sabse pehle 
+
+21st Nov, 9:45 am - 10 am
+15/11/2025, 14:00 - Brown Jesus: We have to meet maniza ma'am atleast 2 times before the seminar
+
+Tasks to be completed before meeting ma'am:
+
+1st meeting- literature survey 75% complete
+
+2nd meeting- literature survey complete & ppt 50% complete
+16/11/2025, 19:03 - Brown Jesus changed the group name from "Major Abrar Project" to "Major Amaan Project"
+16/11/2025, 19:03 - Brown Jesus: 
+16/11/2025, 19:10 - Abrar...: Noww?
+16/11/2025, 19:10 - Abrar...: Till when???
+16/11/2025, 19:10 - Brown Jesus: 9 tak
+16/11/2025, 19:11 - Brown Jesus: .
+16/11/2025, 19:11 - Brown Jesus: 9
+16/11/2025, 19:19 - Abrar...: kidher aana hai bolo aaro
+16/11/2025, 19:21 - Brown Jesus: nai bolte
+16/11/2025, 19:21 - Abrar...: ok browny
+16/11/2025, 19:21 - Brown Jesus: salty
+16/11/2025, 19:22 - Abdullah Class: mere paas hai bhaite hue
+16/11/2025, 19:34 - Brown Jesus: aare? @⁨Abrar...⁩ <This message was edited>
+16/11/2025, 19:34 - Abrar...: Now?
+16/11/2025, 19:34 - Abrar...: Location bhjeo
+16/11/2025, 19:40 - Abdullah Class: location: https://maps.google.com/?q=17.3985066,78.4243249
+16/11/2025, 19:41 - Brown Jesus: <Media omitted>
+16/11/2025, 19:46 - Abrar...: Wait
+Me come and fuq u
+16/11/2025, 19:51 - Brown Jesus: you can't
+16/11/2025, 19:56 - Abrar...: 
+16/11/2025, 20:24 - Brown Jesus: ز
+16/11/2025, 20:24 - Brown Jesus: ز
+16/11/2025, 20:30 - Brown Jesus: Introduction:
+Define your topic and why it’s important.
+
+Existing Work Overview:
+Summarize what other researchers have done — categorize them (e.g., speech understanding, knowledge graphs, digital twins).
+
+Comparative Discussion:
+Highlight similarities, differences, strengths, and weaknesses of previous approaches.
+
+Identified Gaps:
+Point out what’s missing or needs improvement.
+
+Conclusion / Link to Your Project:
+Explain how your project addresses one or more of these gaps.
+16/11/2025, 23:18 - Abdullah Class: kidarr hai yehh??
+16/11/2025, 23:18 - Abdullah Class: chats mei nahi aara naa
+16/11/2025, 23:18 - Brown Jesus: Mere chats me ich tha na
+16/11/2025, 23:18 - Brown Jesus: Bataya tha mai
+16/11/2025, 23:18 - Brown Jesus: Jispe access diya dekho
+16/11/2025, 23:19 - Abdullah Class: <Media omitted>
+16/11/2025, 23:20 - Abdullah Class: mil gya
+16/11/2025, 23:20 - Brown Jesus: First wala
+16/11/2025, 23:20 - Brown Jesus: Ann woiichh
+16/11/2025, 23:20 - Abdullah Class: annn daddy ku mat seekhaoo
+16/11/2025, 23:21 - Brown Jesus: 😭😭😭
+16/11/2025, 23:21 - Abdullah Class: jaldiiee karke bhejo tum ek paperrr fast fsastt
+16/11/2025, 23:57 - Brown Jesus changed the group description
+17/11/2025, 01:20 - Abdullah Class: kitna hua @⁨Abrar...⁩
+17/11/2025, 02:39 - Abdullah Class: <Media omitted>
+17/11/2025, 02:39 - Abdullah Class: kya karlere ki dono besharma
+17/11/2025, 06:04 - Brown Jesus: mai bhi mera kar diya
+17/11/2025, 06:04 - Brown Jesus: 3 research papers ka
+17/11/2025, 06:04 - Brown Jesus: literature survey
+17/11/2025, 06:04 - Brown Jesus: utna effort nai daala mai abhi poora padhne but I got the gist of all 3 of them
+17/11/2025, 06:05 - Brown Jesus: <Media omitted>
+17/11/2025, 06:06 - Brown Jesus: my literature survey contains 3 things mainly:
+
+introduction
+methodology
+gaps in existing (or proposed) solution <This message was edited>
+17/11/2025, 06:07 - Brown Jesus: ma'am suba me tou nai rehte, mai dopeher tak aaru
+17/11/2025, 06:08 - Brown Jesus: mai mere prints aur phir humlog ke project diary ke prints leke aatu inshallah, sign le linge ma'am se <This message was edited>
+17/11/2025, 06:08 - Brown Jesus: only if I wake up on time
+17/11/2025, 06:12 - Abrar...: imma start in a bit
+17/11/2025, 06:35 - Abrar...: isme links kidher hai?
+17/11/2025, 10:43 - Abrar...: 
+17/11/2025, 10:43 - Abrar...: 
+17/11/2025, 15:05 - Brown Jesus: Consolidated table for literature survey to list out the research papers used
+17/11/2025, 15:05 - Brown Jesus: S.no
+Authors
+Date of publication
+Merits- methodology
+Demerits- gaps
+Connecting to our current solution
+17/11/2025, 15:08 - Abrar...: Objectives should be measurable
+18/11/2025, 21:25 - Abrar...: NIGHUS
+18/11/2025, 21:25 - Abrar...: update
+18/11/2025, 21:25 - Abrar...: we need to make a PPT as well
+18/11/2025, 21:29 - Abrar...: @⁨Brown Jesus⁩ 
+can you tell  me 
+
+konsi link mei 
+research papers hai
+18/11/2025, 21:29 - Brown Jesus: https://chatgpt.com/share/68e66e08-6360-800b-86d5-915e7c025be4
+18/11/2025, 21:30 - Brown Jesus: Me busy rn, raat me bethru
+18/11/2025, 21:31 - Brown Jesus: https://chatgpt.com/g/g-p-68db6ef421288191a99327354a0979de-major-project/project
+18/11/2025, 21:31 - Abrar...: links kaha hai
+18/11/2025, 21:31 - Brown Jesus: This is the project link which has the abstract as well as the complete context
+18/11/2025, 21:31 - Abdullah Class: 
+18/11/2025, 21:31 - Brown Jesus: Isme hai thoda neeche dekho neeche
+18/11/2025, 21:31 - Abrar...: edit access pei bhejo
+18/11/2025, 21:32 - Brown Jesus: <Media omitted>
+18/11/2025, 21:32 - Abrar...: Mujhe invite nahi kare😞
+18/11/2025, 21:32 - Brown Jesus: Different frnd grp, rape kar dete yaha nakko ao
+18/11/2025, 21:33 - Abrar...: abrarfarooquelearns@gmail.com
+18/11/2025, 21:33 - Abrar...: You deleted this message
+18/11/2025, 21:34 - Brown Jesus: 😭😭😭😭😭
+18/11/2025, 21:34 - Brown Jesus: Next time bula letu
+18/11/2025, 21:34 - Abrar...: nahi aara re
+
+u dind't update the link
+18/11/2025, 21:34 - Brown Jesus: You cant take back your words now
+18/11/2025, 21:34 - Brown Jesus: Its over for you
+18/11/2025, 21:34 - Brown Jesus: Wait
+18/11/2025, 21:34 - Abrar...: <Media omitted>
+18/11/2025, 21:35 - Abrar...: edit access do
+18/11/2025, 21:38 - Brown Jesus: https://chatgpt.com/share/691c99d4-cab8-800b-94ac-6eb2e7fd4fe0
+18/11/2025, 21:38 - Brown Jesus: Invite sent
+19/11/2025, 13:39 - Abrar...: Guys
+Kal ma'am ku PPT dikhaana hai
+19/11/2025, 13:58 - Abdullah Class: 😞😞
+19/11/2025, 13:58 - Abdullah Class: Kya scene hai boysss?
+19/11/2025, 15:07 - Abdullah Class: <Media omitted>
+19/11/2025, 15:09 - Brown Jesus: Aaj baithinge
+19/11/2025, 15:09 - Brown Jesus: Time bolo sab, kab free hai? <This message was edited>
+19/11/2025, 15:10 - Brown Jesus: Research papers jo bhi banaye padhlo, we will decide on the 
+
+Problem description
+Motivation
+Objectives
+Proposed solution
+19/11/2025, 15:10 - Brown Jesus: Uske baad ppt ban jaata aasani se
+19/11/2025, 15:11 - Brown Jesus: Kal ma'am se review karana hai ppt tou aaj ich kar dinge
+19/11/2025, 15:30 - Abdullah Class: 9 papers ich hue
+19/11/2025, 15:30 - Abdullah Class: Aur 3 karna hai na
+19/11/2025, 15:37 - Brown Jesus: Mai kar letu
+19/11/2025, 22:21 - Abrar...: kidher hai sab
+19/11/2025, 22:21 - Abrar...: me get some coffee
+19/11/2025, 22:21 - Abrar...: 10:45 tak aajao
+19/11/2025, 22:22 - Brown Jesus: done
+19/11/2025, 22:23 - Abdullah Class: Kidar?
+19/11/2025, 22:23 - Brown Jesus: abrar ke ghar
+19/11/2025, 22:23 - Brown Jesus: party
+19/11/2025, 22:24 - Abdullah Class: LEESSSSSGGOOOOOO
+19/11/2025, 22:24 - Brown Jesus: @⁨Abrar...⁩
+19/11/2025, 22:24 - Abdullah Class: <Media omitted>
+19/11/2025, 22:59 - Abrar...: aajao nighas
+19/11/2025, 22:59 - Abrar...: disc
+19/11/2025, 22:59 - Abrar...: @⁨Abdullah Class⁩ 
+@⁨Brown Jesus⁩
+19/11/2025, 23:01 - Brown Jesus: I am here
+19/11/2025, 23:03 - Abdullah Class: 
+19/11/2025, 23:03 - Abdullah Class: Aplog start karo mai join kartu
+19/11/2025, 23:03 - Brown Jesus: Akele akele?
+19/11/2025, 23:04 - Brown Jesus: <Media omitted>
+19/11/2025, 23:05 - Abdullah Class: <Media omitted>
+19/11/2025, 23:23 - Brown Jesus: .
+19/11/2025, 23:49 - Brown Jesus: *The structure of the PPT*
+
+1st - Title Slide, Guide & Student Names
+2nd - TOC (need clarity from ma'am on this)
+3rd - Intro (need clarity from ma'am on this)
+
+4th - Motivation (basically the problem statement, why are we doing this? what problem exactly motivated us to build this project)
+
+5th - Literature Reviews on Research Papers based on our categorisation:
+1. knowledge graphs & its extensions (papers 1, 2)
+2. conversion of speech to knowledge graphs (papers 4, 5)
+3. integration of voice chat, knowledge graphs and conversational agents (papers 3, 6, 7)
+4. digital Twin / Cognitive Twin paradigms (papers 8, 9)
+
+6th - Summary table same as what maniza ma'am said, the table will contain:
+1. S.no
+2. Title, author, date of publication, publication (IEEE etc...)
+3. Work or Methodology used
+4. Merits
+5. Demerits (research gaps)
+6. How it connects to our project (basically reason why we used this paper in our literature survey)
+
+7th - Objective + Research Gaps (basically the parameters based on which we are going to measure the success of our project as I said in the meeting about the improved quality of communication)
+
+8th - Our proposed solution or idea which addresses atleast 2-3 research gaps (eg solution: voice-centric KG builder + digital twin of user)
+
+9th - Reference Links
+19/11/2025, 23:49 - Brown Jesus pinned a message
+20/11/2025, 02:54 - Abrar...: 8th paper
+Doesn't really link to our research
+20/11/2025, 02:56 - Abrar...: I have made a chat in my project called 
+PPT structure review:
+
+Usme put content joh bhi hai tumhare paas
+and then prompt it to generate content for your slide
+20/11/2025, 02:57 - Abrar...: Abrar project:
+https://chatgpt.com/g/g-p-690772f81378819195f1385a28c2db84-major-project/shared/c/691e35d1-9a5c-8324-9d18-1cf5b346e86e?owner_user_id=user-r5kLbLvBvDh3ki7qODUaJVqb
+
+
+Amaan project:
+https://chatgpt.com/g/g-p-68db6ef421288191a99327354a0979de-major-project/project <This message was edited>
+20/11/2025, 02:57 - Abrar...: @⁨Brown Jesus⁩ pin this
+20/11/2025, 02:58 - Abrar...: imma sleep now
+20/11/2025, 05:05 - Brown Jesus pinned a message
+20/11/2025, 05:28 - Brown Jesus: This is also there in the description of the group
+20/11/2025, 11:58 - Brown Jesus: @⁨Abrar...⁩ TUMARA CONTENT KAHA HAI?
+20/11/2025, 12:02 - Abrar...: Doc mei
+20/11/2025, 12:02 - Abrar...: ..
+20/11/2025, 12:05 - Brown Jesus: I saw that ppt structure chat but it only has my message in it
+20/11/2025, 12:05 - Brown Jesus: tumara literature review dusre chat me hai?
+20/11/2025, 12:08 - Abrar...: Doc mei hai
+20/11/2025, 12:11 - Brown Jesus: sirf purana wala dikhara yaha
+20/11/2025, 12:16 - Abrar...: Paper 2
+Paper 5
+20/11/2025, 12:31 - Brown Jesus: CHATGPT ME NAI BANANA THA
+20/11/2025, 14:28 - Abrar...: I am leaving
+20/11/2025, 18:17 - Abrar...: I have done and read only 2 papers
+- How we can use wav2graph for constructing KG directly from speech utterances(voice input)
+- How we can use DiffKG to traverse over a KG to extract meaning out of it using a transformer
+20/11/2025, 18:40 - Brown Jesus: @⁨Abdullah Class⁩ seath kab tak aana hai?
+20/11/2025, 19:12 - Abdullah Class: Yo
+20/11/2025, 19:12 - Abdullah Class: Kidar hai sab?
+20/11/2025, 19:12 - Abdullah Class: Free hai?
+20/11/2025, 19:12 - Abdullah Class: Tou ajao
+20/11/2025, 19:13 - Abrar...: me will be there in half an hour
+20/11/2025, 19:13 - Abdullah Class: Inshallah
+20/11/2025, 19:13 - Abdullah Class: @⁨Brown Jesus⁩
+20/11/2025, 19:18 - Brown Jesus: inshallah mai ek 10-20 mins me nikaltu
+20/11/2025, 19:22 - Abdullah Class: Okay
+20/11/2025, 20:00 - Brown Jesus: I will be there by 8:30
+20/11/2025, 20:10 - Abdullah Class: jaldie aau kyaa tou bhi hora wohh?
+20/11/2025, 21:14 - Abrar...: https://github.com/Pascalson/DiffKG-Dialog
+20/11/2025, 21:33 - Abdullah Class: <Media omitted>
+20/11/2025, 21:59 - Brown Jesus: https://www.canva.com/design/DAG5NZrfWtw/rYw5vTclL7WYF491qfhg8A/edit?utm_content=DAG5NZrfWtw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+20/11/2025, 21:59 - Brown Jesus pinned a message
+20/11/2025, 22:50 - Brown Jesus: Introduction, Motivation, Literature Survey intro - Amaan
+Knowledge Graphs - Abrar
+Speech to KG - Amaan
+Integration - Abdullah
+Digital Twin - Abdullah
+Summary Table - Abrar
+Objective - Abdullah
+Proposed Solution - Amaan <This message was edited>
+20/11/2025, 23:54 - Abdullah Class: Research Gap 2 – Limited Advancement in Voice-First, Human-Like Conversational Digital Twins
+
+Existing digital twins used in industries (manufacturing, healthcare, enterprise operations) rely heavily on dashboards, visual interfaces, and data models, not voice-first interaction. Research still lacks in:
+
+Truly voice-native digital twins capable of continuous conversation
+
+Maintaining long-term memory and personal context over voice
+
+Cross-modal alignment between speech, semantic meaning, and real-time data updates
+20/11/2025, 23:59 - Abrar...: Gap 1: Existing voice-first conversational systems still struggle with accent variability, background noise, and reliable speaker diarization, limiting their ability to function as human-like digital twins.
+
+Gap 2: Real-time conversational systems lack dynamic, auto-updating knowledge graphs and fast semantic retrieval, resulting in shallow context understanding and weak reasoning.
+
+Gap 3: Current literature provides insufficient methods for growing, updating, and aligning knowledge graphs with LLMs and RAG systems, leaving KG maintenance and integration poorly defined.
+21/11/2025, 00:04 - Abrar...: Research Gap 1: Voice-First Conversational Limitations
+
+Existing voice systems still fail to generalize across accents/noise and struggle with reliable speaker diarization, limiting human-like digital twin capabilities.
+
+Research Gap 2: Limited KG Integration in Real-Time Dialogue
+
+Current conversational systems lack dynamic, auto-updating knowledge graphs and fast semantic retrieval, leading to shallow reasoning and weak context retention.
+
+Research Gap 3: Incomplete KG Update and Alignment Mechanisms
+
+Literature provides insufficient methods for growing, updating, and aligning knowledge graphs with LLMs and RAG pipelines, leaving KG maintenance poorly defined.
+21/11/2025, 00:08 - Brown Jesus: https://docs.google.com/document/d/1M5vSftX9u2T095GBE7yz1rRJ995Vd7xVhupyO2pvPfc/edit?tab=t.0#heading=h.72ne623q8jev
+21/11/2025, 01:57 - Abrar...: nigha
+21/11/2025, 01:57 - Abrar...: send me access
+21/11/2025, 01:57 - Abrar...: nvmm
+21/11/2025, 02:03 - Abdullah Class: Neeind aari
+21/11/2025, 07:19 - Abdullah Class: Soore sab?
+21/11/2025, 07:38 - Abdullah Class: <Media omitted>
+21/11/2025, 07:38 - Abdullah Class: Guys
+21/11/2025, 07:39 - Abdullah Class: Slide 10 mei digital twin ek baar cover hojara ok
+Slide 12 mei phirse digital twin aara
+And then slide 13 mei
+21/11/2025, 07:39 - Abdullah Class: Ek baar script dheko samj jaate
+21/11/2025, 07:40 - Abdullah Class: Baar baar same cheez repeat hori
+21/11/2025, 07:40 - Abdullah Class: Methodology and key findings ka script is same as referred research papers
+21/11/2025, 07:41 - Abdullah Class: Tou baar baar same content repeat hora waisa dhikra
+21/11/2025, 07:42 - Brown Jesus: Yes
+21/11/2025, 07:43 - Brown Jesus: Acha lyt hai ab boldo, nai tou agar change tou karlo
+21/11/2025, 07:43 - Brown Jesus: Meku dabake neend aari
+21/11/2025, 07:43 - Brown Jesus: Abhi bed pe ich hu
+21/11/2025, 07:43 - Brown Jesus: 😭😭😭😭
+21/11/2025, 07:43 - Abdullah Class: 😭😭😭😭
+21/11/2025, 07:43 - Abdullah Class: Mile waqt change kardnege
+21/11/2025, 07:43 - Abdullah Class: Slide nikal denge? Ya dhekenge
+21/11/2025, 07:43 - Abdullah Class: Decide karke
+21/11/2025, 07:43 - Abdullah Class: Laptop laalo yaad se
+21/11/2025, 07:44 - Brown Jesus: Slide rehne do warna tumara content kam hojata
+21/11/2025, 07:44 - Abdullah Class: Kab tak uthee? And kab tak aare college?
+21/11/2025, 07:44 - Abdullah Class: Okay
+21/11/2025, 07:44 - Brown Jesus: I will be there by 9:30
+21/11/2025, 07:44 - Brown Jesus: Inshallah
+21/11/2025, 07:44 - Abdullah Class: Bruh😭😭
+21/11/2025, 07:44 - Abdullah Class: 9 ku aja
+21/11/2025, 07:44 - Brown Jesus: Apna 9:45 ku start hora
+21/11/2025, 07:44 - Abdullah Class: 😭😭🙏
+21/11/2025, 07:44 - Brown Jesus: 😭😭😭
+21/11/2025, 07:44 - Abdullah Class: Thoda sath bhaitke aur kuch bhi karna hai tou karle sakte
+21/11/2025, 07:45 - Brown Jesus: Try kartu 9:15 tak aane ki
+21/11/2025, 07:45 - Abdullah Class: 😭😭😭
+21/11/2025, 07:45 - Abdullah Class: Kaisa bhi aaja 9:15 kuuu
+21/11/2025, 07:45 - Abdullah Class: Nai aaya tou dhek😡😡
+21/11/2025, 08:16 - Brown Jesus: Bruh nai hora😭😭😭
+21/11/2025, 08:21 - Abrar...: Bgn ki script hai😞
+21/11/2025, 08:21 - Abdullah Class: Ffs
+21/11/2025, 08:21 - Abdullah Class: Fuck thiss shitt
+21/11/2025, 08:21 - Abdullah Class: 😭😭😭
+21/11/2025, 08:24 - Abrar...: SCRIPT:
+
+A Knowledge Graph is a structured way of representing information using nodes and edges. Nodes represent real-world entities — like people, locations, and tasks — and edges describe the relationships between them, such as “located in,” “task due,” or “works at.” What makes a knowledge graph powerful is that it doesn’t store facts in isolation. Instead, it captures the connections between concepts, allowing systems to understand context, reason across related information,
+
+The first paper, Knowledge Graph Inference for Spoken Dialog Systems is a conference paper from April 2015 which applies this structured knowledge to spoken dialog systems. Traditional SDS treat state or context tracking and database lookup as two separate steps which are often brittle, especially with speech recognition errors. IKG solves this by converting an existing semantic knowledge graph into a Markov Random Field, where each node becomes a probabilistic variable representing how likely it is relevant to the user’s goal. When the user mentions attributes these attributes become evidence nodes that influence connected entities. Inference then spreads this likelihood through the graph, ranking entities or nodes on probability. This unifies state tracking and retrieval in one step. Experiments using Microsoft’s Satori graph showed that IKG outperforms traditional lookup systems — especially when input is noisy — because the graph structure naturally supports more robust reasoning.
+
+The second paper, DiffKG — Dialogue Differentiable Knowledge Graph, takes KG reasoning a step further by integrating it directly into a transformer model. Instead of converting the graph into text, DiffKG allows the model to walk the graph in a differentiable way. The architecture includes a dialogue encoder that interprets the conversation, a differentiable KG reasoning module that performs learned multi-hop traversal, a logical operations module for filtering and constraints, and a response decoder that produces both the system action and the natural language response. The key contribution is that the reasoning steps are fully interpretable — the model can show which nodes and relations it followed to arrive at an answer. DiffKG achieves strong performance on datasets like SMD and OpenDialKG while using less computation than text-flattening approaches.
+Together, IKG and DiffKG show two complementary ways to integrate knowledge graphs into dialogue systems — one through probabilistic inference and the other through differentiable graph traversal — both moving toward more intelligent, transparent, and context-aware conversational AI.
+21/11/2025, 08:24 - Abrar...: my script
+21/11/2025, 08:31 - Abrar...: A Knowledge Graph is a structured way of representing information using nodes and edges. Nodes represent real-world entities — like people, places, and tasks — and edges describe the relationships between them, such as “located in,” “works at,” or “task due.” The power of a knowledge graph comes from how it captures these connections. Instead of storing facts separately, it represents how concepts relate to each other, allowing systems to understand context and reason across multiple pieces of information.
+The first paper, Knowledge Graph Inference for Spoken Dialog Systems, uses this structured graph to improve spoken dialog systems. Traditional systems handle context tracking and database lookup separately, which often breaks down when speech recognition is noisy. The paper converts the knowledge graph into a Markov Random Field so each node carries a probability of being relevant. When the user mentions something, those attributes act as evidence and influence connected nodes. This lets the system infer the most likely entities in one unified step. The method proved more robust than standard lookup, especially when dealing with imperfect speech input.
+The second paper, DiffKG — Dialogue Differentiable Knowledge Graph, advances this idea by integrating knowledge graph reasoning directly into a transformer model. Instead of flattening the graph into text, the model can literally “walk” the graph through differentiable multi-hop reasoning. A dialogue encoder reads the conversation, the reasoning module follows relevant relations, and the decoder generates the final response. The key strength is interpretability — the model shows the path it followed through the graph. DiffKG performs strongly on benchmark datasets while requiring less computation than text-based approaches.
+Together, IKG and DiffKG present two different but complementary ways of using knowledge graphs in conversational AI — one using probabilistic inference, and the other using differentiable graph traversal —
+
+
+
+Chotha kardiya
+21/11/2025, 08:46 - Abdullah Class: College ajao boyysss
+21/11/2025, 08:46 - Brown Jesus: YOOOO
+21/11/2025, 08:46 - Abdullah Class: Boleye
+21/11/2025, 08:46 - Brown Jesus: 7 min me nikalruu
+21/11/2025, 08:46 - Abdullah Class: Why 7 mins?
+21/11/2025, 08:46 - Brown Jesus: Siiiuuuuuuuu
+21/11/2025, 08:46 - Abdullah Class: 😢
+21/11/2025, 08:47 - Abdullah Class: Book karke aara?
+21/11/2025, 08:47 - Brown Jesus: <Media omitted>
+21/11/2025, 08:47 - Abdullah Class: HAAAN??
+21/11/2025, 08:47 - Brown Jesus: Activa😘
+21/11/2025, 08:47 - Abdullah Class: Reeyy
+21/11/2025, 08:47 - Abdullah Class: Oh accha
+21/11/2025, 08:47 - Abdullah Class: 😢
+21/11/2025, 08:47 - Brown Jesus: YESSSIUURRR
+21/11/2025, 08:47 - Brown Jesus: Tum kaha hai?????
+21/11/2025, 08:47 - Abdullah Class: Jaldie aao
+21/11/2025, 08:47 - Abdullah Class: MS ke paas tha
+21/11/2025, 08:47 - Abdullah Class: <Media omitted>
+21/11/2025, 08:47 - Abdullah Class: Nikalru college ke leye ab
+21/11/2025, 08:48 - Brown Jesus: <Media omitted>
+21/11/2025, 08:48 - Brown Jesus: <Media omitted>
+21/11/2025, 08:48 - Abdullah Class: 😭😭
+21/11/2025, 08:48 - Brown Jesus: 😭😭😭😭😭
+21/11/2025, 08:54 - Abrar...: mereku pick karle
+21/11/2025, 08:54 - Abrar...: @⁨Brown Jesus⁩
+21/11/2025, 08:55 - Abrar...: nahi hota scooter chalana merese
+21/11/2025, 08:55 - Abrar...: @⁨Brown Jesus⁩
+21/11/2025, 08:55 - Abrar...: @⁨Brown Jesus⁩
+21/11/2025, 08:55 - Abrar...: @⁨Brown Jesus⁩
+21/11/2025, 08:55 - Abrar...: @⁨Brown Jesus⁩
+21/11/2025, 08:55 - Brown Jesus: Bgn tum bht door hai
+21/11/2025, 08:55 - Brown Jesus: Ajao na seedha clg😭😭
+21/11/2025, 08:55 - Abrar...: raste mei hu
+21/11/2025, 08:55 - Brown Jesus: Theek hai ruko
+21/11/2025, 08:55 - Brown Jesus: Aaru
+21/11/2025, 08:55 - Abrar...: arey uthaale re bhi
+21/11/2025, 08:55 - Brown Jesus: Lekin waha se tum chalana
+21/11/2025, 08:55 - Brown Jesus: Meku padhna hai🗿
+21/11/2025, 08:55 - Abrar...: arey
+mera pehle hai
+21/11/2025, 09:01 - Brown Jesus: Bgn
+21/11/2025, 09:01 - Brown Jesus: 5 min me rehtu mai waha
+21/11/2025, 09:01 - Brown Jesus: Neeche tayyar raho tum
+21/11/2025, 09:07 - Abdullah Class: Kya haule potte hai re dono
+21/11/2025, 09:07 - Abrar...: <Media omitted>
+21/11/2025, 09:11 - Brown Jesus: 9 11 and I am here
+21/11/2025, 09:11 - Brown Jesus: This guy didnt come
+21/11/2025, 09:11 - Brown Jesus: Big disrespect
+21/11/2025, 09:11 - Brown Jesus: Tomorrow
+21/11/2025, 09:11 - Brown Jesus: I am gonna smash him
+21/11/2025, 09:12 - Abdullah Class: Kidar hai apna seminar?
+21/11/2025, 09:12 - Abdullah Class: 😭😭
+21/11/2025, 09:12 - Brown Jesus: 6th flloor pe hai kahi
+21/11/2025, 09:13 - Abdullah Class: Konsa block?
+21/11/2025, 09:13 - Brown Jesus: 5710
+21/11/2025, 09:13 - Abdullah Class: Abababbaaaaa
+21/11/2025, 09:13 - Brown Jesus: Apna ich block <This message was edited>
+21/11/2025, 09:13 - Abdullah Class: Jaldie aa re bhaii
+21/11/2025, 09:13 - Brown Jesus: Chakka abrar der karra
+21/11/2025, 09:13 - Abdullah Class: Donooo chakke haii
+21/11/2025, 09:14 - Abdullah Class: @⁨Abrar...⁩ nahi degi bhai wohh
+Mat phen sweater
+21/11/2025, 09:14 - Abdullah Class: 😭😭🙏
+21/11/2025, 09:27 - Brown Jesus: Frrrr😭😭😭
+21/11/2025, 09:27 - Brown Jesus: Tum kidhar hai?
+21/11/2025, 09:27 - Brown Jesus: Humlog 5 mins rehte clg pe
+21/11/2025, 09:33 - Abdullah Class: Library meii hu
+21/11/2025, 09:33 - Abdullah Class: Jaldie aao re
+21/11/2025, 09:33 - Abdullah Class: Hogye 5 mins
+21/11/2025, 09:34 - Brown Jesus: Rock garden ke paas hai
+21/11/2025, 10:23 - Abdullah Class: <Media omitted>
+21/11/2025, 10:23 - Abrar...: <Media omitted>
+21/11/2025, 10:50 - Brown Jesus: <Media omitted>
+23/11/2025, 20:12 - Abrar...: <Media omitted>
+23/11/2025, 20:17 - Abrar...: make2.com
+for Agents
+23/11/2025, 20:18 - Abrar...: n8n
+23/11/2025, 20:19 - Abrar...: skeleton agent structure
+that creates custom agents
+23/11/2025, 20:22 - Abrar...: guys we are cooked bohot bura waala
+23/11/2025, 20:22 - Abrar...: 1. Services that captures voice , text messages through apis 
+2. STT->LLM->TTS pipeline, probably pipecat
+3. RAG system to capture, embed, store, retrieve all the data 
+4. Orchestrator agent, deciding what kind of tasks can extracted from incoming data, and assign it to the appropriate agents to deal with it 
+
+
+
+a) Service to capture data : 
+
+1. actively capturing voice -> then convert to text through tts 
+2. keylogging to capture ur texts
+3. to get messages in conversations though, u need an api layer, constantly monitoring ur apps, WhatsApp, discord, telegram, etc 
+
+proper schema, and organized collection of data essential 
+
+b) Application 
+
+Application/UI to offer sticky mic option or shortcut to use ur voice pipeline to interact, and dashboard to see what all tasks are generated/ what activity is going on , etc and offer customizations of agents 
+
+
+c) Pipeline Service + orchestrator
+
+STT->LLM + RAG + Orchestrator->TTS
+
+Orchestrator extracts tasks, assigns it to the appropriate agents 
+
+d) Agent layer 
+
+use n8n to set various flows
+25/11/2025, 20:58 - Abrar...: nighas
+25/11/2025, 20:58 - Abrar...: kya karna hai
+25/11/2025, 21:00 - Abdullah Class: Kal milenge
+25/11/2025, 21:00 - Brown Jesus: inshallah
+25/11/2025, 21:00 - Abdullah Class: ☺️🫂
+25/11/2025, 21:00 - Abdullah Class: Inshallah
+25/11/2025, 21:00 - Brown Jesus: photoshoot bhi hai kal
+25/11/2025, 21:01 - Abdullah Class: <Media omitted>
+02/12/2025, 00:05 - Abrar...: graphRAG
+02/12/2025, 00:07 - Abdullah Class: 
+03/12/2025, 07:16 - Brown Jesus: https://www.instagram.com/reel/DRtVFtxDjxf/?igsh=eW5sYTU1YnpoZmRr
+03/12/2025, 14:27 - Abrar...: <Media omitted>
+03/12/2025, 14:27 - Abrar...: We pitch our project?
+03/12/2025, 14:32 - Brown Jesus: Sure
+03/12/2025, 14:33 - Brown Jesus: I am in
+03/12/2025, 14:34 - Abrar...: Aight
+03/12/2025, 14:44 - Abrar...: 💡💡💡💡💡💡💡💡💡💡ATTENTION STUDENTS , your project seminar 2 is due on 18-19 December so get 2 reviews from your guide. Those who hv not submitted review 1&2 also not presented are marked absent.
+03/12/2025, 14:46 - Abrar...: <Media omitted>
+03/12/2025, 14:46 - Abrar...: Summer Internship in charge for *Section  C: Ms. Nabela Fatima*
+03/12/2025, 14:46 - Abrar...: Dear Students,
+
+Your CIE-2 Examinations are scheduled for December 22, 23, and 24, 2025. The detailed time table will be shared shortly.
+03/12/2025, 14:46 - Abrar...: 💡💡💡💡💡💡💡💡💡💡ATTENTION STUDENTS , your project seminar 2 is due on 18-19 December so get 2 reviews from your guide. Those who hv not submitted review 1&2 also not presented are marked absent.
+03/12/2025, 14:46 - Abrar...: <Media omitted>
+03/12/2025, 14:47 - Abrar...: Nighas
+Internship ka kya karna hai
+03/12/2025, 15:47 - Abdullah Class: Lagri tou nai😭😭
+03/12/2025, 15:47 - Abrar...: Us bro
+03/12/2025, 15:48 - Abdullah Class: Fake ich nikaal lere kya?😭
+03/12/2025, 15:58 - Abrar...: Wohi karna padta ab
+03/12/2025, 17:26 - Brown Jesus: Ameerpet
+03/12/2025, 17:26 - Brown Jesus: <Media omitted>
+05/12/2025, 13:31 - Abrar...: Dear Students,
+
+This is to inform you that you are required to submit your Project Report as part of your course evaluation. The report format is being shared with you, and you are instructed to follow it strictly while preparing your document.
+
+Please note that the minimum length of the project report is 30 pages, excluding the following sections:
+	•	Front Page
+	•	Certificate / Declaration (if any)
+	•	Acknowledgement
+	•	Abstract
+	•	Table of Contents
+	•	References 
+Any other preliminary pages
+
+Only the main content of your project (chapters, analysis, results, discussion, conclusion, references, etc.) will be counted toward the 30-page requirement.
+
+You are advised to start preparing your report at the earliest to ensure timely submission. Do meet your guide on regular basis.
+
+Regards,
+Project Coordinators
+05/12/2025, 13:31 - Abrar...: <Media omitted>
+05/12/2025, 13:31 - Abrar...: Guys
+Meet when?
+05/12/2025, 13:35 - Brown Jesus: Tonight?
+05/12/2025, 13:54 - Abdullah Class: Okay
+05/12/2025, 13:58 - Abrar...: We also need to meet ma'am
+05/12/2025, 14:01 - Brown Jesus: Okay
+05/12/2025, 23:33 - Abrar...: aajao bois
+05/12/2025, 23:33 - Abrar...: online
+05/12/2025, 23:35 - Brown Jesus: 🧍‍♂️
+05/12/2025, 23:37 - Abdullah Class: 👬
+05/12/2025, 23:43 - Abrar...: aao re
+05/12/2025, 23:43 - Abrar...: kaam karna hai
+05/12/2025, 23:44 - Abdullah Class: Kidar aana hai?
+05/12/2025, 23:44 - Abdullah Class: 🙂🙂
+06/12/2025, 09:47 - Abrar...: Bruh
+06/12/2025, 09:47 - Abrar...: We need to meet maniza ma'am as well
+06/12/2025, 13:47 - Abdullah Class: Seen zone kardeye meku kal raat😭😭
+06/12/2025, 13:47 - Brown Jesus: the world is a cruel place
+06/12/2025, 13:48 - Abdullah Class: Real
+06/12/2025, 13:48 - Brown Jesus: mai 9 baje se pehle free hu
+06/12/2025, 13:48 - Brown Jesus: everyday
+06/12/2025, 14:06 - Abdullah Class: Bgn bhi uthru mai utni subah
+06/12/2025, 14:06 - Abdullah Class: 😭🙏
+06/12/2025, 14:06 - Abdullah Class: Raat mei rakho
+06/12/2025, 14:06 - Abdullah Class: 8 9 10 11 12
+06/12/2025, 14:07 - Abdullah Class: Accha rehta raat ka waqt
+06/12/2025, 14:14 - Brown Jesus: 9 pm bolru😭
+06/12/2025, 14:14 - Brown Jesus: sone ke liye
+06/12/2025, 14:14 - Brown Jesus: 🧍‍♂️
+06/12/2025, 14:14 - Brown Jesus: 8 ku I am down
+06/12/2025, 14:16 - Abrar...: I am busy till 10 everyday
+06/12/2025, 14:16 - Abrar...: 10-11 baje bhetinge
+06/12/2025, 14:36 - Abdullah Class: 😭😭😭
+06/12/2025, 14:36 - Abdullah Class: Kya tou bhi hora yeh😭
+08/12/2025, 06:19 - Brown Jesus: Kab baithre project ke liye?
+08/12/2025, 06:19 - Brown Jesus: And ma'am se kab milna hai?
+08/12/2025, 06:19 - Abrar...: Ma'am sei 3 baaar milna bhi hai
+08/12/2025, 06:20 - Brown Jesus: 19 se pehle?
+08/12/2025, 06:20 - Abrar...: Ye
+08/12/2025, 06:20 - Brown Jesus: Aaj kab free hai sab?
+08/12/2025, 06:20 - Brown Jesus: Kab baithna hai project ke liye aaj?
+08/12/2025, 06:21 - Brown Jesus: Bolo
+08/12/2025, 06:21 - Abrar...: I am ghar pei aaj
+Toh anytime works
+08/12/2025, 06:21 - Brown Jesus: @⁨Abdullah Class⁩ kaisa hai re??
+08/12/2025, 06:21 - Brown Jesus: Kitta sooottaaaa?????
+08/12/2025, 06:21 - Brown Jesus: 😭😭😭😭😭😭
+08/12/2025, 06:21 - Brown Jesus: Dopeher me baithinge
+08/12/2025, 06:22 - Brown Jesus: Raat me mai busy hu
+08/12/2025, 15:36 - Abdullah Class: 5:30 se free hu mai bhi
+08/12/2025, 21:35 - Abrar...: kab karte re
+08/12/2025, 21:35 - Abrar...: ma'am sei milna hai
+08/12/2025, 21:35 - Abrar...: algorithm 
+system design
+workflow banana hai
+08/12/2025, 21:35 - Abrar...: actual project banana hai
+Gaand maarejaati usme
+08/12/2025, 21:37 - Brown Jesus: Ajao 10 ku
+08/12/2025, 21:37 - Brown Jesus: @⁨Abrar...⁩ @⁨Abdullah Class⁩
+08/12/2025, 21:38 - Abdullah Class: 👍
+08/12/2025, 21:39 - Abrar...: mera valo khelne ka time hai woh
+08/12/2025, 21:46 - Brown Jesus: Aa re bhai khamush
+08/12/2025, 22:00 - Abdullah Class: actual project banana hai
+Gaand maarejaati usme
+08/12/2025, 22:00 - Abdullah Class: 😭😭
+08/12/2025, 22:00 - Abdullah Class: It's 10
+08/12/2025, 22:00 - Brown Jesus: Ajao
+08/12/2025, 22:00 - Abdullah Class: Send link
+08/12/2025, 22:02 - Brown Jesus: Kya link?
+08/12/2025, 22:02 - Brown Jesus: Woich server hai😭
+08/12/2025, 22:03 - Abdullah Class: Konsa chat?
+08/12/2025, 22:03 - Brown Jesus: Guest
+08/12/2025, 22:04 - Brown Jesus: Vc
+08/12/2025, 22:21 - Abdullah Class: .
+08/12/2025, 22:49 - Brown Jesus: Kal jaana hai tou boldo
+08/12/2025, 22:50 - Abrar...: hao
+09/12/2025, 00:31 - Abdullah Class: Kab tak?
+09/12/2025, 00:31 - Abdullah Class: Milre?
+09/12/2025, 00:38 - Abrar...: 10 baje aajao
+09/12/2025, 00:42 - Abdullah Class: Free rehte na maniza ma'am?
+09/12/2025, 00:43 - Abrar...: Nahi
+09/12/2025, 00:45 - Abdullah Class: Free rahe waqt ich bolo phir
+09/12/2025, 00:45 - Abdullah Class: Tumlog bgn ke gdg ke kaamo mei lag jaate
+09/12/2025, 00:45 - Abdullah Class: Meku khali nahi bhaitna hai aake
+09/12/2025, 00:45 - Abdullah Class: 😭🙏
+09/12/2025, 00:47 - Abrar...: Tum bhi karo gdg ke kaama
+09/12/2025, 00:47 - Abrar...: Tum bhi gdg hai abse
+09/12/2025, 00:50 - Abdullah Class: <Media omitted>
+09/12/2025, 00:50 - Abdullah Class: <Media omitted>
+09/12/2025, 11:02 - Brown Jesus: Mai 1 ku aaru
+09/12/2025, 11:37 - Abrar...: But karte kya aake
+09/12/2025, 11:38 - Abrar...: Mei bolro
+Kal jayinge
+
+Kal we waise bhi coming for
+WT lab
+09/12/2025, 12:03 - Brown Jesus: we are?
+09/12/2025, 12:03 - Brown Jesus: marzi
+09/12/2025, 12:05 - Abrar...: yea
+09/12/2025, 12:05 - Abrar...: +
+we need to have a proper system design and methodology for our project ready
+09/12/2025, 12:09 - Abdullah Class: Crazy
+09/12/2025, 12:10 - Brown Jesus: Pehli meeting se pehle?
+09/12/2025, 12:10 - Brown Jesus: over hai
+09/12/2025, 12:12 - Brown Jesus: *Development Steps (according to gpt)* 
+
+1. Knowledge-Graph Schema Design
+The first step focuses on defining the conceptual structure of your knowledge graph by identifying entity types, relationships, attributes, and constraints that match your domain’s needs. This involves designing ontologies, outlining interaction rules, and ensuring that the shape of the graph supports both reasoning and conversational grounding later in the pipeline. A carefully designed schema prevents ambiguity and provides the blueprint upon which the entire intelligent system relies.
+
+2. Knowledge-Graph Construction and Population
+Once the schema is ready, the next step involves assembling the actual data by pulling information from curated datasets, domain ontologies, and manually verified sources to avoid noise. You create nodes and edges according to the schema, clean the data to remove duplicates or inconsistencies, and store the graph inside a graph database like Neo4j or an RDF store. This phase ensures that the system begins with a reliable, high-quality knowledge base.
+
+3. Reasoning and Inference Layer Development
+After populating the graph, you integrate reasoning capabilities that allow the system to infer new facts, resolve ambiguities, and perform multi-hop retrieval. This includes setting up rule-based inference engines, experimenting with embedding-based link prediction, and potentially adding GNN-based reasoning for deeper relational understanding. This layer transforms the graph from a static dataset into a dynamic intelligence engine that actively supports decision-making.
+
+4. Natural-Language Grounding and Query Pipeline
+The next step connects user intent to the graph by creating a grounding module that interprets text queries and maps them to entities, relations, and graph-level operations. You develop semantic parsers or use an LLM to extract structured meanings from natural sentences and convert them into graph queries. This pipeline ensures that conversational text can be reliably transformed into graph-compatible actions, forming the bridge between language and structured reasoning.
+
+5. LLM Integration with Knowledge-Graph Outputs
+Once graph reasoning is functional, you integrate an LLM to interpret the graph’s response and generate polished, context-aware natural language replies. This involves designing prompts or adapters that allow the LLM to understand structured graph outputs, maintain conversational flow, and provide explanations when needed. This step completes the “text side” of the system, enabling the assistant to both understand questions and speak about the graph’s findings fluently.
+
+6. Speech Recognition Pipeline (ASR)
+With the text-based system functional, development moves into voice interactions beginning with automatic speech recognition. You implement or integrate an ASR model that converts spoken input into clean, punctuated text while handling domain terminology. This ensures that the user’s voice queries are accurately captured and ready to be processed by the semantic and graph layers.
+
+7. Semantic Interpretation of Spoken Queries
+After ASR, you add a semantic parsing module that extracts entities, intents, and relationships from the transcribed text. This step aligns spoken language with the knowledge-graph grounding pipeline, ensuring that voice input is interpreted just as precisely as typed queries. It creates continuity between voice and text modes of interaction and prevents misunderstandings during conversation.
+
+8. Conversational Memory and Context Management
+Next comes the handling of short-term and session-level memory that tracks recent entities, conversation topics, and graph interactions. This module supports follow-up questions, pronoun resolution, and contextual continuity so the digital twin behaves like a coherent conversational partner. Effective context management prevents repeated clarifications and helps the system maintain human-like flow.
+
+9. Text-to-Speech Response Generation (TTS)
+Once the system can interpret speech and reason over the graph, you complete the voice loop with a TTS model that generates natural, expressive spoken replies. This involves selecting a suitable voice, tuning speaking style, and ensuring low latency so responses feel immediate and engaging. This stage brings the digital twin to life by giving it a distinct audible presence.
+
+10. Unified Voice-to-Graph Integration and Pipeline Assembly
+The final step connects all components—ASR, semantic parsing, knowledge-graph grounding, reasoning, LLM generation, and TTS—into a seamless end-to-end pipeline. You optimise data flow, ensure consistent context sharing, handle edge cases, and streamline the full voice-driven experience. This assembly transforms individual modules into a functional conversational digital twin capable of listening, reasoning, and speaking naturally.
+09/12/2025, 12:16 - Brown Jesus: *Development Steps (according to hisham)* 
+
+1. Building the Data-Capture Service Layer
+The first step focuses on creating robust services that continuously collect voice and text inputs from multiple channels. You begin by designing a voice-capture module that can actively listen through a hot-mic mode or user-activated trigger, stream the audio to your backend, and pass it into the speech-to-text converter. Alongside voice, you implement text-capture mechanisms using system-level keylogging for local input and API connectors for external messaging apps like WhatsApp, Discord, Telegram, or email. These connectors periodically poll or subscribe to incoming messages so the system stays aware of every relevant interaction. At this stage, you also establish a clean, well-structured schema for storing captured data by separating raw, processed, embedded, and task-level representations so that nothing becomes disorganised as the system scales.
+
+2. Developing the Application and User Interface Layer
+Once data capture is functional, you design the application layer that gives users a friendly way to interact with the system. This includes a UI offering a sticky-mic button or global shortcut that activates the voice pipeline anytime the user wants to speak. You also design a central dashboard where the user can view detected tasks, monitor the agents’ activities, inspect logs, and customise behaviours or automation rules. The UI acts as the control centre for the digital twin, balancing visibility with ease of interaction so users can trust and understand what the system is doing behind the scenes.
+
+3. Constructing the STT-LLM-RAG-Orchestrator Pipeline Service
+The next phase focuses on the core intelligence pipeline. You begin by implementing the streaming speech-to-text engine that delivers transcriptions in real time, passing them directly to the LLM along with retrieved context from your RAG backend. The RAG subsystem handles embedding, storing, and retrieving user-specific or globally relevant data so the LLM always answers with grounded and personalised context. You then build the orchestrator, which becomes the brain of the system by analysing every incoming message to identify whether it is a query, a command, a task, or an event. Based on this understanding, it delegates work to specific agents, triggers workflows, updates memory, or pushes responses back through the TTS component. The pipeline ends with text-to-speech conversion, generating spoken output that completes the conversational loop.
+
+4. Implementing the Agent Layer Using n8n Flows
+After the pipeline and orchestrator are ready, you define the agent ecosystem that handles specialised tasks. Using n8n, you build modular workflows such as scheduling, note-taking, summarisation, dataset updating, calendar interactions, notifications, or platform-specific automations. Each agent is essentially a predefined flow that can be triggered by the orchestrator whenever a matching task is detected. This modular design allows the system to grow organically by simply adding more flows instead of rewriting core logic, making the digital twin extensible, maintainable, and highly adaptable over time.
+09/12/2025, 12:23 - Abrar...: yea
+09/12/2025, 18:08 - Brown Jesus: kab karre ye?
+09/12/2025, 18:08 - Brown Jesus: @⁨Abrar...⁩ @⁨Abdullah Class⁩
+09/12/2025, 18:11 - Abrar...: 9 baje bhetinge
+09/12/2025, 18:11 - Abdullah Class: Busy hu 9 ku mai
+09/12/2025, 18:11 - Abdullah Class: Abhi bole tou free hu
+09/12/2025, 18:11 - Abrar...: arey hamesha busy rehta kya miya tum
+09/12/2025, 18:14 - Abdullah Class: Ann chal chal
+09/12/2025, 18:14 - Abdullah Class: Kal mai chora tha shyd call
+09/12/2025, 18:14 - Abdullah Class: 😑😑
+09/12/2025, 18:14 - Abrar...: khaana khaane gaya tha
+09/12/2025, 18:14 - Abdullah Class: Uske baad gyab ich hogya
+09/12/2025, 18:14 - Abdullah Class: Ab rakho meeting free hai tou
+09/12/2025, 18:14 - Abrar...: ukw
+divide karlinge work
+
+apna apna karlinge
+
+10-11 baje bhetke combine karlinge poora
+09/12/2025, 18:15 - Abdullah Class: Bolo kya kya karna hai
+09/12/2025, 18:15 - Abrar...: me look into system design
+u ask amtul gang kya karna hai 
+Amaan work on doc
+09/12/2025, 18:15 - Abdullah Class: Bruh
+09/12/2025, 18:15 - Abdullah Class: Amtul gyang why me😭
+09/12/2025, 18:16 - Abdullah Class: Ok I'll ask
+09/12/2025, 18:16 - Abdullah Class: Itna hi hai na Mera kaam?
+09/12/2025, 18:16 - Abdullah Class: 😝😝
+09/12/2025, 18:16 - Abrar...: jaldi poocho
+uske baad
+
+We decide aur kya karsakte
+09/12/2025, 18:16 - Abdullah Class: 🙁
+09/12/2025, 18:17 - Abrar...: probably 
+system architecture design karna rehta
+
+woh mei tumhareku pen sei draw karke deto
+woh figma/ canva pei banaalo
+09/12/2025, 18:17 - Abrar...: algorithms bhi hai shayad kuch
+09/12/2025, 18:18 - Abdullah Class: Okay done
+09/12/2025, 18:18 - Abdullah Class: Draw karletu mai
+09/12/2025, 18:18 - Abdullah Class: Algorithms ka kya scene hai?
+09/12/2025, 18:18 - Abrar...: poocho amtul gang sei
+09/12/2025, 18:18 - Abdullah Class: Text kara reply tou aane do
+09/12/2025, 19:10 - Brown Jesus: <Media omitted>
+09/12/2025, 19:28 - Abdullah Class: Yes mile, Project diary fill nhi karae 
+Ek saath 2 bhi karaletiu
+09/12/2025, 19:28 - Abdullah Class: Back end pe work karre, Pulse humlog ko Lit survey phir se karo bole thya uno...so that
+09/12/2025, 19:33 - Brown Jesus: ma'am bole kya?
+09/12/2025, 19:48 - Abdullah Class: Haan
+09/12/2025, 19:48 - Abdullah Class: Amtul ke texts👆
+09/12/2025, 20:06 - Abdullah Class: <Media omitted>
+09/12/2025, 20:06 - Abdullah Class: Haan
+09/12/2025, 20:06 - Abdullah Class: PPT k nhi dekhi abhi, But algo and stuff add karna hai
+09/12/2025, 20:06 - Abdullah Class: 7,8,9...yeh cheeza add karna hai
+09/12/2025, 20:06 - Abdullah Class: .
+09/12/2025, 21:58 - Abrar...: System Analysis -> System Design
+Proposed methodology/algorithm/flow
+Design and performance metrics
+09/12/2025, 21:58 - Abrar...: these 3 things have to be done
+09/12/2025, 21:58 - Abrar...: I can do 1 and maybe look into 2
+09/12/2025, 21:59 - Brown Jesus: which of process of development do we follow?
+09/12/2025, 21:59 - Brown Jesus: i feel like ye better hai
+09/12/2025, 21:59 - Brown Jesus: see this
+09/12/2025, 22:00 - Abrar...: bruh
+09/12/2025, 22:01 - Brown Jesus: you have two options, one is text other is visuals
+09/12/2025, 22:02 - Abrar...: Inaccurate hai
+09/12/2025, 22:02 - Brown Jesus: thoda, sa but main idea is conveyed, sirf tumlog samajhne ke liye tha wo
+09/12/2025, 22:03 - Brown Jesus: how are you planning to do the system designing
+10/12/2025, 11:51 - Brown Jesus: .
+11/12/2025, 10:44 - Abrar...: https://docs.google.com/document/d/13GAQ_qQoCuapBkuhgRV4QIuNrf9TFRS5hJFMdnoTWiE/edit?usp=sharing
+
+
+check this doc
+@⁨Brown Jesus⁩
+11/12/2025, 10:57 - Abrar...: @⁨Brown Jesus⁩ 
+bring your laptop
+11/12/2025, 10:57 - Abrar...: we meet ma'am aaj
+11/12/2025, 10:57 - Abrar...: <Media omitted>
+11/12/2025, 11:23 - Brown Jesus: Mera mushkil hai aaj
+11/12/2025, 11:23 - Brown Jesus: Kuch dusre kaam se jaana hai
+11/12/2025, 11:24 - Brown Jesus: Agar time mila tou aatu mai 3 tak
+11/12/2025, 14:23 - Abrar...: Met ma'am
+11/12/2025, 14:23 - Abrar...: Kal document laake dikhao bole
+11/12/2025, 14:23 - Abrar...: @⁨Abdullah Class⁩ 
+Print karalo ye
+11/12/2025, 14:26 - Brown Jesus: Wo ich karna hai print pakka? <This message was edited>
+11/12/2025, 14:34 - Abrar...: Idk, do we have something else to show, 
+
+She was like joh bhi laake dikhao
+11/12/2025, 14:38 - Abdullah Class: Pg no 16 ka diagram sahi hai? Ya draw karu?
+11/12/2025, 14:38 - Abdullah Class: System design diagram
+11/12/2025, 14:39 - Abrar...: Sahi ich hai
+11/12/2025, 14:39 - Abdullah Class: Okay
+11/12/2025, 20:58 - Abrar...: mei sirf 
+3rd side heading tak padha
+11/12/2025, 20:59 - Abrar...: proof read karo
+11/12/2025, 20:59 - Abrar...: other than 
+System Design
+
+Idr shit
+16/12/2025, 09:47 - Brown Jesus: <Media omitted>
+16/12/2025, 09:47 - Brown Jesus: <Media omitted>
+16/12/2025, 09:47 - Brown Jesus: Mai project diary laaru
+16/12/2025, 09:47 - Brown Jesus: Aaj milke sign le linge ma'am se
+16/12/2025, 16:46 - Abrar...: Dear Students,
+
+This is to inform you that you are required to submit your Project Report as part of your course evaluation. The report format is being shared with you, and you are instructed to follow it strictly while preparing your document.
+
+Please note that the minimum length of the project report is 30 pages, excluding the following sections:
+	•	Front Page
+	•	Certificate / Declaration (if any)
+	•	Acknowledgement
+	•	Abstract
+	•	Table of Contents
+	•	References 
+Any other preliminary pages
+
+Only the main content of your project (chapters, analysis, results, discussion, conclusion, references, etc.) will be counted toward the 30-page requirement.
+
+You are advised to start preparing your report at the earliest to ensure timely submission. Do meet your guide on regular basis.
+
+Regards,
+Project Coordinators
+16/12/2025, 16:46 - Abrar...: <Media omitted>
+17/12/2025, 07:09 - Abrar...: <Media omitted>
+17/12/2025, 07:09 - Abrar...: can you get prints for me?
+17/12/2025, 07:10 - Abrar...: @⁨Abdullah Class⁩
+17/12/2025, 08:29 - Abrar...: kab tak aana hai?
+17/12/2025, 08:37 - Brown Jesus: 9
+17/12/2025, 13:22 - Abdullah Class: <Media omitted>
+17/12/2025, 13:55 - Brown Jesus: Its over
+17/12/2025, 13:58 - Abdullah Class: Wahhhaaatttt?
+17/12/2025, 16:27 - Abdullah Class: <Media omitted>
+17/12/2025, 16:27 - Abdullah Class: Guideline- 1. 1 Report spiral binding to be submit. 2. Your guide need to be present. 3. Submit project diary with 2 review
+17/12/2025, 16:28 - Abdullah Class: What's the update guys??
+17/12/2025, 16:28 - Abdullah Class: Report banadeye tou ahlan pe se print out lelenge jaldie
+17/12/2025, 16:28 - Abdullah Class: Crazy paper rehta uska
+17/12/2025, 16:48 - Brown Jesus: Aaj baithke karna hai
+17/12/2025, 20:11 - Brown Jesus: @⁨Abrar...⁩
+17/12/2025, 20:12 - Brown Jesus: System design ka architecture diagrams aur jo bhi diagrams hai banado/generate kardo
+17/12/2025, 20:12 - Brown Jesus: Mai sone jaaru, uthne ke baad report complete kar detu
+17/12/2025, 20:18 - Abrar...: Aigjt
+17/12/2025, 20:22 - Abdullah Class: Printout kab nikalna hai!
+17/12/2025, 21:06 - Abrar...: tum kal subha karaalo
+17/12/2025, 21:18 - Abdullah Class: Kab tak jaare?
+17/12/2025, 21:18 - Abrar...: Time pej jayinge
+17/12/2025, 21:18 - Abrar...: Nakko laundpana
+17/12/2025, 21:18 - Abrar...: Aaj lag gaye bohot bure waale
+17/12/2025, 21:20 - Abrar...: ✅ Corrected & Final Version (clean mental model)
+
+Multimodal inputs are continuously captured
+The system actively listens to user interactions such as:
+
+WhatsApp chats
+
+Emails and messages
+
+Google Meet / call transcripts
+
+(optionally documents, images, videos)
+
+All inputs are normalized and preprocessed
+Regardless of modality (text, voice, document, etc.), inputs are:
+
+converted to text when needed (STT, OCR)
+
+cleaned and normalized
+
+Meaningful information is extracted
+From the cleaned data, the system extracts:
+
+summaries
+
+entities (people, tasks, topics)
+
+context and intent
+
+metadata (time, source, sentiment)
+
+Semantic vectors (embeddings) are generated
+
+The processed content is converted into embeddings
+
+These embeddings enable semantic similarity and context matching
+
+New information is linked to existing knowledge using vector similarity
+
+The Personal Knowledge Network (PKN) is updated
+
+The PKN is stored on the cloud
+
+It consists of embeddings, structured entities, and relationships
+
+It is not human-readable and does not store raw conversations
+
+Embeddings are the primary mechanism for updating and linking knowledge
+
+Raw data handling (privacy layer)
+
+Raw data may be encrypted and stored on the cloud (optional)
+
+Only the user holds the decryption keys
+
+Encrypted raw data is not used for PKN construction or reasoning
+17/12/2025, 21:21 - Abdullah Class: Dhik gya😭😭🙏
+17/12/2025, 21:21 - Abdullah Class: At what time abror?
+17/12/2025, 21:22 - Abrar...: 9 baje raho college mei
+17/12/2025, 21:22 - Abrar...: 9:45 ku hai apna
+17/12/2025, 21:23 - Abrar...: most probably apna will be around 10:00
+17/12/2025, 21:25 - Abdullah Class: <Media omitted>
+17/12/2025, 21:28 - Abrar...: <Media omitted>
+17/12/2025, 22:14 - Abrar...: <Media omitted>
+17/12/2025, 22:15 - Abrar...: <Media omitted>
+17/12/2025, 22:16 - Abrar...: <Media omitted>
+17/12/2025, 22:17 - Abrar...: <Media omitted>
+17/12/2025, 22:17 - Abrar...: <Media omitted>
+17/12/2025, 22:18 - Abrar...: <Media omitted>
+17/12/2025, 22:19 - Abrar...: <Media omitted>
+17/12/2025, 22:19 - Abrar...: @⁨Brown Jesus⁩
+17/12/2025, 22:19 - Abrar...: poore
+diagrams bhejdiya
+17/12/2025, 22:22 - Abrar...: poora content 
+Abrar do doc 
+bolke tab mei hai
+17/12/2025, 23:24 - Abrar...: yaaro
+koi PPT banado naa
+17/12/2025, 23:24 - Abrar...: usme kuch 4 slides add karna hai
+17/12/2025, 23:24 - Abrar...: use all the images and content I have sent
+17/12/2025, 23:24 - Abrar...: doc mei sab hai
+18/12/2025, 08:20 - Abdullah Class: Uth gye sab?
+18/12/2025, 08:25 - Abdullah Class: @⁨Brown Jesus⁩ call me whenever you're leaving for college
+18/12/2025, 08:26 - Brown Jesus: yess
+18/12/2025, 08:26 - Brown Jesus: okay
+18/12/2025, 08:30 - Brown Jesus: report bhejru 5 mins me
+18/12/2025, 09:43 - Brown Jesus: ye diagram ka naam kya hai?
+18/12/2025, 09:44 - Abrar...: System flow diagram
+18/12/2025, 09:44 - Abrar...: Apparently amtul gang will be late
+So apna first hai
+18/12/2025, 09:49 - Abrar...: 
+18/12/2025, 09:57 - Abdullah Class: Yo
+18/12/2025, 09:57 - Abdullah Class: Whaatt
+18/12/2025, 09:58 - Abdullah Class: Game plan kya hai?
+18/12/2025, 09:58 - Abrar...: PPT banadiye?
+18/12/2025, 09:58 - Abdullah Class: Okay
+18/12/2025, 09:58 - Abrar...: Ek 10 slides add kardo
+18/12/2025, 09:58 - Brown Jesus: PPT BANAO JALDIIII
+18/12/2025, 09:58 - Abdullah Class: Report aayi tou uska content leke daaltu
+18/12/2025, 09:58 - Brown Jesus: 🫨🫨🫨
+18/12/2025, 09:59 - Abdullah Class: <Media omitted>
+18/12/2025, 09:59 - Abrar...: Jaldi aao re college
+18/12/2025, 09:59 - Abdullah Class: Apn bhi baad mei denge yaro
+18/12/2025, 09:59 - Abdullah Class: I mean
+18/12/2025, 09:59 - Abdullah Class: Last time ke waisa
+18/12/2025, 09:59 - Abdullah Class: Random chale jaare the shyd na
+18/12/2025, 10:03 - Abdullah Class: Putting absent for c1,c2 and c3
+18/12/2025, 10:04 - Abdullah Class: 💀💀💀💀
+18/12/2025, 10:06 - Abrar...: Maa ka fight
+18/12/2025, 10:06 - Brown Jesus: <Media omitted>
+18/12/2025, 10:06 - Abrar...: Mei college mei hu
+18/12/2025, 10:06 - Abrar...: But where u all
+18/12/2025, 10:06 - Brown Jesus: delete
+18/12/2025, 10:06 - Brown Jesus: msg from passout
+18/12/2025, 10:06 - Brown Jesus: nigger
+18/12/2025, 10:07 - Abrar...: Wtf😭😭😭😭
+18/12/2025, 10:08 - Abrar...: Isme bhi fail hai ab
+18/12/2025, 10:26 - Abrar...: @⁨Brown Jesus⁩
+18/12/2025, 10:26 - Abrar...: woh image tag karo
+18/12/2025, 10:27 - Brown Jesus: <Media omitted>
+18/12/2025, 10:27 - Brown Jesus: Chakke
+18/12/2025, 10:27 - Brown Jesus: @⁨Abrar...⁩
+18/12/2025, 10:30 - Brown Jesus: @⁨Abrar...⁩ iska print college letter head pe lo
+18/12/2025, 10:39 - Brown Jesus: Kya hua?
+18/12/2025, 10:39 - Abrar...: nahi gaya
+waha dusro ke presentations chalre
+18/12/2025, 10:40 - Brown Jesus: 💀💀 <This message was edited>
+18/12/2025, 10:58 - Abrar...: Mei jaake kardu presentation?
+18/12/2025, 10:58 - Abrar...: Ma'am ku bola tumlog ka accident hua 
+
+Chotha mota
+Police aake rokli
+
+Raste mei hai
+Aare
+18/12/2025, 10:58 - Brown Jesus: Ruk re
+18/12/2025, 10:58 - Brown Jesus: Aa gaye humlog
+18/12/2025, 10:58 - Brown Jesus: Block ki taraf aare
+18/12/2025, 10:59 - Abrar...: Jaldi aaao
+18/12/2025, 10:59 - Abrar...: Ye bahana yaad rakho
+18/12/2025, 10:59 - Brown Jesus: Acha kara
+18/12/2025, 10:59 - Brown Jesus: Patti banna hai kya kuch?
+18/12/2025, 11:00 - Abrar...: Complete hai
+18/12/2025, 11:01 - Abrar...: Tumlog ku malum kya bolna hai?
+18/12/2025, 11:01 - Abrar...: Ya poora mei bolna hai?
+18/12/2025, 11:01 - Brown Jesus: Meku mlm hai thoda thoda
+18/12/2025, 11:02 - Brown Jesus: Metrics bolde saktu mai
+18/12/2025, 11:02 - Abrar...: Jaldi aao
+18/12/2025, 11:02 - Brown Jesus: Letter head lere the
+18/12/2025, 11:02 - Brown Jesus: Aa gaye almost
+18/12/2025, 11:03 - Abrar...: Saale phone utha
+18/12/2025, 11:03 - Abrar...: Phod deto mei dono ki
+18/12/2025, 11:05 - Abrar...: Lyt
+18/12/2025, 11:06 - Abrar...: Mei abhi jaake baat Kara
+Nahi aane dere
+18/12/2025, 11:06 - Abrar...: She is like 
+Tum log lyt lere humlog ku
+18/12/2025, 11:06 - Abrar...: Ab tak tumlog ku sirf mohiuddin sir ka malum tha
+
+Now I will show tasneem banu ma'am kya karte
+18/12/2025, 11:56 - Brown Jesus: <Media omitted>
+18/12/2025, 12:43 - Abrar...: 1. User Interface Module
+
+Purpose: Capture inputs and display outputs
+
+React / Next.js
+
+Tailwind CSS
+
+Web Audio API (voice input)
+
+WebSockets / Socket.IO (real-time updates)
+
+2. Data Capture Module
+
+Purpose: Multimodal data ingestion
+
+Node.js / FastAPI
+
+Whisper (Speech-to-Text)
+
+WhatsApp / Email / Meeting APIs
+
+Tesseract OCR (documents/images)
+
+3. Cognitive Processing Module
+
+Purpose: Extract meaning from raw data
+
+Python
+
+spaCy (entity extraction)
+
+Hugging Face Transformers (summarization)
+
+LLMs (GPT / LLaMA)
+
+4. Semantic Memory Module
+
+Purpose: Long-term semantic storage
+
+ChromaDB / FAISS (vector storage)
+
+Sentence-BERT / OpenAI Embeddings
+
+PostgreSQL (metadata)
+
+5. Personal Knowledge Network (PKN) Module
+
+Purpose: Structured knowledge representation
+
+Neo4j / NetworkX
+
+Property Graph Model
+
+Temporal tagging
+
+6. Reasoning & Orchestration Module
+
+Purpose: Decision making and context reasoning
+
+LangChain / LlamaIndex (RAG)
+
+Custom Python rule engine
+
+JSON schema validation
+
+7. Agent & Automation Module
+
+Purpose: Task execution and automation
+
+n8n workflow engine
+
+Google Calendar / Email APIs
+
+Task manager integrations
+
+8. Privacy & Security Module
+
+Purpose: Data protection & trust
+
+AES-256 encryption
+
+Client-side encryption (WebCrypto)
+
+Zero-knowledge cloud storage
+
+9. Backend & Infrastructure Module
+
+Purpose: System coordination & scalability
+
+FastAPI
+
+Docker
+
+Redis (event queue)
+
+AWS / GCP cloud services
+
+10. Monitoring & Evaluation Module
+
+Purpose: Performance measurement
+
+LangSmith (RAG evaluation)
+
+Logging & metrics dashboards
+
+Manual user feedback collection
+18/12/2025, 14:13 - Brown Jesus: <Media omitted>
+18/12/2025, 14:39 - Abrar...: 1 *. User Interface Module*
+Purpose: Capture inputs and display outputs
+React / Next.js
+Tailwind CSS
+Web Audio API (voice input)
+WebSockets / Socket.IO (real-time updates)
+
+*2.* Data Capture Module
+Purpose: Multimodal data ingestion
+Node.js / FastAPI
+Whisper (Speech-to-Text)
+WhatsApp / Email / Meeting APIs
+Tesseract OCR (documents/images)
+
+*3.* Cognitive Processing Module
+Purpose: Extract meaning from raw data
+Python
+spaCy (entity extraction)
+Hugging Face Transformers (summarization)
+LLMs (GPT / LLaMA)
+
+*4.* Semantic Memory Module
+Purpose: Long-term semantic storage
+ChromaDB / FAISS (vector storage)
+Sentence-BERT / OpenAI Embeddings
+PostgreSQL (metadata)
+
+*5.* Personal Knowledge Network (PKN) Module
+Purpose: Structured knowledge representation
+Neo4j / NetworkX
+Property Graph Model
+Temporal tagging
+
+*6.* Reasoning & Orchestration Module
+Purpose: Decision making and context reasoning
+LangChain / LlamaIndex (RAG)
+Custom Python rule engine
+JSON schema validation
+
+*7.* Agent & Automation Module
+Purpose: Task execution and automation
+n8n workflow engine
+Google Calendar / Email APIs
+Task manager integrations
+
+*8.* Privacy & Security Module
+Purpose: Data protection & trust
+AES-256 encryption
+Client-side encryption (WebCrypto)
+Zero-knowledge cloud storage
+
+*9.* Backend & Infrastructure Module
+Purpose: System coordination & scalability
+FastAPI
+Docker
+Redis (event queue)
+AWS / GCP cloud services
+
+*10.* Monitoring & Evaluation Module
+Purpose: Performance measurement
+LangSmith (RAG evaluation)
+Logging & metrics dashboards
+Manual user feedback collection
+18/12/2025, 17:36 - Brown Jesus: alhamdulillah bht acha gaya yaro seminar
+18/12/2025, 17:37 - Brown Jesus: i feel like wo kismat me tha apanlog wait karna and prepare karna, letter head pe print lena, sab kaama hogaye ab😭
+18/12/2025, 17:39 - Abrar...: Agli baar sei late hue toh phod deto
+18/12/2025, 17:39 - Abrar...: Alhamdulillah
+18/12/2025, 17:40 - Brown Jesus: btw implementation ka jo bhi karna hai, 
+abhi nai but
+CIE 2 ke baad boldo, sab log start kar linge
+@⁨Abrar...⁩ 
+and review paper ka mai boltu konse konse papers karna hai, jab bhi time mila karle sakte sab, ek do papers aisa roz kare to hojata wo bhi
+18/12/2025, 17:40 - Brown Jesus: isku publish karainge kaisa bhi inshallah
+18/12/2025, 17:41 - Abrar...: Inshallah
+18/12/2025, 17:41 - Brown Jesus: and jo tasneem ma'am bheje wo 5 week programme hai from jan 12 to feb 13 isiliye 1000 hai ig
+18/12/2025, 17:41 - Brown Jesus: <Media omitted>
+18/12/2025, 17:41 - Brown Jesus: Registration Link: https://forms.gle/y45n7ounZa4hxEis8
+18/12/2025, 17:44 - Brown Jesus: 333.33333333333 hota per person
+18/12/2025, 18:21 - Abdullah Class: Kuch bhi certificate ya something milra?
+18/12/2025, 18:21 - Abdullah Class: Daal detu raat tak inshallah
+18/12/2025, 18:21 - Brown Jesus: Aaram se pay karo
+18/12/2025, 20:11 - Brown Jesus: Wish to inform you that, I have spoken to Tasneem maam regards the project diary sign dates.
+
+Have informed her that the batchs under me have been  reviewed wrt project progress multiple times.
+25/12/2025, 12:53 - Brown Jesus: Assalamualaikum
+What is the plan of implementation?
+And
+What is the work distribution? <This message was edited>
+25/12/2025, 12:53 - Brown Jesus: considering our laptops and existing knowledge on the project <This message was edited>
+25/12/2025, 12:55 - Brown Jesus: Depending on the implementation and it's results I can complete the review paper.
+26/12/2025, 10:24 - Brown Jesus: 🗿 mai ich banatu
+26/12/2025, 10:24 - Abrar...: Good boy
+26/12/2025, 10:24 - Brown Jesus: Thull
+26/12/2025, 11:57 - Abrar...: ukw
+apan
+28th ke din
+Sunday bhetke sochinge iske baare mei
+26/12/2025, 12:07 - Abdullah Class: Inshallah
+17/03/2026, 17:40 - Abrar...: Waiting for this message
+17/03/2026, 17:40 - Abrar...: Waiting for this message
+17/03/2026, 17:40 - Abrar...: Waiting for this message
+17/03/2026, 19:27 - Abrar...: Waiting for this message
+17/03/2026, 19:27 - Abrar...: Waiting for this message
+17/03/2026, 19:27 - Abrar...: Waiting for this message
+17/03/2026, 19:27 - Abrar...: Waiting for this message
+17/03/2026, 20:03 - Abrar...: Waiting for this message
+17/03/2026, 20:05 - Abrar...: Waiting for this message
+17/03/2026, 15:15 - Brown Jesus: Waiting for this message
+17/03/2026, 15:15 - Brown Jesus: I got the paper hunter guys
+17/03/2026, 15:18 - Abdullah Class: Waiting for this message
+17/03/2026, 15:19 - Brown Jesus: Waiting for this message
+18/03/2026, 01:52 - Abrar...: Waiting for this message
+18/03/2026, 01:53 - Abrar...: Waiting for this message
+17/03/2026, 17:15 - Brown Jesus: Waiting for this message
+17/03/2026, 17:15 - Brown Jesus: Waiting for this message
+17/03/2026, 17:16 - Brown Jesus: Waiting for this message
+17/03/2026, 17:18 - Brown Jesus: Waiting for this message
+17/03/2026, 17:18 - Brown Jesus: Waiting for this message
+17/03/2026, 17:19 - Brown Jesus: Waiting for this message
+17/03/2026, 17:19 - Brown Jesus: Waiting for this message
+17/03/2026, 17:19 - Brown Jesus: Waiting for this message
+17/03/2026, 17:40 - Abdullah Class: Waiting for this message
+17/03/2026, 19:24 - Brown Jesus: Waiting for this message
+17/03/2026, 19:24 - Brown Jesus: Waiting for this message
+17/03/2026, 19:24 - Brown Jesus: Waiting for this message
+17/03/2026, 19:24 - Brown Jesus: Waiting for this message
+17/03/2026, 19:27 - Brown Jesus: Waiting for this message
+17/03/2026, 19:27 - Brown Jesus: Waiting for this message
+17/03/2026, 19:28 - Abdullah Class: Waiting for this message
+17/03/2026, 19:28 - Brown Jesus: Waiting for this message
+17/03/2026, 19:28 - Abdullah Class: Waiting for this message
+17/03/2026, 19:28 - Brown Jesus: Waiting for this message
+17/03/2026, 19:28 - Brown Jesus: Waiting for this message
+19/03/2026, 14:25 - Abrar...: Waiting for this message
+19/03/2026, 14:25 - Abrar...: Waiting for this message
+19/03/2026, 14:25 - Abrar...: Waiting for this message
+19/03/2026, 19:15 - Abrar...: Waiting for this message
+18/03/2026, 01:52 - Brown Jesus: Waiting for this message
+18/03/2026, 01:53 - Brown Jesus: Waiting for this message
+18/03/2026, 01:53 - Brown Jesus: Waiting for this message
+18/03/2026, 01:53 - Brown Jesus: Waiting for this message
+18/03/2026, 01:54 - Brown Jesus: Waiting for this message
+18/03/2026, 01:54 - Brown Jesus: Waiting for this message
+19/03/2026, 19:49 - Brown Jesus: Waiting for this message
+19/03/2026, 20:32 - Abdullah Class: No
+20/03/2026, 04:17 - Abrar...: mei phone calls ka nahi karro
+20/03/2026, 12:53 - Brown Jesus: <Media omitted>
