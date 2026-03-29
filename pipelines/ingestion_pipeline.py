@@ -156,5 +156,77 @@ def run_ingestion():
             connection.close()
 
 
+def run_ingestion_for_items(
+    normalized_inputs: list,
+    source_type: str
+) -> tuple[int, int, int]:
+    """
+    Run ingestion for a pre-fetched list of NormalizedInput objects.
+    Used by the HTTP receiver for push-based connectors.
+
+    Returns:
+        tuple: (inserted_count, duplicate_count, error_count)
+    """
+    preprocessor = Preprocessor()
+    connection = None
+    cursor = None
+    inserted = 0
+    duplicates = 0
+    errors = 0
+
+    try:
+        connection = get_connection()
+        cursor = connection.cursor()
+
+        for normalized_input in normalized_inputs:
+            try:
+                processed_data = preprocessor.process(normalized_input)
+                source_id = SOURCE_ID_MAP.get(source_type)
+                metadata_json = json.dumps(processed_data["metadata"])
+                participants_json = json.dumps(processed_data["participants"])
+
+                cursor.execute("""
+                    INSERT INTO memory_chunks (
+                        user_id, source_id, external_message_id,
+                        timestamp, participants, content_type,
+                        raw_content, initial_salience, metadata
+                    ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+                """, (
+                    USER_ID,
+                    source_id,
+                    processed_data["external_message_id"],
+                    processed_data["timestamp"],
+                    participants_json,
+                    processed_data["content_type"],
+                    processed_data["raw_content"],
+                    processed_data["initial_salience"],
+                    metadata_json
+                ))
+                connection.commit()
+                inserted += 1
+
+            except psycopg2_errors.UniqueViolation:
+                duplicates += 1
+                connection.rollback()
+
+            except Exception as e:
+                errors += 1
+                connection.rollback()
+                print(f"[Pipeline] Error inserting item: {e}")
+
+    except Exception as e:
+        print(f"[Pipeline] Fatal error: {e}")
+        if connection:
+            connection.rollback()
+
+    finally:
+        if cursor:
+            cursor.close()
+        if connection:
+            connection.close()
+
+    return inserted, duplicates, errors
+
+
 if __name__ == "__main__":
     run_ingestion()
