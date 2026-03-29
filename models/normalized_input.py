@@ -6,6 +6,7 @@ Universal data contract for all connectors.
 from datetime import datetime
 from typing import Literal
 from pydantic import BaseModel, field_validator
+from app.services.media_service import MediaObject
 
 
 class NormalizedInput(BaseModel):
@@ -18,15 +19,16 @@ class NormalizedInput(BaseModel):
     external_message_id: str
     timestamp: datetime
     participants: list[str]
-    content_type: Literal["text", "transcript", "email", "document"]
+    content_type: Literal["text", "transcript", "email", "document", "audio", "image"]
     raw_content: str
     metadata: dict = {}
+    media: list[MediaObject] | None = None
     
     @field_validator("content_type")
     @classmethod
     def validate_content_type(cls, v):
         """Validate content_type is one of the allowed values."""
-        allowed = {"text", "transcript", "email", "document"}
+        allowed = {"text", "transcript", "email", "document", "audio", "image"}
         if v not in allowed:
             raise ValueError(f"content_type must be one of {allowed}")
         return v

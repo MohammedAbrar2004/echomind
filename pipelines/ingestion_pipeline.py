@@ -13,14 +13,19 @@ import psycopg2
 from psycopg2 import errors as psycopg2_errors
 import json
 
-from app.connectors.whatsapp_connector import WhatsAppConnector
-from app.connectors.gmail_connector import GmailConnector
-from app.connectors.gmeet_connector import GMeetConnector
-from app.connectors.calendar_connector import CalendarConnector
-from app.connectors.manual_connector import ManualConnector
-from app.connectors.phone_connector import PhoneConnector
+from app.connectors.whatsapp.whatsapp_connector import WhatsAppConnector
+try:
+    from app.connectors.gmail.gmail_connector import GmailConnector
+except ImportError:
+    # Gmail requires Google API client - skip if not installed
+    GmailConnector = None
+from app.connectors.gmeet.gmeet_connector import GMeetConnector
+from app.connectors.calendar.calendar_connector import CalendarConnector
+from app.connectors.manual.manual_connector import ManualConnector
+from app.connectors.phone.phone_connector import PhoneConnector
 from app.preprocessing.preprocessor import Preprocessor
 from app.db.connection import get_connection
+from app.db.repository import insert_memory_chunk, insert_media_file
 
 
 # Mapping of source_type to source_id
@@ -43,12 +48,14 @@ def run_ingestion():
     """
     connectors = [
         WhatsAppConnector(),
-        GmailConnector(),
+        GmailConnector() if GmailConnector else None,
         GMeetConnector(),
         CalendarConnector(),
         ManualConnector(),
         PhoneConnector()
     ]
+    # Filter out None connectors (e.g., Gmail if dependencies not installed)
+    connectors = [c for c in connectors if c is not None]
     
     preprocessor = Preprocessor()
     connection = None
@@ -84,41 +91,27 @@ def run_ingestion():
                         # Get source_id from mapping
                         source_id = SOURCE_ID_MAP.get(processed_data["source_type"])
                         
-                        # Prepare metadata as JSON string
-                        metadata_json = json.dumps(processed_data["metadata"])
+                        # Insert into database via repository
+                        chunk_id = insert_memory_chunk(cursor, {
+                            "user_id": USER_ID,
+                            "source_id": source_id,
+                            "external_message_id": processed_data["external_message_id"],
+                            "timestamp": processed_data["timestamp"],
+                            "participants": processed_data["participants"],
+                            "content_type": processed_data["content_type"],
+                            "raw_content": processed_data["raw_content"],
+                            "initial_salience": processed_data["initial_salience"],
+                            "metadata": processed_data["metadata"]
+                        })
                         
-                        # Prepare participants as JSON string
-                        participants_json = json.dumps(processed_data["participants"])
-                        
-                        # Insert into database
-                        insert_query = """
-                            INSERT INTO memory_chunks (
-                                user_id,
-                                source_id,
-                                external_message_id,
-                                timestamp,
-                                participants,
-                                content_type,
-                                raw_content,
-                                initial_salience,
-                                metadata
-                            ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
-                        """
-                        
-                        cursor.execute(insert_query, (
-                            USER_ID,
-                            source_id,
-                            processed_data["external_message_id"],
-                            processed_data["timestamp"],
-                            participants_json,
-                            processed_data["content_type"],
-                            processed_data["raw_content"],
-                            processed_data["initial_salience"],
-                            metadata_json
-                        ))
-                        
-                        # Commit immediately after each successful insert
+                        # Commit after memory_chunk insert
                         connection.commit()
+                        
+                        # Handle media if present
+                        if normalized_input.media:
+                            for media_obj in normalized_input.media:
+                                insert_media_file(cursor, chunk_id, media_obj, processed_data["source_type"])
+                            connection.commit()
                         
                         inserted_count += 1
                         print(f"  [+] Inserted: {processed_data['external_message_id']}")
@@ -182,27 +175,27 @@ def run_ingestion_for_items(
             try:
                 processed_data = preprocessor.process(normalized_input)
                 source_id = SOURCE_ID_MAP.get(source_type)
-                metadata_json = json.dumps(processed_data["metadata"])
-                participants_json = json.dumps(processed_data["participants"])
 
-                cursor.execute("""
-                    INSERT INTO memory_chunks (
-                        user_id, source_id, external_message_id,
-                        timestamp, participants, content_type,
-                        raw_content, initial_salience, metadata
-                    ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
-                """, (
-                    USER_ID,
-                    source_id,
-                    processed_data["external_message_id"],
-                    processed_data["timestamp"],
-                    participants_json,
-                    processed_data["content_type"],
-                    processed_data["raw_content"],
-                    processed_data["initial_salience"],
-                    metadata_json
-                ))
+                # Insert memory_chunk via repository
+                chunk_id = insert_memory_chunk(cursor, {
+                    "user_id": USER_ID,
+                    "source_id": source_id,
+                    "external_message_id": processed_data["external_message_id"],
+                    "timestamp": processed_data["timestamp"],
+                    "participants": processed_data["participants"],
+                    "content_type": processed_data["content_type"],
+                    "raw_content": processed_data["raw_content"],
+                    "initial_salience": processed_data["initial_salience"],
+                    "metadata": processed_data["metadata"]
+                })
                 connection.commit()
+
+                # Handle media if present
+                if normalized_input.media:
+                    for media_obj in normalized_input.media:
+                        insert_media_file(cursor, chunk_id, media_obj, source_type)
+                    connection.commit()
+
                 inserted += 1
 
             except psycopg2_errors.UniqueViolation:

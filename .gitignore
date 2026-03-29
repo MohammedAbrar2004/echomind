@@ -26,6 +26,10 @@ coverage.xml
 .env.local
 .env.*.local
 
+# Gmail OAuth credentials (never commit)
+app/connectors/gmail/credentials.json
+app/connectors/gmail/token.json
+
 # Database files
 db.txt
 *.db
@@ -75,3 +79,6 @@ Thumbs.db
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+app/connectors/gmail/credentials.json
+app/connectors/gmail/token.json

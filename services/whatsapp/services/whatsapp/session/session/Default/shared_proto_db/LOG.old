@@ -1,2 +1,3 @@
-2026/03/28-21:15:56.636 9554 Creating DB C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\shared_proto_db since it was missing.
-2026/03/28-21:15:56.643 9554 Reusing MANIFEST C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\shared_proto_db/MANIFEST-000001
+2026/03/30-01:25:01.799 6298 Reusing MANIFEST C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\shared_proto_db/MANIFEST-000001
+2026/03/30-01:25:01.799 6298 Recovering log #3
+2026/03/30-01:25:01.799 6298 Reusing old log C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\shared_proto_db/000003.log 

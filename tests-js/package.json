@@ -1,0 +1,29 @@
+{
+  "name": "echomind-tests",
+  "version": "1.0.0",
+  "description": "Performance and integration tests for EchoMind JavaScript services",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:perf": "jest --testPathPattern=perf",
+    "test:whatsapp": "jest whatsapp.perf.test.js",
+    "test:sender": "jest sender.perf.test.js",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "benchmark": "^2.1.4"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverageFrom": [
+      "**/*.js",
+      "!node_modules/**",
+      "!coverage/**"
+    ],
+    "testMatch": [
+      "**/*.test.js",
+      "**/*.spec.js",
+      "**/*.perf.test.js"
+    ]
+  }
+}

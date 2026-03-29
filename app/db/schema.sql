@@ -5,7 +5,7 @@ CREATE EXTENSION IF NOT EXISTS vector;
 --------------------------------------------------
 -- USERS
 --------------------------------------------------
-CREATE TABLE users (
+CREATE TABLE IF NOT EXISTS users (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     name TEXT NOT NULL,
     email TEXT UNIQUE,
@@ -17,7 +17,7 @@ CREATE TABLE users (
 --------------------------------------------------
 -- USER PROFILE
 --------------------------------------------------
-CREATE TABLE user_profile (
+CREATE TABLE IF NOT EXISTS user_profile (
     user_id UUID PRIMARY KEY
         REFERENCES users(id) ON DELETE CASCADE,
     profession TEXT,
@@ -31,12 +31,12 @@ CREATE TABLE user_profile (
 --------------------------------------------------
 -- DATA SOURCES
 --------------------------------------------------
-CREATE TABLE data_sources (
+CREATE TABLE IF NOT EXISTS data_sources (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     name TEXT NOT NULL UNIQUE,
     is_active BOOLEAN NOT NULL DEFAULT TRUE,
     ingestion_mode TEXT NOT NULL
-        CHECK (ingestion_mode IN ('scheduled','manual')),
+        CHECK (ingestion_mode IN ('scheduled','manual','push')),
     last_synced_at TIMESTAMPTZ,
     created_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
     updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
@@ -45,7 +45,7 @@ CREATE TABLE data_sources (
 --------------------------------------------------
 -- USER INTEGRATIONS
 --------------------------------------------------
-CREATE TABLE user_integrations (
+CREATE TABLE IF NOT EXISTS user_integrations (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     user_id UUID NOT NULL
         REFERENCES users(id) ON DELETE CASCADE,
@@ -60,7 +60,7 @@ CREATE TABLE user_integrations (
 --------------------------------------------------
 -- SESSIONS
 --------------------------------------------------
-CREATE TABLE sessions (
+CREATE TABLE IF NOT EXISTS sessions (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     user_id UUID NOT NULL
         REFERENCES users(id) ON DELETE RESTRICT,
@@ -73,7 +73,7 @@ CREATE TABLE sessions (
 --------------------------------------------------
 -- MEMORY CHUNKS
 --------------------------------------------------
-CREATE TABLE memory_chunks (
+CREATE TABLE IF NOT EXISTS memory_chunks (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     user_id UUID NOT NULL
         REFERENCES users(id) ON DELETE RESTRICT,
@@ -85,7 +85,7 @@ CREATE TABLE memory_chunks (
     timestamp TIMESTAMPTZ NOT NULL,
     participants JSONB,
     content_type TEXT NOT NULL
-        CHECK (content_type IN ('text','transcript','email','document')),
+        CHECK (content_type IN ('text','transcript','email','document','audio','image')),
     raw_content TEXT NOT NULL,
     embedding VECTOR(1536),
     initial_salience FLOAT NOT NULL DEFAULT 0,
@@ -100,7 +100,7 @@ CREATE TABLE memory_chunks (
 --------------------------------------------------
 -- INGESTION RUNS
 --------------------------------------------------
-CREATE TABLE ingestion_runs (
+CREATE TABLE IF NOT EXISTS ingestion_runs (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     source_id UUID NOT NULL
         REFERENCES data_sources(id) ON DELETE RESTRICT,
@@ -116,7 +116,7 @@ CREATE TABLE ingestion_runs (
 --------------------------------------------------
 -- PROCESSING QUEUE
 --------------------------------------------------
-CREATE TABLE processing_queue (
+CREATE TABLE IF NOT EXISTS processing_queue (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     memory_chunk_id UUID NOT NULL
         REFERENCES memory_chunks(id) ON DELETE CASCADE,
@@ -130,9 +130,28 @@ CREATE TABLE processing_queue (
 );
 
 --------------------------------------------------
+-- MEDIA FILES
+--------------------------------------------------
+CREATE TABLE IF NOT EXISTS media_files (
+    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    memory_chunk_id UUID NOT NULL
+        REFERENCES memory_chunks(id) ON DELETE CASCADE,
+    original_filename TEXT,
+    media_type TEXT NOT NULL
+        CHECK (media_type IN ('image','audio','document','video')),
+    mime_type TEXT,
+    local_path TEXT NOT NULL,
+    size_bytes BIGINT,
+    is_processed BOOLEAN NOT NULL DEFAULT FALSE,
+    extracted_content TEXT,
+    metadata JSONB,
+    created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+);
+
+--------------------------------------------------
 -- SYSTEM LOGS
 --------------------------------------------------
-CREATE TABLE system_logs (
+CREATE TABLE IF NOT EXISTS system_logs (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     level TEXT NOT NULL
         CHECK (level IN ('info','warning','error','critical')),
@@ -145,7 +164,7 @@ CREATE TABLE system_logs (
 --------------------------------------------------
 -- FAILED JOBS
 --------------------------------------------------
-CREATE TABLE failed_jobs (
+CREATE TABLE IF NOT EXISTS failed_jobs (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     job_type TEXT NOT NULL
         CHECK (job_type IN ('ingestion','semantic_processing','retrieval','action')),
@@ -158,7 +177,7 @@ CREATE TABLE failed_jobs (
 --------------------------------------------------
 -- SCHEDULER STATE
 --------------------------------------------------
-CREATE TABLE scheduler_state (
+CREATE TABLE IF NOT EXISTS scheduler_state (
     id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
     source_id UUID
         REFERENCES data_sources(id) ON DELETE SET NULL,

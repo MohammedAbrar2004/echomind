@@ -13,7 +13,7 @@ from pydantic import BaseModel
 from typing import List
 import logging
 
-from app.connectors.whatsapp_connector import WhatsAppConnector
+from app.connectors.whatsapp.whatsapp_connector import WhatsAppConnector
 from pipelines.ingestion_pipeline import run_ingestion_for_items
 
 logging.basicConfig(level=logging.INFO)

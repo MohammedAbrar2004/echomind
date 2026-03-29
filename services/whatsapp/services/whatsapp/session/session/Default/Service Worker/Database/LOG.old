@@ -1,2 +1,3 @@
-2026/03/28-21:15:58.192 8ee8 Creating DB C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Service Worker\Database since it was missing.
-2026/03/28-21:15:58.195 8ee8 Reusing MANIFEST C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Service Worker\Database/MANIFEST-000001
+2026/03/30-01:25:01.727 3e84 Reusing MANIFEST C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Service Worker\Database/MANIFEST-000001
+2026/03/30-01:25:01.728 3e84 Recovering log #3
+2026/03/30-01:25:01.728 3e84 Reusing old log C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Service Worker\Database/000003.log 

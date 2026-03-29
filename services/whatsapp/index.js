@@ -1,10 +1,33 @@
 const { Client, LocalAuth } = require("whatsapp-web.js");
 const qrcode = require("qrcode-terminal");
+const fs = require("fs");
 const { targetChats, pollIntervalMinutes, sessionPath } = require("./config");
 const { sendMessages } = require("./sender");
 
-// Tracks last fetch timestamp per chat
-const lastFetchTime = {};
+// State persistence
+const STATE_FILE = "./whatsapp_state.json";
+
+function loadState() {
+  try {
+    if (fs.existsSync(STATE_FILE)) {
+      return JSON.parse(fs.readFileSync(STATE_FILE, "utf8"));
+    }
+  } catch (e) {
+    console.warn("[WhatsApp] Could not load state file, starting fresh.");
+  }
+  return {};
+}
+
+function saveState(state) {
+  try {
+    fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2), "utf8");
+  } catch (e) {
+    console.error("[WhatsApp] Could not save state file:", e.message);
+  }
+}
+
+// Tracks last fetch timestamp per chat — persisted across restarts
+const lastFetchTime = loadState();
 
 // Initialize WhatsApp client with persistent local session
 const client = new Client({
@@ -82,6 +105,7 @@ async function fetchAndSend() {
 
         const latest = Math.max(...newMessages.map((m) => m.timestamp * 1000));
         lastFetchTime[chat.name] = latest;
+        saveState(lastFetchTime);
 
         console.log(`[WhatsApp] Sent ${newMessages.length} messages from: ${chat.name}`);
       } catch (chatErr) {
@@ -95,3 +119,4 @@ async function fetchAndSend() {
 
 console.log("[WhatsApp] Initializing client...");
 client.initialize();
+
