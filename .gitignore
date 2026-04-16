@@ -44,9 +44,11 @@ yarn-error.log*
 package-lock.json
 yarn.lock
 
-# Data
+# Data and generated files
 data/whatsapp/
 data/whatsapp_state.json
+services/whatsapp/whatsapp_state.json
+media/
 
 # Logs
 logs/
@@ -82,6 +84,3 @@ dmypy.json
 
 **/token.json
 **/credentials.json
-
-app/connectors/gmail/credentials.json
-app/connectors/gmail/token.json
