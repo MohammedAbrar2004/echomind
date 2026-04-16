@@ -25,7 +25,7 @@ except ImportError:
 from app.connectors.gmeet.gmeet_connector import GMeetConnector
 from app.connectors.calendar.calendar_connector import CalendarConnector
 from app.connectors.manual.manual_connector import ManualConnector
-from app.connectors.phone.phone_connector import PhoneConnector
+
 from app.preprocessing.preprocessor import Preprocessor
 from app.db.connection import get_connection
 from app.db.repository import insert_memory_chunk, insert_media_file

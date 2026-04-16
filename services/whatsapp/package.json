@@ -1,15 +1,17 @@
 {
   "name": "echomind-whatsapp-service",
-  "version": "1.0.0",
-  "description": "WhatsApp microservice for EchoMind",
+  "version": "2.0.0",
+  "description": "WhatsApp microservice for EchoMind (Baileys-based)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
     "axios": "^1.6.0",
     "dotenv": "^16.0.0",
-    "qrcode-terminal": "^0.12.0",
-    "whatsapp-web.js": "^1.35.0"
+    "pino": "^8.21.0",
+    "pino-pretty": "^10.3.0",
+    "qrcode-terminal": "^0.12.0"
   }
 }

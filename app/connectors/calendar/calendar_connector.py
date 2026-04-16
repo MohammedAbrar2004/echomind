@@ -6,7 +6,7 @@ Extracts event details, normalizes to NormalizedInput format.
 
 import pickle
 import logging
-from datetime import datetime, timedeltaq
+from datetime import datetime, timedelta
 from pathlib import Path
 
 from google.auth.transport.requests import Request

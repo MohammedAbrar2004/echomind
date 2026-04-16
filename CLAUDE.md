@@ -148,14 +148,16 @@ DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=echomind
 DB_USER=postgres
-DB_PASSWORD=postgres123
+DB_PASSWORD=your_db_password_here
 
 RECEIVER_HOST=127.0.0.1
 RECEIVER_PORT=8000
 
-WHATSAPP_TARGET_CHATS=["Contact Name"]
+# JID format: "919XXXXXXXXXX@s.whatsapp.net" (individual) or "120363XXXXXX@g.us" (group)
+# Use [] to accept all chats (useful on first run to discover JIDs)
+WHATSAPP_TARGET_CHATS=[]
 WHATSAPP_POLL_INTERVAL_MINUTES=30
-WHATSAPP_SESSION_PATH=./services/whatsapp/session
+WHATSAPP_SESSION_PATH=./session   # relative to services/whatsapp/
 
 SCHEDULER_INTERVAL_MINUTES=30
 
@@ -163,6 +165,8 @@ OPENAI_API_KEY=your_key
 GOOGLE_API_KEY=your_key
 GMAIL_API_KEY=your_key
 ```
+
+See `.env.example` at the project root for a full template.
 
 ---
 
@@ -176,10 +180,10 @@ GMAIL_API_KEY=your_key
 - `ingestion_pipeline.py` + `repository.py` for DB writes
 - `preprocessor.py` — text cleaning and salience scoring
 - Connector folder structure organized by source
+- `WhatsAppConnector` — Baileys-based, real-time ingestion via `messages.upsert`, media download, JID-based chat filtering, QR auth with session persistence
 
 ### In Progress
-- WhatsApp connector — migrating from `whatsapp-web.js` to Baileys (browser automation was unstable)
-- WhatsApp media handling (voice notes, PDFs, Word docs)
+- WhatsApp media handling (voice notes, PDFs, Word docs) — download works, Python-side extraction pending
 
 ### Not Yet Built
 - Semantic extraction (Layer 3), vector embeddings, retrieval engine (Layer 4), response/agent layer (Layer 5)
@@ -193,7 +197,7 @@ GMAIL_API_KEY=your_key
 - **Build → Test → Stabilize → Proceed.** No layer starts until the previous one is stable.
 - **All DB writes go through `repository.py`** — never raw SQL in connectors or pipeline.
 - **All media saves go through `MediaService`** — never write files directly from connectors.
-- **Do not suggest `whatsapp-web.js` fixes** — the project is migrating to Baileys.
+- **Do not suggest `whatsapp-web.js` fixes** — the project uses Baileys exclusively.
 - **Gmail HTML stripping needs improvement** — the current implementation is incomplete.
-- **Preserve what works** — WhatsApp text ingestion and Gmail ingestion are confirmed stable.
+- **Preserve what works** — WhatsApp text ingestion (Baileys) and Gmail ingestion are confirmed stable.
 - No premature abstraction — implement only what's needed for the current phase.
