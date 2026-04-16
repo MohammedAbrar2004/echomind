@@ -1,3 +1,2 @@
-2026/03/30-01:40:39.399 9db0 Reusing MANIFEST C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Session Storage/MANIFEST-000001
-2026/03/30-01:40:39.402 9db0 Recovering log #3
-2026/03/30-01:40:39.406 9db0 Reusing old log C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Session Storage/000003.log 
+2026/04/16-12:06:35.977 5fb0 Creating DB C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Session Storage since it was missing.
+2026/04/16-12:06:35.989 5fb0 Reusing MANIFEST C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Session Storage/MANIFEST-000001

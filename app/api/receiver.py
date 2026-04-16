@@ -28,6 +28,10 @@ class WhatsAppMessage(BaseModel):
     sender: str
     message: str
     is_group: bool
+    has_media: bool = False
+    media_data: str | None = None        # base64 string
+    media_mime_type: str | None = None
+    media_filename: str | None = None
 
 class WhatsAppPayload(BaseModel):
     messages: List[WhatsAppMessage]

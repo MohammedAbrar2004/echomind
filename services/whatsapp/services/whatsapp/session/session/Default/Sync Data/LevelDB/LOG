@@ -1,3 +1,2 @@
-2026/03/30-01:40:38.783 bd94 Reusing MANIFEST C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Sync Data\LevelDB/MANIFEST-000001
-2026/03/30-01:40:38.784 bd94 Recovering log #3
-2026/03/30-01:40:38.784 bd94 Reusing old log C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Sync Data\LevelDB/000003.log 
+2026/04/16-12:06:35.852 6e0 Creating DB C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Sync Data\LevelDB since it was missing.
+2026/04/16-12:06:35.859 6e0 Reusing MANIFEST C:\Users\abrar\Desktop\echomind\services\whatsapp\services\whatsapp\session\session\Default\Sync Data\LevelDB/MANIFEST-000001

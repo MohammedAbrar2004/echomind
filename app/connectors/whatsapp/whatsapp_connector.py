@@ -4,12 +4,14 @@ Primary mode  : accepts pushed messages from Node.js microservice.
 Fallback mode : reads from .txt export files (manual backfill).
 """
 
+import base64
 import os
 import json
 import hashlib
 from datetime import datetime
 from pathlib import Path
 from app.connectors.base_connector import BaseConnector
+from app.services.media_service import MediaService
 from models.normalized_input import NormalizedInput
 
 
@@ -17,6 +19,9 @@ class WhatsAppConnector(BaseConnector):
 
     WHATSAPP_FOLDER = "data/whatsapp"
     STATE_FILE = "data/whatsapp_state.json"
+
+    def __init__(self):
+        self.media_service = MediaService()
 
     def _generate_message_id(self, timestamp: str, sender: str, message: str) -> str:
         raw = f"{timestamp}_{sender}_{message}"
@@ -37,18 +42,48 @@ class WhatsAppConnector(BaseConnector):
                     msg.get("message", "")
                 )
 
+                # Handle media if present
+                media_objects = None
+                metadata = {
+                    "origin": "whatsapp_push",
+                    "chat_name": msg.get("chat_name"),
+                    "is_group": msg.get("is_group", False)
+                }
+
+                if msg.get("has_media") and msg.get("media_data") and msg.get("media_mime_type"):
+                    try:
+                        raw_bytes = base64.b64decode(msg["media_data"])
+                        media_obj = self.media_service.save(
+                            raw_bytes=raw_bytes,
+                            original_filename=msg.get("media_filename") or f"whatsapp_{external_id}",
+                            mime_type=msg["media_mime_type"],
+                            source_type="whatsapp",
+                            captured_at=timestamp
+                        )
+                        media_objects = [media_obj]
+                        metadata["media_filename"] = msg.get("media_filename")
+                        metadata["media_mime_type"] = msg["media_mime_type"]
+                    except Exception as e:
+                        print(f"[WhatsAppConnector] Failed to save media: {e}")
+
+                # Determine content type
+                mime = msg.get("media_mime_type", "")
+                if mime.startswith("audio/"):
+                    content_type = "audio"
+                elif msg.get("has_media"):
+                    content_type = "document"
+                else:
+                    content_type = "text"
+
                 normalized.append(NormalizedInput(
                     source_type="whatsapp",
                     external_message_id=external_id,
                     timestamp=timestamp,
                     participants=[(msg.get("sender") or "unknown").lower()],
-                    content_type="text",
+                    content_type=content_type,
                     raw_content=msg.get("message", ""),
-                    metadata={
-                        "origin": "whatsapp_push",
-                        "chat_name": msg.get("chat_name"),
-                        "is_group": msg.get("is_group", False)
-                    }
+                    metadata=metadata,
+                    media=media_objects
                 ))
 
             except Exception as e:
